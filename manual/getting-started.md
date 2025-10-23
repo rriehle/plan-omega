@@ -6,7 +6,7 @@ Your comprehensive maritime family survival manual structure is now complete! He
 
 ### Complete Structure (22 Chapters + Appendices + Templates)
 
-**Main Entry Point:** [`manual/README.md`](manual/README.md)
+**Main Entry Point:** [`README.md`](README.md)
 
 ---
 
@@ -194,22 +194,22 @@ I can help you expand any of the framework chapters to the same level of detail 
 
 ## Key Files to Know
 
-**Main navigation:** `manual/README.md`
+**Main navigation:** `README.md`
 
-**Best starting point:** `manual/part-1-foundation/01-psychology-mindset.md`
+**Best starting point:** `part-1-foundation/01-psychology-mindset.md`
 
-**Most complete example:** `manual/part-2-core-systems/05-water-systems.md`
+**Most complete example:** `part-2-core-systems/05-water-systems.md`
 
-**Essential template:** `manual/templates/pace-planning-template.md`
+**Essential template:** `templates/pace-planning-template.md`
 
 **Part overviews:**
-- `manual/part-1-foundation/README.md`
-- `manual/part-2-core-systems/README.md`
-- `manual/part-3-knowledge-skills/README.md`
-- `manual/part-4-scenarios/README.md`
-- `manual/part-5-protocols/README.md`
-- `manual/appendices/README.md`
-- `manual/templates/README.md`
+- `part-1-foundation/README.md`
+- `part-2-core-systems/README.md`
+- `part-3-knowledge-skills/README.md`
+- `part-4-scenarios/README.md`
+- `part-5-protocols/README.md`
+- `appendices/README.md`
+- `templates/README.md`
 
 ---
 
@@ -256,6 +256,6 @@ The manual is designed to be self-explanatory, but if you need clarification or 
 
 ---
 
-[→ Start Reading: Main Manual](manual/README.md)
+[→ Start Reading: Main Manual](README.md)
 
-[→ Part I: Foundation & Strategy](manual/part-1-foundation/README.md)
+[→ Part I: Foundation & Strategy](part-1-foundation/README.md)

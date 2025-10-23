@@ -1,0 +1,195 @@
+site_name: Plan Omega
+site_description: Family Maritime Survival Manual - Comprehensive guidance for autonomous living aboard a sailing vessel
+site_author: Plan Omega Contributors
+site_url: https://rriehle.github.io/plan-omega/
+
+# Repository
+repo_name: plan-omega
+repo_url: https://github.com/rriehle/plan-omega
+edit_uri: edit/main/manual/
+
+# Copyright
+copyright: Copyright &copy; 2025 Plan Omega Contributors - Licensed under CC BY-SA 4.0
+
+# Configuration
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  features:
+    - navigation.instant        # Fast page loading
+    - navigation.tracking       # URL updates with scroll
+    - navigation.tabs           # Top-level sections as tabs
+    - navigation.tabs.sticky    # Keep tabs visible when scrolling
+    - navigation.sections       # Group sections in sidebar
+    - navigation.expand         # Expand all sections by default
+    - navigation.path           # Show breadcrumbs
+    - navigation.top            # Back to top button
+    - navigation.footer         # Previous/next page footer
+    - search.suggest            # Search suggestions
+    - search.highlight          # Highlight search terms
+    - search.share              # Share search results
+    - toc.follow                # Sidebar follows scroll
+    - content.code.copy         # Copy button for code blocks
+    - content.action.edit       # Edit button on pages
+    - content.action.view       # View source button
+
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - offline  # For offline documentation
+
+# Extensions
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Extra settings
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rriehle/plan-omega
+
+  version:
+    provider: mike
+
+  # Custom variables
+  status:
+    draft: ⚠️ DRAFT
+    in_progress: 🔄 IN PROGRESS
+    complete: ✅ COMPLETE
+
+# Page tree / Navigation
+nav:
+  - Home: README.md
+  - Getting Started: getting-started.md
+
+  - Foundation & Strategy:
+    - Overview: part-1-foundation/README.md
+    - Psychology & Mindset: part-1-foundation/01-psychology-mindset.md
+    - Threat Assessment & Triggers: part-1-foundation/02-threat-assessment-triggers.md
+    - Strategic Planning (P.A.C.E.): part-1-foundation/03-strategic-planning.md
+    - Destination Analysis: part-1-foundation/04-destinations-analysis.md
+
+  - Core Survival Systems:
+    - Overview: part-2-core-systems/README.md
+    - Water Systems: part-2-core-systems/05-water-systems.md
+    - Food Systems: part-2-core-systems/06-food-systems.md
+    - Shelter & Vessel Maintenance: part-2-core-systems/07-shelter-vessel.md
+    - Energy & Power: part-2-core-systems/08-energy-power.md
+    - Medical & Healthcare: part-2-core-systems/09-medical-healthcare.md
+    - Defense & Security: part-2-core-systems/10-defense-security.md
+
+  - Knowledge & Skills:
+    - Overview: part-3-knowledge-skills/README.md
+    - Education for Children: part-3-knowledge-skills/11-education-children.md
+    - Navigation & Seamanship: part-3-knowledge-skills/12-navigation-seamanship.md
+    - Communication Systems: part-3-knowledge-skills/13-communication.md
+    - Tools & Equipment: part-3-knowledge-skills/14-tools-equipment.md
+    - Local Integration & Community: part-3-knowledge-skills/15-local-integration.md
+
+  - Scenario-Specific Responses:
+    - Overview: part-4-scenarios/README.md
+    - Economic Collapse: part-4-scenarios/16-economic-collapse.md
+    - Civil Unrest: part-4-scenarios/17-civil-unrest.md
+    - Climate Collapse: part-4-scenarios/18-climate-collapse.md
+    - War: part-4-scenarios/19-war.md
+
+  - Operational Protocols:
+    - Overview: part-5-protocols/README.md
+    - Trigger-Action Matrix: part-5-protocols/20-trigger-action-matrix.md
+    - Drills & Training: part-5-protocols/21-drills-training.md
+    - Continuous Improvement: part-5-protocols/22-continuous-improvement.md
+
+  - Reference:
+    - Appendices:
+      - Overview: appendices/README.md
+      - A. Equipment Checklists: appendices/A-equipment-checklists.md
+      - B. Reference Tables: appendices/B-reference-tables.md
+      - C. Resource Lists: appendices/C-resource-lists.md
+      - D. Document Templates: appendices/D-document-templates.md
+      - E. Quick Reference: appendices/E-quick-reference.md
+
+    - Templates:
+      - Overview: templates/README.md
+      - P.A.C.E. Planning: templates/pace-planning-template.md
+      - System Audit Checklist: templates/system-audit-checklist.md
+      - Drill Report: templates/drill-report-template.md
+      - Inventory Tracking: templates/inventory-tracking.md
+      - Destination Dossier: templates/destination-dossier-template.md
+      - Family Emergency Plan: templates/family-emergency-plan-template.md
+      - Passage Planning: templates/passage-planning-template.md
+      - Threat Assessment Worksheet: templates/threat-assessment-worksheet.md
+
+# Custom CSS (optional)
+# extra_css:
+#   - stylesheets/extra.css
+
+# Custom JavaScript (optional)
+# extra_javascript:
+#   - javascripts/extra.js
+
+# Documentation directory
+docs_dir: manual
+site_dir: site
