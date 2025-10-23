@@ -1,4 +1,4 @@
-# Plan Omega: Family Maritime Survival Manual
+# Plan Ω: Family Maritime Survival Manual
 
 A comprehensive guide for a family of four living aboard a sailing vessel to prepare for and survive various civilization collapse scenarios.
 

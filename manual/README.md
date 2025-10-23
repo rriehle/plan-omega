@@ -1,4 +1,4 @@
-# Plan Omega: Family Maritime Survival Manual
+# Plan Ω: Family Maritime Survival Manual
 
 ## Purpose
 

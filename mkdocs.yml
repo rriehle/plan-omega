@@ -1,5 +1,5 @@
-site_name: Plan Omega
-site_description: Family Maritime Survival Manual - Comprehensive guidance for autonomous living aboard a sailing vessel
+site_name: Plan Ω
+site_description: Plan Ω - Family Maritime Survival Manual - Comprehensive guidance for autonomous living aboard a sailing vessel
 site_author: Plan Omega Contributors
 site_url: https://rriehle.github.io/plan-omega/
 
@@ -9,7 +9,7 @@ repo_url: https://github.com/rriehle/plan-omega
 edit_uri: edit/main/manual/
 
 # Copyright
-copyright: Copyright &copy; 2025 Plan Omega Contributors - Licensed under CC BY-SA 4.0
+copyright: Copyright &copy; 2025 Plan Ω Contributors - Licensed under CC BY-SA 4.0
 
 # Configuration
 theme:
