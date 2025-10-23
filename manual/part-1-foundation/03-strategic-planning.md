@@ -583,7 +583,7 @@ Keep a drill log. Review annually to track improvement and identify patterns.
 
 **Additional Resources:**
 
-See [Templates: P.A.C.E. Planning Template](../templates/pace-planning-template.md) for ready-to-use planning documents.
+See [Templates: P.A.C.E. Planning Template](../planning-templates/pace-planning-template.md) for ready-to-use planning documents.
 
 See [Part II: Core Survival Systems](../part-2-core-systems/README.md) for detailed P.A.C.E. plans for each survival system.
 

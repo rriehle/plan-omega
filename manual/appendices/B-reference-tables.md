@@ -1426,7 +1426,7 @@ The 14.300 MHz frequency provides nearly 24-hour coverage through sequential net
 
 ---
 
-**For comprehensive Ham Radio net schedules and frequencies, see [Appendix C: Resource Lists, Section 5](C-resource-lists.md#5-radio-resources).**
+**For comprehensive Ham Radio net schedules and frequencies, see [Appendix C: Resource Lists, Section 5](C-resource-lists.md#5-ham-radio-nets).**
 
 ---
 

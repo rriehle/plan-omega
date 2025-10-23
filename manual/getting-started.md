@@ -91,7 +91,7 @@ Your comprehensive maritime family survival manual structure is now complete! He
    - Most critical survival system
    - Assess your current water capabilities against the P.A.C.E. plan
 
-3. **Use the P.A.C.E. Planning Template** (`templates/pace-planning-template.md`)
+3. **Use the P.A.C.E. Planning Template** (`planning-templates/pace-planning-template.md`)
    - Create your first P.A.C.E. plan for **water**
    - This will teach you the methodology
 
@@ -200,7 +200,7 @@ I can help you expand any of the framework chapters to the same level of detail 
 
 **Most complete example:** `part-2-core-systems/05-water-systems.md`
 
-**Essential template:** `templates/pace-planning-template.md`
+**Essential template:** `planning-templates/pace-planning-template.md`
 
 **Part overviews:**
 - `part-1-foundation/README.md`
@@ -209,7 +209,7 @@ I can help you expand any of the framework chapters to the same level of detail 
 - `part-4-scenarios/README.md`
 - `part-5-protocols/README.md`
 - `appendices/README.md`
-- `templates/README.md`
+- `planning-templates/README.md`
 
 ---
 

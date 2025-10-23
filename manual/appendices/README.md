@@ -115,4 +115,4 @@ One-page summaries for emergency situations.
 
 ---
 
-[← Part V: Protocols](../part-5-protocols/README.md) | [Main Manual](../README.md) | [Next: Templates →](../templates/README.md)
+[← Part V: Protocols](../part-5-protocols/README.md) | [Main Manual](../README.md) | [Next: Templates →](../planning-templates/README.md)

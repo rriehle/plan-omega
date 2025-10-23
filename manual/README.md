@@ -72,14 +72,14 @@ Reference materials, checklists, and resources.
 - [D. Document Templates](appendices/D-document-templates.md)
 - [E. Quick Reference Cards](appendices/E-quick-reference.md)
 
-### [Templates](templates/README.md)
+### [Templates](planning-templates/README.md)
 
 Reusable planning and tracking templates.
 
-- [P.A.C.E. Planning Template](templates/pace-planning-template.md)
-- [System Audit Checklist](templates/system-audit-checklist.md)
-- [Drill Report Template](templates/drill-report-template.md)
-- [Inventory Tracking](templates/inventory-tracking.md)
+- [P.A.C.E. Planning Template](planning-templates/pace-planning-template.md)
+- [System Audit Checklist](planning-templates/system-audit-checklist.md)
+- [Drill Report Template](planning-templates/drill-report-template.md)
+- [Inventory Tracking](planning-templates/inventory-tracking.md)
 
 ## Framework Principles
 

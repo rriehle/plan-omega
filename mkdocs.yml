@@ -173,15 +173,15 @@ nav:
       - E. Quick Reference: appendices/E-quick-reference.md
 
     - Templates:
-      - Overview: templates/README.md
-      - P.A.C.E. Planning: templates/pace-planning-template.md
-      - System Audit Checklist: templates/system-audit-checklist.md
-      - Drill Report: templates/drill-report-template.md
-      - Inventory Tracking: templates/inventory-tracking.md
-      - Destination Dossier: templates/destination-dossier-template.md
-      - Family Emergency Plan: templates/family-emergency-plan-template.md
-      - Passage Planning: templates/passage-planning-template.md
-      - Threat Assessment Worksheet: templates/threat-assessment-worksheet.md
+      - Overview: planning-templates/README.md
+      - P.A.C.E. Planning: planning-templates/pace-planning-template.md
+      - System Audit Checklist: planning-templates/system-audit-checklist.md
+      - Drill Report: planning-templates/drill-report-template.md
+      - Inventory Tracking: planning-templates/inventory-tracking.md
+      - Destination Dossier: planning-templates/destination-dossier-template.md
+      - Family Emergency Plan: planning-templates/family-emergency-plan-template.md
+      - Passage Planning: planning-templates/passage-planning-template.md
+      - Threat Assessment Worksheet: planning-templates/threat-assessment-worksheet.md
 
 # Custom CSS (optional)
 # extra_css:
