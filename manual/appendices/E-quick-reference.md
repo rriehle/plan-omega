@@ -11,11 +11,13 @@
 ### IMMEDIATE ACTIONS (First 60 Seconds)
 
 **ALERT:**
+
 - Shout "FIRE! FIRE! FIRE!" + location + type
 - Sound general alarm (7+ short + 1 long blast)
 - VHF Channel 16: "MAYDAY MAYDAY MAYDAY" (if severe)
 
 **ASSESS:**
+
 - Location: ______________________
 - Type:  Electrical  Fuel  Galley  Engine  Other
 - Size:  Small (contained)  Spreading  Out of control
@@ -40,10 +42,10 @@
 
 ### FIRE CLASSIFICATIONS
 
-- **Class A:** Wood, paper, cloth ’ Water or ABC
-- **Class B:** Gasoline, oil, grease ’ BC or ABC (NEVER WATER)
-- **Class C:** Electrical ’ BC or ABC (cut power first)
-- **Class K:** Galley grease ’ Smother or K-type
+- **Class A:** Wood, paper, cloth â†’ Water or ABC
+- **Class B:** Gasoline, oil, grease â†’ BC or ABC (NEVER WATER)
+- **Class C:** Electrical â†’ BC or ABC (cut power first)
+- **Class K:** Galley grease â†’ Smother or K-type
 
 ### ENGINE ROOM FIRE PROTOCOL
 
@@ -56,12 +58,14 @@
 ### ABANDON SHIP CRITERIA
 
 **Abandon if:**
+
 - Fire out of control after 5 minutes
 - Fire reaches fuel tanks or propane
 - Vessel integrity compromised
 - Crew safety at immediate risk
 
 **Before abandoning:**
+
 - Deploy EPIRB
 - Broadcast MAYDAY with position
 - Don life jackets
@@ -75,11 +79,13 @@
 ### IMMEDIATE ACTIONS
 
 **ALERT:**
+
 - "FLOODING! FLOODING! Compartment: __________"
 - All hands to stations
 - One person monitors pumps continuously
 
 **ASSESS:**
+
 - Location:  Forward  Midship  Aft  Engine room
 - Rate:  Slow seep  Steady stream  Rapid  Catastrophic
 - Source:  Hull breach  Through-hull  Hose  Stuffing box  Unknown
@@ -87,6 +93,7 @@
 ### STOP THE WATER
 
 **Priority Order:**
+
 1. **Close through-hulls** in affected area (if source)
 2. **Plug the hole:**
    - Small (<1"): Wooden plugs, rags, collision mat
@@ -95,6 +102,7 @@
 3. **Reduce flow:** Anything that slows water = more time
 
 **Collision Mat Deployment:**
+
 - Center over hole on OUTSIDE of hull
 - Secure with lines under hull, tension from deck
 - Water pressure will help hold in place
@@ -102,12 +110,14 @@
 ### PUMP STRATEGY
 
 **P.A.C.E. Pumping:**
+
 1. **PRIMARY:** Electric bilge pumps (check circuit breaker)
 2. **ALTERNATE:** Manual bilge pump (all crew rotate 15-min shifts)
 3. **CONTINGENCY:** Buckets (2 gallons/bucket = 120 gph if continuous)
 4. **EMERGENCY:** Engine cooling intake (pump overboard)
 
 **Pump Locations:**
+
 - Electric bilge pump: _______________________
 - Manual pump: ____________________________
 - Emergency manual pump: __________________
@@ -115,6 +125,7 @@
 ### PRIORITIZE & PREPARE
 
 **While pumping:**
+
 - Move heavy items away from flooded area
 - Secure critical equipment above waterline
 - Prepare abandon ship bag
@@ -124,6 +135,7 @@
 ### ABANDON DECISION
 
 **Abandon if:**
+
 - Water level rising despite all pumps
 - Boat settling/listing dangerously
 - Structural integrity failing
@@ -138,11 +150,13 @@
 **SHOUT:** "MAN OVERBOARD! [PORT/STARBOARD] SIDE!"
 
 **THROW:**
+
 - Life ring with drogue/line
 - Anything that floats to mark spot
 - Throwable flotation (cushions, fenders)
 
 **DESIGNATE SPOTTER:**
+
 - One person does NOTHING but point at person in water
 - Never take eyes off themno exceptions
 
@@ -151,25 +165,29 @@
 ### RECOVERY MANEUVERS
 
 #### Quick-Stop Method (Most Boats)
+
 1. **Immediately turn toward side person fell from**
 2. **Slow or stop boat** (engine in neutral if sailing)
 3. **Circle back,** approaching from downwind
 4. **Stop alongside** person (not ahead/behind)
 
 #### Figure-8 / Williamson Turn (Power Vessels)
+
 1. **Hard over rudder** toward side person went over
-2. **Shift rudder** when heading 60° off original
+2. **Shift rudder** when heading 60ï¿½ off original
 3. **Steadies on reciprocal** heading back to person
 4. **Slow and approach** from downwind
 
 ### IN-WATER RESCUE
 
 **Approach:**
+
 - Engine in NEUTRAL before person near stern
 - Approach downwind (drift toward them)
 - Throw line before alongside
 
 **Hoisting Methods:**
+
 - **Conscious, able:** Swim ladder
 - **Conscious, weak:** Halyard + harness
 - **Unconscious:** Halyard + multiple crew (600 lb rescue lift)
@@ -178,12 +196,14 @@
 ### HYPOTHERMIA PROTOCOL
 
 **Water Temp vs. Time:**
-- 50°F (10°C): 1-3 hours survival
-- 60°F (15°C): 2-7 hours survival
-- 70°F (21°C): 3-12 hours survival
-- 80°F (27°C): Indefinite if conscious
+
+- 50ï¿½F (10ï¿½C): 1-3 hours survival
+- 60ï¿½F (15ï¿½C): 2-7 hours survival
+- 70ï¿½F (21ï¿½C): 3-12 hours survival
+- 80ï¿½F (27ï¿½C): Indefinite if conscious
 
 **After Rescue:**
+
 - Remove wet clothing
 - Dry and insulate (survival blanket/sleeping bag)
 - Warm core first (chest, head)
@@ -194,6 +214,7 @@
 ### IF PERSON NOT RECOVERED WITHIN 15 MINUTES
 
 **Deploy full search:**
+
 1. Mark last known position (MOB button)
 2. **MAYDAY broadcast** with position
 3. Deploy EPIRB if offshore
@@ -201,6 +222,7 @@
 5. Request Coast Guard/SAR assistance
 
 **Search Pattern:**
+
 - Start at MOB position
 - Expanding square: 0.5nm legs, increasing each circuit
 - Account for wind/current drift
@@ -212,6 +234,7 @@
 ### PREPARE TO ABANDON CRITERIA
 
 **Abandon ONLY if:**
+
 - Vessel sinking and cannot be saved
 - Fire out of control and risk of explosion
 - Catastrophic structural failure
@@ -222,17 +245,20 @@
 ### ABANDON SHIP SEQUENCE
 
 **1. ALERT (90 seconds before)**
+
 - Sound abandon ship signal (7+ short + 1 long blast, repeat)
 - "ALL HANDS ABANDON SHIP!"
 - Don immersion suits if time/conditions
 
 **2. DISTRESS (60 seconds before)**
-- **MAYDAY × 3** on VHF CH 16 with position
+
+- **MAYDAY ï¿½ 3** on VHF CH 16 with position
 - Activate **EPIRB** (bring in life raft)
 - Activate **DSC distress** on VHF
 - Set off flares if vessels nearby
 
 **3. PREPARE (45 seconds before)**
+
 - Don **life jackets** (everyone)
 - Grab **ditch bag/GO-bag**
 - Grab **EPIRB** (if not auto-deployed)
@@ -240,18 +266,21 @@
 - Brief crew on raft entry
 
 **4. DEPLOY (30 seconds before)**
+
 - **Launch life raft** (leeward side)
 - Attach painter to strong point
 - Raft inflates automatically
 - Pull alongside, stabilize
 
 **5. BOARD (in order)**
+
 - **Children first** (assisted entry)
 - **Injured/weak** (assisted)
 - **Remaining crew**
 - **Captain last** (after final check)
 
 **6. CUT AWAY (final action)**
+
 - Cut painter only when everyone aboard
 - Deploy sea anchor
 - Distance from vessel (explosion/suction risk)
@@ -259,6 +288,7 @@
 ### LIFE RAFT SURVIVAL - FIRST HOUR
 
 **Immediate Actions:**
+
 1. **Head count** - ensure everyone aboard
 2. **Injuries** - assess and stabilize
 3. **Seasickness** - medication (before symptoms)
@@ -269,6 +299,7 @@
 8. **Flares** - ready but don't use until aircraft/vessel sighted
 
 **Communications:**
+
 - VHF handheld: Monitor CH 16
 - EPIRB: Should be transmitting
 - Signal mirror: Use during daylight if aircraft overhead
@@ -277,23 +308,27 @@
 ### SURVIVAL PRIORITIES (First 24 Hours)
 
 **1. EXPOSURE** (First 3 hours critical)
+
 - Close raft canopy
 - Huddle for warmth
 - Rotate positions (outside/inside)
 - Insulate from floor (use ditch bag, clothing)
 
 **2. WATER** (Ration from start)
+
 - DO NOT DRINK SEAWATER (causes dehydration/death)
 - First 24 hrs: NO water (unless severe heat)
 - After 24 hrs: Ration 6-8 oz per person per day
 - Collect rain (canopy = funnel)
 
 **3. FOOD** (Low priority first week)
+
 - Don't eat without adequate water
 - Fishing gear in survival kit
 - Ration from beginning
 
 **4. MORALE**
+
 - Assign roles (reduces panic)
 - Maintain watch schedule
 - Keep talking and engaged
@@ -306,12 +341,14 @@
 ### ADULT CPR (Ages 12+)
 
 **Check Response:**
+
 - Tap shoulders: "Are you okay?"
 - No response = START CPR
 
 **C-A-B Sequence:**
 
 **C = COMPRESSIONS (30)**
+
 - Hand position: Center of chest, between nipples
 - Depth: 2 to 2.4 inches (5-6 cm)
 - Rate: 100-120 per minute (beat of "Stayin' Alive")
@@ -319,22 +356,26 @@
 - Minimize interruptions (<10 seconds)
 
 **A = AIRWAY**
+
 - Head-tilt, chin-lift (if no spinal injury)
 - Look for obstruction, remove if visible
 
 **B = BREATHS (2)**
+
 - Pinch nose, seal mouth over theirs
 - Breath for 1 second, watch chest rise
 - If no rise, reposition head and try again
 - Two breaths, then back to compressions
 
 **CONTINUE:** 30 compressions : 2 breaths
+
 - Until AED arrives, person revives, or exhausted
 - Switch compressors every 2 minutes (fatigue reduces quality)
 
 ### CHILD CPR (Ages 1-12)
 
 **Same as adult, but:**
+
 - Compressions: 2 inches (5 cm) depth
 - Can use one hand if small child
 - Same 30:2 ratio if alone
@@ -343,12 +384,14 @@
 ### INFANT CPR (Under 1 Year)
 
 **Compressions:**
+
 - Two fingers on center of chest (just below nipple line)
 - Depth: 1.5 inches (4 cm)
 - Rate: 100-120 per minute
 - 30:2 ratio (15:2 if two rescuers)
 
 **Breaths:**
+
 - Cover infant's mouth AND nose with your mouth
 - Gentle puffs (smaller breaths than adult)
 - Watch for chest rise
@@ -356,6 +399,7 @@
 ### WHEN TO STOP CPR
 
 **Continue until:**
+
 - Person shows signs of life (breathing, moving)
 - AED is ready to analyze
 - Professional help arrives
@@ -363,6 +407,7 @@
 - You are too exhausted to continue (swap with another rescuer)
 
 **If person revives:**
+
 - Place in recovery position (side-lying)
 - Monitor breathing continuously
 - Keep warm
@@ -375,6 +420,7 @@
 ### CONSCIOUS CHOKING ADULT/CHILD (Over 1 Year)
 
 **Signs:**
+
 - Universal choking sign (hands on throat)
 - Cannot speak, cough, or breathe
 - Face turning red/blue
@@ -384,12 +430,14 @@
 **If cannot breathe/speak:**
 
 **5 BACK BLOWS**
+
 1. Stand behind, lean them forward
 2. Support chest with one hand
 3. Strike between shoulder blades with heel of hand
 4. Give 5 firm blows
 
 **5 ABDOMINAL THRUSTS (Heimlich)**
+
 1. Stand behind, arms around waist
 2. Make fist, thumb side against abdomen (above navel, below ribs)
 3. Grasp fist with other hand
@@ -397,11 +445,13 @@
 5. Repeat 5 times
 
 **ALTERNATE:** 5 back blows, 5 abdominal thrusts
+
 - Continue until object expelled or person unconscious
 
 ### UNCONSCIOUS CHOKING
 
 **If person becomes unconscious:**
+
 1. **Lower to ground safely**
 2. **Call for help** (radio for assistance)
 3. **BEGIN CPR** (chest compressions may dislodge object)
@@ -411,11 +461,13 @@
 ### INFANT CHOKING (Under 1 Year)
 
 **5 BACK BLOWS**
+
 1. Support head/neck, face down on your forearm
 2. Head lower than chest
 3. Strike between shoulder blades with heel of hand (5 times)
 
 **5 CHEST THRUSTS**
+
 1. Turn infant face up, head lower than chest
 2. Two fingers on center of chest (same location as CPR)
 3. Quick thrusts (5 times)
@@ -427,6 +479,7 @@
 ### AFTER CHOKING RESOLVED
 
 **Even if successful:**
+
 - Seek medical evaluation
 - Abdominal thrusts can cause internal injuries
 - Complications may not be immediately apparent
@@ -438,17 +491,20 @@
 ### TRAUMA ASSESSMENT (ABC Priority)
 
 **A = AIRWAY**
+
 - Is airway clear and open?
 - Remove obstructions (if visible)
 - Position to keep open (head-tilt/chin-lift)
 
 **B = BREATHING**
+
 - Is person breathing?
 - Rate: Normal 12-20 breaths/min
 - Quality: Deep, shallow, labored?
 - Treat: Rescue breathing if needed
 
 **C = CIRCULATION**
+
 - Is there severe bleeding?
 - Is there pulse? (carotid at neck)
 - Rate: Normal 60-100 bpm
@@ -457,17 +513,20 @@
 ### SEVERE BLEEDING CONTROL
 
 **Direct Pressure (First line)**
+
 1. Apply clean cloth/gauze
 2. Press firmly and continuously
 3. DO NOT remove cloth (add more on top)
 4. Maintain pressure 10-15 minutes minimum
 
 **Pressure Points (If direct pressure fails)**
+
 - Arm: Brachial artery (inside upper arm)
 - Leg: Femoral artery (groin crease)
 - Press artery against bone
 
 **Tourniquet (LAST RESORT - life over limb)**
+
 - Use only if life-threatening limb bleeding
 - Apply 2-3 inches above wound (never on joint)
 - Tighten until bleeding stops
@@ -478,6 +537,7 @@
 ### SHOCK RECOGNITION & TREATMENT
 
 **Signs of Shock:**
+
 - Pale, cold, clammy skin
 - Weak, rapid pulse (>100 bpm)
 - Rapid, shallow breathing
@@ -486,6 +546,7 @@
 - Weakness, fatigue
 
 **Shock Treatment:**
+
 1. **Lay person down** (unless head/spinal injury)
 2. **Elevate legs 12 inches** (unless bleeding/spinal injury)
 3. **Keep warm** (blankets, survival blanket)
@@ -498,6 +559,7 @@
 ### HEAD INJURY PROTOCOL
 
 **Concussion Signs:**
+
 - Brief loss of consciousness
 - Confusion, disorientation
 - Headache
@@ -506,12 +568,14 @@
 - Amnesia (can't remember event)
 
 **Treatment:**
+
 - Rest (no physical/mental exertion)
 - Ice on swelling (20 min on, 20 off)
 - Monitor for 24+ hours
 - Wake every 2-3 hours first night
 
 **EVACUATE IMMEDIATELY if:**
+
 - Unconscious >1 minute
 - Repeated vomiting
 - Seizures
@@ -523,12 +587,14 @@
 ### FRACTURE STABILIZATION
 
 **Signs of Fracture:**
+
 - Deformity, swelling, bruising
 - Severe pain, tenderness
 - Cannot move or bear weight
 - Grating sensation (crepitus)
 
 **Splinting:**
+
 1. **Immobilize joint above and below fracture**
 2. **Splint in position found** (don't straighten unless no pulse)
 3. **Pad splint** (prevent pressure sores)
@@ -556,12 +622,13 @@
 **Best for:** Waiting out storm, rest, repairs, crew break
 
 **Setup:**
+
 1. **Tack but don't release jib** (backwind it)
 2. **Sheet jib to weather** (opposite side from normal)
 3. **Trim mainsail** (reefed or trysail)
 4. **Lash helm to leeward** (rudder turns boat into wind)
 
-**Result:** Boat drifts slowly forward and to lee at 1-2 knots, bow 40-50° off wind, relatively stable
+**Result:** Boat drifts slowly forward and to lee at 1-2 knots, bow 40-50ï¿½ off wind, relatively stable
 
 **Best for:** Fin keel boats may lie beam-to (dangerous)test in moderate conditions first
 
@@ -570,6 +637,7 @@
 **When:** Need sea room and want to make distance
 
 **Procedure:**
+
 1. **Stern to waves**
 2. **Reduced sail or bare poles**
 3. **Trail warps/drogue** to slow boat (prevents surfing/pitchpole)
@@ -585,6 +653,7 @@
 **When:** Lying ahull, need bow into waves, no sea room to run
 
 **Setup:**
+
 1. **Deploy from bow** (or bridle from both bows)
 2. **100-300 ft line** (match boat size)
 3. **Trip line** attached (for retrieval)
@@ -596,6 +665,7 @@
 ### STORM PREPARATION (Before Weather Hits)
 
 **Deck:**
+
 -  All loose gear below or lashed
 -  Storm sails ready/bent on
 -  Jack lines rigged
@@ -604,6 +674,7 @@
 -  Ventilators sealed or removed
 
 **Below:**
+
 -  All heavy items secured
 -  Lee cloths rigged
 -  Bilges pumped
@@ -612,6 +683,7 @@
 -  Everything that can fall secured
 
 **Safety:**
+
 -  Everyone in life jackets
 -  Safety harnesses on deck
 -  Tethers short (stay inboard)
@@ -619,6 +691,7 @@
 -  EPIRB accessible
 
 **Navigation:**
+
 -  Position plotted and updated
 -  Sea room assessed (hazards to lee?)
 -  Alternatives identified
@@ -627,11 +700,13 @@
 ### CRITICAL STORM RULES
 
 **The One Golden Rule:** **AVOID BREAKING WAVES**
+
 - Breaking wave height of your beam width can capsize
 - Avoid beam-to orientation
 - If wave breaks on you, brace and hold on
 
 **Other Rules:**
+
 - Reef early, reef often (overpowered = dangerous)
 - Rest crew before exhaustion (heave-to for breaks)
 - Maintain positive crew morale
@@ -645,14 +720,17 @@
 ### DISTRESS HIERARCHY
 
 **MAYDAY = Immediate Life-Threatening Emergency**
+
 - Sinking, fire, medical emergency, immediate danger
 - Requires immediate assistance
 
 **PAN-PAN = Urgent but Not Immediately Life-Threatening**
+
 - Disabled, taking on water but stable, medical concern
 - Needs assistance but not immediate danger
 
-**SÉCURITÉ = Safety Information**
+**Sï¿½CURITï¿½ = Safety Information**
+
 - Navigation hazards, weather warnings
 - Information broadcast, not request for assistance
 
@@ -661,6 +739,7 @@
 **Channel 16 (156.8 MHz) - International Distress**
 
 **Format:**
+
 ```
 MAYDAY MAYDAY MAYDAY
 This is [vessel name] [vessel name] [vessel name]
@@ -675,6 +754,7 @@ Over.
 **Repeat every 5 minutes until acknowledged**
 
 **If Coast Guard responds:**
+
 - Follow all instructions
 - Maintain communication
 - Prepare for rescue (life jackets, flares ready)
@@ -682,6 +762,7 @@ Over.
 ### DSC (Digital Selective Calling) DISTRESS
 
 **Modern VHF with DSC Button:**
+
 1. **Lift cover, press DSC distress button** (hold 3-5 seconds)
 2. **Automatically transmits:**
    - Vessel ID (MMSI)
@@ -697,11 +778,13 @@ Over.
 **406 MHz Satellite Emergency Beacon**
 
 **Activation:**
+
 - **Manual:** Remove from bracket, deploy (auto-activates)
 - **Automatic:** Float-free if vessel sinks
 - **Test:** Only during first 5 minutes of any hour
 
 **How it works:**
+
 1. Transmits to Cospas-Sarsat satellites
 2. Includes GPS position (if equipped)
 3. Alert relayed to national rescue coordination center
@@ -715,27 +798,32 @@ Over.
 ### VISUAL DISTRESS SIGNALS
 
 **Daytime:**
+
 - **Orange smoke:** High visibility, wind disperses quickly
 - **Signal mirror:** Effective 10+ miles, aim reflection at aircraft/vessel
-- **Orange flag:** 3×3 ft with black ball and square
+- **Orange flag:** 3ï¿½3 ft with black ball and square
 - **Dye marker:** Bright green/orange in water, aerial spotting
 
 **Nighttime:**
+
 - **Red flares:** Handheld (1-2 min burn) or aerial/parachute (40 seconds, 1000+ ft altitude)
 - **Electric SOS light:** Automatic SOS pattern
 - **Flashlight:** Six short, six long, six short (SOS morse)
 
 **Flare Usage:**
+
 - Wait until aircraft/vessel in sight (limited quantity)
-- Aim aerial flares downwind, 15° angle
+- Aim aerial flares downwind, 15ï¿½ angle
 - Handheld flares: Extend at arm's length, downwind side, aim away from vessel
 
 ### PYROTECHNIC REQUIREMENTS
 
 **Coastal (< 2 miles from shore):**
+
 - Minimum 3 day/night signals (approved type)
 
 **Offshore (> 2 miles):**
+
 - Minimum 3 parachute flares
 - Minimum 3 handheld flares
 - Minimum 2 smoke signals
@@ -745,19 +833,22 @@ Over.
 ### DISTRESS COMMUNICATION PRIORITIES
 
 **Priority 1: Life-Threatening**
+
 1. Activate EPIRB (if abandoning or sinking)
 2. VHF DSC Distress (one button)
 3. Voice MAYDAY on VHF Ch 16
 4. Repeat MAYDAY every 5 minutes
 
 **Priority 2: Urgent but Stable**
+
 1. PAN-PAN on VHF Ch 16
 2. Explain situation, position, needs
 3. Update as conditions change
 
 **Priority 3: Information**
+
 1. Monitor Ch 16 and local working channels
-2. Broadcast SÉCURITÉ if hazard to others
+2. Broadcast Sï¿½CURITï¿½ if hazard to others
 
 ---
 
@@ -766,6 +857,7 @@ Over.
 ### VESSEL HIERARCHY (Who Gives Way)
 
 **From Most to Least Privileged:**
+
 1. **Not Under Command (NUC)** / **Restricted Ability to Maneuver (RAM)**
 2. **Vessel Constrained by Draft** (large ship in channel)
 3. **Fishing Vessels** (nets/trawls deployed)
@@ -789,31 +881,38 @@ Over.
 ### POWER VESSELS MEETING (Rules 14-15)
 
 **Head-On (Rule 14):**
+
 - Both vessels alter course to **starboard** (pass port-to-port)
 - If in doubt, assume head-on
 
 **Crossing (Rule 15):**
+
 - Vessel with other on **starboard side** gives way
 - Stand-on vessel maintains course and speed
 - Give-way vessel makes **obvious alteration** (pass astern)
 
 **Overtaking (Rule 13):**
+
 - Overtaking vessel keeps clear
-- Passing within 22.5° of stern = overtaking
+- Passing within 22.5ï¿½ of stern = overtaking
 - Overtaking remains give-way even if crossing later
 
 ### SOUND SIGNALS IN RESTRICTED VISIBILITY
 
 **Power vessel making way:**
+
 - 1 long blast every 2 minutes
 
 **Power vessel stopped:**
+
 - 2 long blasts every 2 minutes
 
 **Sailing vessel, fishing, NUC, RAM:**
+
 - 1 long + 2 short blasts every 2 minutes
 
 **Anchored (if required):**
+
 - Rapid bell ringing for 5 seconds every minute
 - Large vessels: Bell forward, gong aft
 
@@ -824,13 +923,16 @@ Over.
 **Stern = White = Behind**
 
 **Power vessel underway:**
+
 - Red (port) + Green (starboard) + White masthead forward + White stern
 
 **Sailing vessel:**
+
 - Red (port) + Green (starboard) + White stern
 - Optional: Red over green at masthead (sailing)
 
 **At anchor:**
+
 - All-round white (forward, plus stern if >50m)
 
 ### NARROW CHANNELS (Rule 9)
@@ -847,22 +949,26 @@ Over.
 ### THREAT ASSESSMENT LEVELS
 
 **GREEN (Routine):**
+
 - No specific threats
 - Maintain normal watchkeeping
 - Update intel before entering new regions
 
 **YELLOW (Elevated):**
+
 - Area with known piracy/security risks
 - Enhanced watchkeeping, security measures
 - Avoid patterns, maintain communications
 
 **ORANGE (High Risk):**
+
 - Recent attacks in area
 - Implement all security measures
 - Consider armed escort or convoy
 - Report transit plans to authorities
 
 **RED (Imminent Threat):**
+
 - Attack in progress or immediate
 - Evasive action, distress call
 - All crew to safe haven
@@ -870,6 +976,7 @@ Over.
 ### PIRACY HIGH-RISK AREAS (Current)
 
 **Avoid or extreme caution:**
+
 - Gulf of Aden / Somali waters (750+ nm offshore)
 - Yemeni coast
 - South China Sea / Straits of Malacca
@@ -881,6 +988,7 @@ Over.
 ### PREVENTIVE SECURITY MEASURES
 
 **Passive Defenses:**
+
 -  Bright deck lighting (all-round visibility)
 -  Barbed wire on stanchions (prevents boarding)
 -  Bridge/companionway lockable from inside
@@ -889,6 +997,7 @@ Over.
 -  Alarm system (loud hailer, fog horn, strobe lights)
 
 **Watch Protocols:**
+
 -  24-hour watch in high-risk areas
 -  Radar on continuous (detect approaching vessels)
 -  AIS transmit OFF in piracy zones (reduces targeting)
@@ -896,6 +1005,7 @@ Over.
 -  Report to regional security centers
 
 **Navigation:**
+
 -  Stay offshore >100 nm (out of small boat range)
 -  Avoid anchoring isolated areas
 -  Transit high-risk areas quickly (no loitering)
@@ -905,6 +1015,7 @@ Over.
 ### IF APPROACHED BY SUSPICIOUS VESSEL
 
 **Early Response (>1 nm):**
+
 1. **Activate alarm** (crew to stations)
 2. **Change course/speed** (test if following)
 3. **Call on VHF Ch 16** ("Vessel approaching [your position], identify yourself")
@@ -913,6 +1024,7 @@ Over.
 6. **Broadcast PAN-PAN** (alert nearby vessels/authorities)
 
 **Imminent Threat (<0.5 nm, clearly hostile):**
+
 1. **MAYDAY on VHF Ch 16** ("Under piracy attack at [position]")
 2. **Activate EPIRB** (summons rescue)
 3. **Crew to safe haven** (locked interior cabin/safe room)
@@ -926,6 +1038,7 @@ Over.
 ### IF BOARDED
 
 **Crew Safety Priority:**
+
 - **Do not resist** (life over property)
 - **Comply with demands** (reduce violence)
 - **Stay calm, speak slowly**
@@ -934,6 +1047,7 @@ Over.
 - **Signal duress if able** (VHF "all is well" = code for distress)
 
 **Post-Incident:**
+
 - Report immediately to authorities
 - Medical evaluation for all crew
 - Document everything (while memory fresh)
@@ -946,6 +1060,7 @@ Over.
 ### WHEN TO IMPLEMENT RATIONING
 
 **Triggers:**
+
 - Supplies below 50% with no resupply option
 - Passage duration exceeds planned by 25%+
 - Emergency situation (life raft, dismasted, long-term survival)
@@ -959,29 +1074,33 @@ Over.
 
 | Air Temp | Minimal Survival | Subsistence | Working |
 |----------|-----------------|-------------|---------|
-| 50°F (10°C) | 1.5 L/day | 2.5 L/day | 4 L/day |
-| 70°F (20°C) | 2 L/day | 3 L/day | 5 L/day |
-| 90°F (30°C) | 3 L/day | 4 L/day | 7+ L/day |
+| 50ï¿½F (10ï¿½C) | 1.5 L/day | 2.5 L/day | 4 L/day |
+| 70ï¿½F (20ï¿½C) | 2 L/day | 3 L/day | 5 L/day |
+| 90ï¿½F (30ï¿½C) | 3 L/day | 4 L/day | 7+ L/day |
 
 **Children:** Reduce by 25-50% depending on age/size
 
 #### Emergency Water Ration Schedule
 
 **Level 1 (Standard):** 3 liters/person/day
+
 - Drinking, basic hygiene, cooking
 - Can sustain indefinitely in moderate climate
 
 **Level 2 (Conservation):** 2 liters/person/day
+
 - Drinking and essential cooking only
 - No washing (salt water for dishes)
 - Sustainable weeks to months
 
 **Level 3 (Survival):** 1 liter/person/day
+
 - Drinking only, minimal cooking
 - Dehydration symptoms likely
 - Sustainable 1-2 weeks maximum
 
 **Level 4 (Emergency):** 0.5 liter/person/day
+
 - Life raft survival
 - Severe dehydration expected
 - Maximum 7-10 days survival
@@ -989,6 +1108,7 @@ Over.
 #### Water Ration Distribution
 
 **Method:**
+
 - Distribute in **morning and evening** (2 portions)
 - Use **marked containers** (no guessing)
 - **Elder/captain supervises** (prevent cheating)
@@ -996,6 +1116,7 @@ Over.
 - **Children drink full share** (higher need per pound)
 
 **DO NOT:**
+
 - Drink seawater (accelerates dehydration, causes death)
 - Drink urine (concentrates toxins)
 - Drink alcohol (dehydrates)
@@ -1017,20 +1138,24 @@ Over.
 #### Food Ration Levels
 
 **Level 1 (Standard):** 2500 cal/person/day
+
 - 3 meals + snacks
 - Normal cruising, no shortage
 
 **Level 2 (Conservation):** 1800 cal/person/day
+
 - 2 meals + light snack
 - Extend supplies 30-40%
 - Sustainable long-term
 
 **Level 3 (Survival):** 1200 cal/person/day
+
 - 1 meal + small ration
 - Extend supplies 100%+
 - Weight loss, fatigue expected
 
 **Level 4 (Emergency):** 600-800 cal/person/day
+
 - Minimal intake
 - Life raft survival
 - Muscle wasting, severe weakness
@@ -1038,15 +1163,18 @@ Over.
 #### Ration Priorities
 
 **Consume first (spoils quickly):**
+
 - Fresh produce
 - Dairy, eggs
 - Meat (unless canned)
 
 **Consume mid-term:**
+
 - Canned goods (check dates)
 - Frozen foods (if power available)
 
 **Conserve longest (last resort):**
+
 - Rice, pasta, grains
 - Dried beans, lentils
 - Emergency rations (energy bars)
@@ -1055,6 +1183,7 @@ Over.
 ### RATIONING PSYCHOLOGY
 
 **Keys to Success:**
+
 - **Start early** (before people desperate)
 - **Be transparent** (show inventory, explain plan)
 - **Equal portions** (perception of fairness critical)
@@ -1063,6 +1192,7 @@ Over.
 - **Celebrate small wins** (ration extended, landfall nearing)
 
 **Children:**
+
 - Maintain structure (meal times consistent)
 - Involve in process (counting, distributing)
 - Don't discuss fear/scarcity (shield from panic)
@@ -1075,17 +1205,20 @@ Over.
 ### AGES 3-5 (PRESCHOOL)
 
 **Capabilities:**
+
 - Follow simple instructions
 - Stay in designated safe spot
 - Hold/carry light items
 
 **Emergency Roles:**
+
 - **"Safety Buddy"**: Stay with designated adult, hold their hand
 - **"Grab Helper"**: Hand items to adults (life jackets, flashlight)
 - **"Voice"**: Call out if they see something ("Mommy, boat!")
 - **Practice**: "If you hear alarm, go to [safe spot] and sit down"
 
 **Communication:**
+
 - Simple, calm language ("We're playing the safety game")
 - Physical reassurance (holding, carrying)
 - Clear instructions ("Sit here, don't move")
@@ -1093,12 +1226,14 @@ Over.
 ### AGES 6-9 (EARLY ELEMENTARY)
 
 **Capabilities:**
+
 - Follow multi-step instructions
 - Operate simple equipment (VHF, flashlight)
 - Read/repeat information
 - Basic swimming
 
 **Emergency Roles:**
+
 - **"Spotter"**: Watch for person in water, point continuously
 - **"Radio Operator"**: Press VHF transmit, repeat message given
 - **"Light Handler"**: Operate flashlight, signal mirror
@@ -1106,6 +1241,7 @@ Over.
 - **"Sibling Watcher"**: Keep younger children calm/safe
 
 **Communication:**
+
 - Explain simply but honestly ("We have a problem, but we're safe")
 - Assign concrete task (reduces anxiety, makes them helpful)
 - Practice in calm conditions (familiarity reduces panic)
@@ -1113,6 +1249,7 @@ Over.
 ### AGES 10-13 (PRE-TEEN)
 
 **Capabilities:**
+
 - Operate equipment (VHF, GPS, pumps)
 - Read charts/instructions
 - Perform physical tasks (pump, haul lines)
@@ -1120,6 +1257,7 @@ Over.
 - Swim/assist in water
 
 **Emergency Roles:**
+
 - **"Communications"**: Operate VHF, make distress call from script
 - **"Navigator"**: Read GPS position, plot on chart
 - **"Equipment Manager"**: Prepare/deploy safety gear (EPIRB, flares)
@@ -1128,6 +1266,7 @@ Over.
 - **"First Aid Assistant"**: Hand supplies, follow instructions
 
 **Communication:**
+
 - Honest about situation (age-appropriate)
 - Involve in planning ("We need to do X, you'll do Y")
 - Acknowledge fear ("I know you're scared; me too. Here's what we're doing.")
@@ -1136,6 +1275,7 @@ Over.
 ### AGES 14-17 (TEEN)
 
 **Capabilities:**
+
 - Nearly adult strength/judgment
 - Operate all equipment
 - Problem-solve independently
@@ -1143,6 +1283,7 @@ Over.
 - Full first aid capability (with training)
 
 **Emergency Roles:**
+
 - **"Helm"**: Steer during maneuvers (MOB recovery, storm tactics)
 - **"Engineer"**: Operate pumps, engine, troubleshoot
 - **"Medic"**: Assess injuries, administer first aid
@@ -1151,6 +1292,7 @@ Over.
 - **"Abandon Ship Leader"**: Manage life raft boarding, count crew
 
 **Communication:**
+
 - Full transparency (adult-level information)
 - Partnership ("I need you to...")
 - Responsibility ("You're in charge of...")
@@ -1159,6 +1301,7 @@ Over.
 ### GENERAL PRINCIPLES - CHILDREN IN EMERGENCIES
 
 **Before Emergency (Training):**
+
 -  Drills are games (not scary)
 -  Practice when calm (muscle memory)
 -  Age-appropriate tasks (achievable = confidence)
@@ -1166,6 +1309,7 @@ Over.
 -  Explain "why" (understanding reduces fear)
 
 **During Emergency:**
+
 -  Calm, firm voice (they mirror your emotion)
 -  Assign task immediately (idleness = anxiety)
 -  Physical contact (reassurance)
@@ -1173,6 +1317,7 @@ Over.
 -  Acknowledge fear ("Scared is okay; we've practiced this")
 
 **After Emergency:**
+
 -  Debrief together (what happened, what we did)
 -  Normalize emotions (validate feelings)
 -  Celebrate success ("You did great when...")
@@ -1182,6 +1327,7 @@ Over.
 ### LIFE JACKET PROTOCOL (ALL AGES)
 
 **Non-negotiable:**
+
 - Life jacket on deck in **any** emergency
 - Properly fitted (check regularlykids grow!)
 - Practiced (inflation, buddy checks)
@@ -1189,6 +1335,7 @@ Over.
 - Labeled with name (in chaos, easy identification)
 
 **Infants/Toddlers (<30 lbs):**
+
 - Type II infant life jacket with head support
 - Crotch strap mandatory (prevent slipping out)
 - Bright color, reflective tape
@@ -1201,6 +1348,7 @@ Over.
 ### EMERGENCY FREQUENCIES
 
 **VHF Marine Radio:**
+
 - **Channel 16:** Distress, urgency, safety (156.8 MHz)
 - **Channel 70:** DSC Digital Selective Calling (distress)
 - **Channel 9:** Alternate calling (US recreational)
@@ -1208,6 +1356,7 @@ Over.
 - **Channel 13:** Bridge-to-bridge (ship traffic)
 
 **Coast Guard Contacts:**
+
 - **VHF:** Channel 16 (monitored 24/7)
 - **Phone:** 911 (if cell coverage)
 - **HF/SSB:** 2182 kHz (distress)
@@ -1265,4 +1414,4 @@ Drill these procedures regularly. When the emergency happens, you'll fall to you
 
 ---
 
-[ Appendix D: Document Templates](D-document-templates.md) | [Appendices Overview](README.md) | [Main Manual](../README.md)
+[ï¿½ Appendix D: Document Templates](D-document-templates.md) | [Appendices Overview](README.md) | [Main Manual](../README.md)
