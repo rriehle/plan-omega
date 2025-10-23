@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This manual provides comprehensive guidance for a family of four (two adults, two children) living aboard a sailing vessel to prepare for and survive various civilization collapse scenarios. The manual is designed to enable complete autonomy and self-sufficiency in a maritime environment.
+This manual provides guidance for living aboard a sailing vessel to prepare for and survive various civilization collapse scenarios. The manual is designed to enable autonomy and self-sufficiency in a maritime environment.
 
 ## Threat Scenarios
 
@@ -121,6 +121,7 @@ Every critical system has four levels of redundancy:
 ## Development Status
 
 This manual is a living document. Sections marked with:
+
 - ⚠️ **DRAFT** - Initial framework only, needs content development
 - 🔄 **IN PROGRESS** - Being actively developed
 - ✅ **COMPLETE** - Fully developed, requires only maintenance updates
@@ -134,4 +135,3 @@ This manual is a living document. Sections marked with:
 **Remember**: The best survival plan is one you practice regularly. Knowledge without skills is useless. Skills without practice fade. Make this manual a living part of your family's maritime life.
 
 Fair winds and following seas.
-
