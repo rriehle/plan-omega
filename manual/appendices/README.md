@@ -11,6 +11,7 @@ This section provides ready-reference materials, checklists, tables, and resourc
 Comprehensive checklists for outfitting your vessel for long-term autonomy.
 
 **Includes:**
+
 - Water system equipment
 - Food storage and fishing gear
 - Medical supplies (detailed)
@@ -28,6 +29,7 @@ Comprehensive checklists for outfitting your vessel for long-term autonomy.
 Quick-reference data for common calculations and conversions.
 
 **Includes:**
+
 - Nautical calculations (distance, speed, fuel, conversions)
 - Medication dosing tables
 - Water requirements by temperature
@@ -40,11 +42,33 @@ Quick-reference data for common calculations and conversions.
 
 ---
 
+### [B2. Rope and Knot Research](B2-rope-knot-research.md) ⚠️ DRAFT
+
+Comprehensive research summary and decision framework for rope selection and knot use.
+
+**Includes:**
+
+- Rope material performance analysis (nylon, polyester, polypropylene, manila, dyneema)
+- Breaking strength data and working load calculations
+- Safety factor recommendations by application
+- Knot efficiency research (strength loss percentages)
+- Rope stretch characteristics and applications
+- UV resistance comparisons
+- Anchor rode sizing and scope calculations
+- Essential knots reference with strength ratings
+- Rope selection decision framework
+- Common mistakes and how to avoid them
+- Trade-off analysis (nylon vs polyester, 3-strand vs double braid)
+- Rope retirement criteria and inspection schedules
+
+---
+
 ### [C. Resource Lists](C-resource-lists.md) ⚠️ DRAFT
 
 Books, websites, contacts, and information sources.
 
 **Includes:**
+
 - Essential books (navigation, medical, survival, seamanship)
 - Cruising guides by region
 - Online resources (weather, security, cruiser networks)
@@ -61,6 +85,7 @@ Books, websites, contacts, and information sources.
 Forms and templates for recording and planning.
 
 **Includes:**
+
 - Daily log template
 - Inventory tracking sheets
 - Maintenance schedule templates
@@ -78,6 +103,7 @@ Forms and templates for recording and planning.
 One-page summaries for emergency situations.
 
 **Includes:**
+
 - Emergency procedures (fire, flooding, MOB, abandon ship)
 - Medical emergencies (CPR, choking, trauma, shock)
 - Storm tactics

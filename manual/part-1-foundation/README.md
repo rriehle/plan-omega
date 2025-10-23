@@ -13,6 +13,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 ### [01. Psychology & Mindset](01-psychology-mindset.md) ⚠️ DRAFT
 
 **Topics Covered:**
+
 - Survival psychology for adults and children
 - Fear and panic management
 - Decision-making under stress
@@ -22,6 +23,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 - Leadership and roles aboard
 
 **Key Questions Answered:**
+
 - How do we prepare our children psychologically without traumatizing them?
 - What mental frameworks help in crisis decision-making?
 - How do we maintain family cohesion under extreme stress?
@@ -31,6 +33,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 ### [02. Threat Assessment & Triggers](02-threat-assessment-triggers.md) ⚠️ DRAFT
 
 **Topics Covered:**
+
 - Indicators and warnings for each collapse scenario
 - Signal vs. noise in information streams
 - Timeline estimation and progression patterns
@@ -40,6 +43,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 - Information sources and validation
 
 **Key Questions Answered:**
+
 - What specific indicators signal each type of collapse?
 - When should we move from monitoring to action?
 - How do we distinguish false alarms from real threats?
@@ -50,6 +54,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 ### [03. Strategic Planning (P.A.C.E. Framework)](03-strategic-planning.md) ⚠️ DRAFT
 
 **Topics Covered:**
+
 - Introduction to P.A.C.E. planning methodology
 - Applying P.A.C.E. to all critical systems
 - Redundancy vs. efficiency tradeoffs
@@ -59,6 +64,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 - Contingency planning
 
 **Key Questions Answered:**
+
 - How do we build redundancy into every critical system?
 - What's the right balance between preparation and normal life?
 - How do we prioritize limited resources?
@@ -69,6 +75,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 ### [04. Navigation & Destination Analysis](04-destinations-analysis.md) ⚠️ DRAFT
 
 **Topics Covered:**
+
 - Global safe harbor analysis by scenario
 - Climate and weather considerations
 - Resource availability mapping
@@ -80,12 +87,14 @@ History shows that physical resources alone don't ensure survival—mental prepa
 - Seasonal considerations
 
 **Key Questions Answered:**
+
 - Where should we go for each collapse scenario?
 - What locations offer the best combination of safety and resources?
 - How do we position ourselves to reach multiple destinations?
 - What are the best routes and timing for major relocations?
 
 **Destination Categories:**
+
 - **Economic Collapse Refuges** - Stable currencies, local economies, trade opportunities
 - **Civil Unrest Havens** - Remote, low-population, politically neutral
 - **Climate Refuges** - Stable weather patterns, freshwater, agricultural potential
