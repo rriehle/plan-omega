@@ -1,6 +1,6 @@
 # Plan Ω: Family Maritime Survival Manual
 
-A comprehensive guide for a family of four living aboard a sailing vessel to prepare for and survive various civilization collapse scenarios.
+A guide for living aboard a sailing vessel to prepare for and survive various civilization collapse scenarios.
 
 ## About
 
@@ -33,13 +33,13 @@ git clone https://github.com/rriehle/plan-omega.git
 cd plan-omega
 ```
 
-2. Activate the pyenv virtual environment:
+2. Activate a Python virtual environment; here we use pyenv:
 
 ```bash
 pyenv activate py3.13.9-mkdocs
 ```
 
-Or install dependencies in your own environment:
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -84,29 +84,6 @@ To enable GitHub Pages for your repository:
 
 The workflow file is located at `.github/workflows/deploy-docs.yml`.
 
-## Project Structure
-
-```
-plan-omega/
-├── manual/                     # Documentation source files
-│   ├── README.md              # Manual home page
-│   ├── getting-started.md     # Getting started guide
-│   ├── part-1-foundation/     # Foundation & Strategy
-│   ├── part-2-core-systems/   # Core Survival Systems
-│   ├── part-3-knowledge-skills/ # Knowledge & Skills
-│   ├── part-4-scenarios/      # Scenario-Specific Responses
-│   ├── part-5-protocols/      # Operational Protocols
-│   ├── appendices/            # Reference materials
-│   └── templates/             # Planning templates
-├── .github/
-│   └── workflows/
-│       └── deploy-docs.yml    # GitHub Actions deployment
-├── mkdocs.yml                 # MkDocs configuration
-├── requirements.txt           # Python dependencies
-├── .gitignore                # Git ignore patterns
-└── README.md                 # This file
-```
-
 ## Framework Principles
 
 ### P.A.C.E. Planning
@@ -143,11 +120,8 @@ Under the following terms:
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-## Version History
-
-- **v0.1** - Initial structure and framework (2025-10-21)
-- **v0.2** - MkDocs setup with Material theme (2025-10-23)
-
 ---
 
-**"The best survival plan is one you practice regularly. Knowledge without skills is useless. Skills without practice fade."**
+The best survival plan is one you practice regularly. Knowledge without skills is useless. Skills without practice fade.
+
+**Fair winds and following seas.**
