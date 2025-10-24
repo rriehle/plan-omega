@@ -137,4 +137,4 @@ This manual is a living document. Sections marked with:
 
 The best survival plan is one you practice regularly. Knowledge without skills is useless. Skills without practice fade. Make this manual a living part of your maritime life.
 
-Fair winds and following seas.
+**Fair winds and following seas.**
