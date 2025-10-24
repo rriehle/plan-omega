@@ -11,6 +11,7 @@ These templates provide structured formats for planning, tracking, and documenti
 Structured format for creating P.A.C.E. plans for any system. Use this to develop Primary, Alternate, Contingency, and Emergency solutions for all critical needs.
 
 **Use for:**
+
 - Water systems
 - Food systems
 - Power generation
@@ -26,6 +27,7 @@ Structured format for creating P.A.C.E. plans for any system. Use this to develo
 Comprehensive checklist for quarterly system reviews.
 
 **Includes:**
+
 - Hull and structure
 - Rigging and sails
 - Engine and mechanical
@@ -44,6 +46,7 @@ Comprehensive checklist for quarterly system reviews.
 Standard format for documenting drills and training exercises.
 
 **Sections:**
+
 - Drill type and date
 - Participants
 - Scenario description
@@ -62,6 +65,7 @@ Standard format for documenting drills and training exercises.
 Spreadsheet-style templates for tracking consumables and supplies.
 
 **Includes:**
+
 - Food provisions (with expiration dates)
 - Water system supplies (filters, membranes, etc.)
 - Medical supplies (with expirations)
@@ -76,6 +80,7 @@ Spreadsheet-style templates for tracking consumables and supplies.
 Monthly threat monitoring and level determination.
 
 **Sections:**
+
 - Current date and location
 - Economic indicators review
 - Civil stability indicators
@@ -92,6 +97,7 @@ Monthly threat monitoring and level determination.
 Comprehensive research format for potential safe harbors.
 
 **Sections:**
+
 - Location and coordinates
 - Approach and anchoring
 - Climate and weather
@@ -112,6 +118,7 @@ Comprehensive research format for potential safe harbors.
 Custom plan for your family's specific needs and scenarios.
 
 **Sections:**
+
 - Family roster (names, ages, skills, medical needs)
 - Emergency roles and responsibilities
 - Communication protocols (internal and external)
@@ -128,6 +135,7 @@ Custom plan for your family's specific needs and scenarios.
 Standard format for planning ocean passages.
 
 **Sections:**
+
 - Departure and destination
 - Distance and estimated duration
 - Weather window analysis
@@ -138,6 +146,35 @@ Standard format for planning ocean passages.
 - Communication plan
 - Emergency contingencies
 - Departure checklist
+
+---
+
+### [Scenario Response Worksheet](scenario-response-worksheet.md) ✅ READY
+
+Comprehensive planning worksheet for each collapse scenario (economic, civil unrest, climate, war, pandemic, etc.).
+
+**Use for:**
+
+- Planning response to specific scenarios
+- Identifying scenario-specific supplies and training
+- Defining family roles and responsibilities
+- Creating decision trees for key choices
+- Tracking drill results and lessons learned
+
+**Sections:**
+
+- Threat recognition and monitoring
+- Destination selection (primary and alternates)
+- System prioritization for this scenario
+- Timeline and phases (immediate, short, medium, long-term)
+- Scenario-specific supplies and costs
+- Family roles and responsibilities
+- Decision trees (when to depart, when to resupply, when to seek help)
+- Communications plan
+- Children and family considerations
+- Scenario overlap planning
+- Drills and testing log
+- Budget summary
 
 ---
 

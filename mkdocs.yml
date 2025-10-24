@@ -155,6 +155,7 @@ nav:
     - Civil Unrest: part-4-scenarios/17-civil-unrest.md
     - Climate Collapse: part-4-scenarios/18-climate-collapse.md
     - War: part-4-scenarios/19-war.md
+    - Pandemic/Biological Crisis: part-4-scenarios/20-pandemic-biological.md
 
   - Operational Protocols:
     - Overview: part-5-protocols/README.md
@@ -175,6 +176,7 @@ nav:
     - Templates:
       - Overview: planning-templates/README.md
       - P.A.C.E. Planning: planning-templates/pace-planning-template.md
+      - Scenario Response Worksheet: planning-templates/scenario-response-worksheet.md
       - System Audit Checklist: planning-templates/system-audit-checklist.md
       - Drill Report: planning-templates/drill-report-template.md
       - Inventory Tracking: planning-templates/inventory-tracking.md

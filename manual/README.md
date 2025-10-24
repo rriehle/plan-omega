@@ -12,6 +12,7 @@ This manual addresses preparation and response for:
 - **Civil Unrest** - Widespread violence, government instability, social breakdown
 - **Climate Collapse** - Extreme weather, sea level rise, ecosystem failure, resource scarcity
 - **War** - Regional or global conflict, breakdown of international order
+- **Pandemic/Biological Crisis** - Infectious disease outbreak, healthcare collapse, border closures
 
 ## Manual Structure
 
@@ -53,6 +54,7 @@ Tailored response protocols for each collapse scenario.
 17. [Civil Unrest Response](part-4-scenarios/17-civil-unrest.md)
 18. [Climate Collapse Response](part-4-scenarios/18-climate-collapse.md)
 19. [War Response](part-4-scenarios/19-war.md)
+20. [Pandemic/Biological Crisis Response](part-4-scenarios/20-pandemic-biological.md)
 
 ### [Part V: Operational Protocols](part-5-protocols/README.md)
 
@@ -77,6 +79,7 @@ Reference materials, checklists, and resources.
 Reusable planning and tracking templates.
 
 - [P.A.C.E. Planning Template](planning-templates/pace-planning-template.md)
+- [Scenario Response Worksheet](planning-templates/scenario-response-worksheet.md)
 - [System Audit Checklist](planning-templates/system-audit-checklist.md)
 - [Drill Report Template](planning-templates/drill-report-template.md)
 - [Inventory Tracking](planning-templates/inventory-tracking.md)
@@ -132,6 +135,6 @@ This manual is a living document. Sections marked with:
 
 ---
 
-**Remember**: The best survival plan is one you practice regularly. Knowledge without skills is useless. Skills without practice fade. Make this manual a living part of your family's maritime life.
+The best survival plan is one you practice regularly. Knowledge without skills is useless. Skills without practice fade. Make this manual a living part of your maritime life.
 
 Fair winds and following seas.
