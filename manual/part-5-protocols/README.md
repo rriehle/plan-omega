@@ -24,7 +24,7 @@ This section transforms all previous planning into actionable protocols. It prov
 
 ## Chapters in This Part
 
-### [20. Trigger-Action Matrix](20-trigger-action-matrix.md) ⚠️ DRAFT
+### [21. Trigger-Action Matrix](21-trigger-action-matrix.md) ⚠️ DRAFT
 
 Specific triggers and corresponding actions for each threat level and scenario.
 
@@ -36,7 +36,7 @@ Specific triggers and corresponding actions for each threat level and scenario.
 - Departure checklists
 - Communication protocols
 
-### [21. Drills & Training Programs](21-drills-training.md) ⚠️ DRAFT
+### [22. Drills & Training Programs](22-drills-training.md) ⚠️ DRAFT
 
 Systematic practice schedule for all survival skills.
 
@@ -48,7 +48,7 @@ Systematic practice schedule for all survival skills.
 - Annual drills (multi-day survival simulation)
 - Skill assessment and certification tracking
 
-### [22. Continuous Improvement](22-continuous-improvement.md) ⚠️ DRAFT
+### [23. Continuous Improvement](23-continuous-improvement.md) ⚠️ DRAFT
 
 Review, adapt, and improve survival plans over time.
 
