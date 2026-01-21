@@ -2,7 +2,7 @@
 
 **Status:**  IN PROGRESS
 
-[�← Previous: Civil Unrest Response](17-civil-unrest.md) | [Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: War Response �→](19-war.md)
+[<- Previous: Civil Unrest Response](17-civil-unrest.md) | [Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: War Response ->](19-war.md)
 
 ---
 
@@ -10,18 +10,18 @@
 
 Climate collapse represents a progressive, multi-decade threat fundamentally reshaping planetary habitability through rising temperatures, sea level rise, extreme weather intensification, ocean acidification, ecosystem failure, and cascading social disruptions. Unlike sudden catastrophes (war, pandemic) or rapid deterioration (economic collapse, civil unrest), climate collapse is a **slow-motion crisis** unfolding over decades with critical tipping points potentially triggering abrupt, irreversible changes.
 
-**Historical precedent exists but with critical differences:** The Medieval Warm Period (950-1250 CE) warmed regions ~0.5-1�C, enabling Viking Greenland settlements and new maritime trade routes. The Little Ice Age (1300-1850 CE) reversed this, collapsing Norse Greenland and disrupting European ports with ice. However, **current climate change differs fundamentally**: warming is 2-4x faster, globally coherent (not regional), driven by human emissions (not natural cycles), and occurring alongside ocean acidification unprecedented in 300 million years all while supporting 8 billion people (16x the medieval population).
+**Historical precedent exists but with critical differences:** The Medieval Warm Period (950-1250 CE) warmed regions ~0.5-1C, enabling Viking Greenland settlements and new maritime trade routes. The Little Ice Age (1300-1850 CE) reversed this, collapsing Norse Greenland and disrupting European ports with ice. However, **current climate change differs fundamentally**: warming is 2-4x faster, globally coherent (not regional), driven by human emissions (not natural cycles), and occurring alongside ocean acidification unprecedented in 300 million years all while supporting 8 billion people (16x the medieval population).
 
 **Maritime families possess unique advantages** in climate collapse scenarios: **Mobility to relocate as habitability shifts**, ocean thermal moderation (cooler than land during heat waves), fishing access as land agriculture fails, freshwater independence (rainwater + desalination), ability to escape sea level rise (just sail to higher ground), and isolation from climate refugee flows. However, intensifying hurricanes/typhoons, ocean acidification affecting fisheries, sea level rise submerging ports/anchorages, and resource conflicts over fishing grounds present severe challenges.
 
-**Timeline characteristics:** Climate collapse is **already underway** (1.2�C warming achieved; coral reefs experiencing worst mass bleaching on record). Current trajectory: 2-4�C warming by 2100, with critical tipping points (AMOC collapse, Amazon dieback, ice sheet acceleration) possible within 1-3 decades. Sea level rise of 0.5-2.0 meters by 2100 is likely. Effects accelerate non-linearly 2030s will see major disruptions (intensifying extremes, mass migration beginning), 2050+ could witness catastrophic changes in collapse zones (tropics, Middle East, South Asia becoming partially uninhabitable).
+**Timeline characteristics:** Climate collapse is **already underway** (1.2C warming achieved; coral reefs experiencing worst mass bleaching on record). Current trajectory: 2-4C warming by 2100, with critical tipping points (AMOC collapse, Amazon dieback, ice sheet acceleration) possible within 1-3 decades. Sea level rise of 0.5-2.0 meters by 2100 is likely. Effects accelerate non-linearly 2030s will see major disruptions (intensifying extremes, mass migration beginning), 2050+ could witness catastrophic changes in collapse zones (tropics, Middle East, South Asia becoming partially uninhabitable).
 
 **Key characteristics:**
 
 - **Primary threat mechanisms:** Extreme heat (wet-bulb temperatures exceeding human survival limits), intensified hurricanes (Cat 5-6 storms), sea level rise (coastal flooding, saltwater intrusion), ocean acidification (fisheries collapse), agricultural failure (crop yields down 30-90% in hotspots), freshwater scarcity (60% shortfall by 2030)
-- **Cascading effects:** Climate stress → agricultural collapse → mass migration (216 million by 2050) → resource wars (water, food, fishing) → economic/political instability → civil unrest/state failure → piracy/lawlessness
+- **Cascading effects:** Climate stress -> agricultural collapse -> mass migration (216 million by 2050) -> resource wars (water, food, fishing) -> economic/political instability -> civil unrest/state failure -> piracy/lawlessness
 - **Likely duration:** Progressive worsening through 2100 and beyond; no "recovery" timeline effects persist for centuries even if emissions stop
-- **Geographic variations:** Tropics/Middle East/North Africa increasingly uninhabitable (4�C+ warming); high latitudes (Canada, Scandinavia, Patagonia, New Zealand) become climate refuges; small island nations submerge (Tuvalu, Maldives); coastal megacities flood (Miami, Shanghai, Mumbai)
+- **Geographic variations:** Tropics/Middle East/North Africa increasingly uninhabitable (4C+ warming); high latitudes (Canada, Scandinavia, Patagonia, New Zealand) become climate refuges; small island nations submerge (Tuvalu, Maldives); coastal megacities flood (Miami, Shanghai, Mumbai)
 
 ---
 
@@ -31,11 +31,11 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 **Long-term climate trends (decades advance warning):**
 
-- **Global temperature anomaly:** Track deviation from 20th-century baseline (currently +1.2�C)
+- **Global temperature anomaly:** Track deviation from 20th-century baseline (currently +1.2C)
 - **Sea level rise rate:** Accelerating (currently 3.3 mm/year; IPCC projects 0.5-1.0 m by 2100)
 - **Arctic sea ice extent:** September minimum declining (proxy for global warming)
 - **Ocean heat content:** Increasing (90% of excess heat absorbed by oceans)
-- **CO� concentration:** Exceeding 420 ppm (pre-industrial: 280 ppm; current trajectory: 500-700 ppm by 2100)
+- **CO2 concentration:** Exceeding 420 ppm (pre-industrial: 280 ppm; current trajectory: 500-700 ppm by 2100)
 - **Tipping point status:** AMOC weakening, Amazon drought/deforestation, ice sheet velocity increasing
 
 **Medium-term indicators (years advance warning):**
@@ -45,7 +45,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 - **Fish migration patterns:** Species shifting poleward 4-10 km/year; traditional fishing grounds declining
 - **Extreme weather frequency:** Heat waves, droughts, floods, wildfires increasing in frequency and severity
 - **Agricultural stress:** Crop yield decline in vulnerable regions (Middle East, North Africa, South Asia showing 10-30% reductions)
-- **Freshwater scarcity:** Regions experiencing "Day Zero" events (Cape Town, Chennai, S�o Paulo precedents)
+- **Freshwater scarcity:** Regions experiencing "Day Zero" events (Cape Town, Chennai, Sao Paulo precedents)
 
 **Immediate crisis indicators (months to years warning):**
 
@@ -62,9 +62,9 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 *Indicators:*
 
-- Global warming +1.2�C above pre-industrial
+- Global warming +1.2C above pre-industrial
 - First tipping point crossed: Coral reefs experiencing worst mass bleaching (>80% affected)
-- Current trajectory: Between RCP 4.5 and RCP 8.5 (2-4�C warming by 2100 likely)
+- Current trajectory: Between RCP 4.5 and RCP 8.5 (2-4C warming by 2100 likely)
 - Hurricane intensity increasing; season extending beyond traditional June-November window
 - Fish populations shifting poleward; coastal fisheries declining
 - Climate migration nascent (not yet mass movement)
@@ -80,7 +80,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 *Decision point to Level 2:*
 
-- Global warming reaches +1.5�C (IPCC critical threshold; currently +1.2�C)
+- Global warming reaches +1.5C (IPCC critical threshold; currently +1.2C)
 - Second major tipping point crossed (AMOC collapse, Amazon dieback, ice sheet acceleration)
 - Hurricane season producing multiple Cat 5 storms or first Cat 6
 - Home region experiencing multi-year drought or catastrophic flooding
@@ -90,9 +90,9 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 *Indicators:*
 
-- Global warming +1.5-2.0�C
+- Global warming +1.5-2.0C
 - AMOC showing collapse signs or Amazon experiencing irreversible dieback
-- Tropical regions experiencing sustained wet-bulb temperatures >35�C (human survival limit)
+- Tropical regions experiencing sustained wet-bulb temperatures >35C (human survival limit)
 - Hurricane season year-round; Cat 5-6 storms frequent
 - Fish populations severely depleted in traditional fishing grounds
 - Mass climate migration underway (50-100 million displaced)
@@ -102,7 +102,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 *Actions:*
 
 - **Establish legal residency in climate refuge:** Apply for visas/residency in Canada, Scandinavia, New Zealand, or Patagonia (before immigration restrictions tighten)
-- **Execute seasonal migration pattern:** Summer in high latitudes (50-65�N/S); winter in mid-latitudes (35-45�N/S); avoid tropics
+- **Execute seasonal migration pattern:** Summer in high latitudes (50-65 deg N/S); winter in mid-latitudes (35-45 deg N/S); avoid tropics
 - **Achieve deep self-sufficiency:**
   - Water: 60-90 days autonomy (500-1000 gallon storage + rain catchment + watermaker)
   - Food: 6-12 months provisions + professional-level offshore fishing skills
@@ -114,7 +114,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 *Decision point to Level 3:*
 
-- Global warming exceeds +2.0�C (severe climate impacts threshold)
+- Global warming exceeds +2.0C (severe climate impacts threshold)
 - Major tipping point cascade begins (AMOC + Amazon + ice sheets all collapsing)
 - Home region becomes uninhabitable (sustained heat, water scarcity, sea level rise, violence)
 - Climate migration exceeds 100 million annually
@@ -124,9 +124,9 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 *Indicators:*
 
-- Global warming +2.0-3.0�C
+- Global warming +2.0-3.0C
 - Multiple tipping points crossed; cascading feedbacks accelerating warming
-- Tropics/Middle East/North Africa/South Asia largely uninhabitable (wet-bulb >35�C frequent)
+- Tropics/Middle East/North Africa/South Asia largely uninhabitable (wet-bulb >35C frequent)
 - Sea level rise 0.3-0.6 m (1-2 feet); major coastal cities abandoned or dyked
 - Hurricane Cat 6 storms routine in tropics
 - Ocean acidification severe; coral reefs dead; shellfish fisheries collapsed
@@ -149,15 +149,15 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 *Decision point to Level 4:*
 
-- Situation stabilizes (warming capped at 2.5-3.0�C through carbon removal + geoengineering)
-- OR: Situation worsens beyond 3.0�C (approaching worst-case RCP 8.5 trajectory)
+- Situation stabilizes (warming capped at 2.5-3.0C through carbon removal + geoengineering)
+- OR: Situation worsens beyond 3.0C (approaching worst-case RCP 8.5 trajectory)
 - Personal reassessment: Can family sustain maritime lifestyle indefinitely? Or transition to land-based life in refuge nation?
 
 **Level 4: Survival Mode (2050+ worst-case projection)**
 
 *Indicators:*
 
-- Global warming approaching or exceeding +4.0�C (RCP 8.5 worst case)
+- Global warming approaching or exceeding +4.0C (RCP 8.5 worst case)
 - Civilization-level collapse in tropics/subtropics
 - Sea level rise >1.0 m; many coastal cities submerged
 - High-latitude refuges increasingly crowded; immigration restrictions severe
@@ -181,7 +181,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 - **IPCC Reports** (AR6, upcoming AR7 ~2028-2030) - Sea level rise, temperature projections, regional impacts
 - **NOAA Climate.gov** - Real-time data, extreme weather trends, ocean conditions
-- **NASA Climate** - Temperature anomalies, sea level rise, ice sheet monitoring, CO� concentration
+- **NASA Climate** - Temperature anomalies, sea level rise, ice sheet monitoring, CO2 concentration
 - **Tipping Point Research** - AMOC status, Amazon deforestation/drought, ice sheet velocity (academic journals, Climate Tipping Points reports)
 - **ND-GAIN Index** (Notre Dame Global Adaptation Initiative) - Country climate resilience rankings
 
@@ -283,9 +283,9 @@ Recognize climate collapse as a slow-motion crisis allowing staged adaptation. B
 
 | Season | Primary Regions | Rationale | Activities |
 |--------|----------------|-----------|------------|
-| **Summer (Jun-Sep)** | High latitudes (50-65�N/S): Canada, Scandinavia, Great Lakes, New Zealand (Dec-Feb = NZ summer) | Cool temperatures; avoid tropical cyclone season; long daylight; productive fishing | Cruising, exploration, fishing, maintenance, provisioning |
-| **Fall (Sep-Nov)** | Mid-latitudes (35-50�N): Portugal, Mediterranean (cautiously), Uruguay, Tasmania | Transition season; harvest time; avoid early cyclones | Route planning, weather monitoring, final provisioning |
-| **Winter (Dec-Mar)** | Temperate zones (25-40�N): Azores, Canary Islands (avoiding Sahara heat), Northern NZ, Tasmania | Mild climate; outside intensifying tropical cyclone zones | Passage-making, maintenance, skill practice, community building |
+| **Summer (Jun-Sep)** | High latitudes (50-65 deg N/S): Canada, Scandinavia, Great Lakes, New Zealand (Dec-Feb = NZ summer) | Cool temperatures; avoid tropical cyclone season; long daylight; productive fishing | Cruising, exploration, fishing, maintenance, provisioning |
+| **Fall (Sep-Nov)** | Mid-latitudes (35-50 deg N): Portugal, Mediterranean (cautiously), Uruguay, Tasmania | Transition season; harvest time; avoid early cyclones | Route planning, weather monitoring, final provisioning |
+| **Winter (Dec-Mar)** | Temperate zones (25-40 deg N): Azores, Canary Islands (avoiding Sahara heat), Northern NZ, Tasmania | Mild climate; outside intensifying tropical cyclone zones | Passage-making, maintenance, skill practice, community building |
 | **Spring (Mar-May)** | Transition northward | Positioning for summer refuges; avoid late-season storms | Final provisioning, system checks, route execution |
 
 **Flexible Adaptation:**
@@ -457,7 +457,7 @@ If unable to reach high-latitude refuges (financial limitations, visa denials, h
 
 - **Cyclone risk:** Intensifying hurricanes; Cat 6 storms possible
 - **Sea level rise:** Low-lying atolls submerging; even high islands face coastal flooding
-- **Heat stress:** Tropics approaching wet-bulb >35�C limits; may become uninhabitable by 2050+
+- **Heat stress:** Tropics approaching wet-bulb >35C limits; may become uninhabitable by 2050+
 - **Resource conflicts:** Overpopulation + scarcity = potential violence, piracy
 
 **Risk assessment:** Higher risk than high-latitude refuges; acceptable only if no other option.
@@ -504,7 +504,7 @@ If all coastal areas become too dangerous (piracy, resource wars, government con
 
 **Key Research Integrated:**
 
-- IPCC AR6 projections (sea level rise 0.5-2.0 m by 2100; 2-4�C warming likely)
+- IPCC AR6 projections (sea level rise 0.5-2.0 m by 2100; 2-4C warming likely)
 - Tipping points: AMOC collapse, Amazon dieback, ice sheets (high risk within 1-3 decades)
 - Climate refuges: Canada, Scandinavia, New Zealand, Patagonia (ND-GAIN Index rankings)
 - Mass migration: 216 million climate migrants by 2050 (World Bank Groundswell Report)
@@ -515,4 +515,4 @@ If all coastal areas become too dangerous (piracy, resource wars, government con
 
 ---
 
-[�← Previous: Civil Unrest Response](17-civil-unrest.md) | [Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: War Response �→](19-war.md)
+[<- Previous: Civil Unrest Response](17-civil-unrest.md) | [Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: War Response ->](19-war.md)

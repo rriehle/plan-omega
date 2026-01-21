@@ -6,7 +6,7 @@ These templates provide structured formats for planning, tracking, and documenti
 
 ## Template Library
 
-### [P.A.C.E. Planning Template](pace-planning-template.md) ✅ READY
+### [P.A.C.E. Planning Template](pace-planning-template.md) [x] READY
 
 Structured format for creating P.A.C.E. plans for any system. Use this to develop Primary, Alternate, Contingency, and Emergency solutions for all critical needs.
 
@@ -22,7 +22,7 @@ Structured format for creating P.A.C.E. plans for any system. Use this to develo
 
 ---
 
-### [System Audit Checklist](system-audit-checklist.md) ⚠️ DRAFT
+### [System Audit Checklist](system-audit-checklist.md) **WARNING:** DRAFT
 
 Comprehensive checklist for quarterly system reviews.
 
@@ -41,7 +41,7 @@ Comprehensive checklist for quarterly system reviews.
 
 ---
 
-### [Drill Report Template](drill-report-template.md) ⚠️ DRAFT
+### [Drill Report Template](drill-report-template.md) **WARNING:** DRAFT
 
 Standard format for documenting drills and training exercises.
 
@@ -60,7 +60,7 @@ Standard format for documenting drills and training exercises.
 
 ---
 
-### [Inventory Tracking](inventory-tracking.md) ⚠️ DRAFT
+### [Inventory Tracking](inventory-tracking.md) **WARNING:** DRAFT
 
 Spreadsheet-style templates for tracking consumables and supplies.
 
@@ -75,7 +75,7 @@ Spreadsheet-style templates for tracking consumables and supplies.
 
 ---
 
-### [Threat Assessment Worksheet](threat-assessment-worksheet.md) ⚠️ DRAFT
+### [Threat Assessment Worksheet](threat-assessment-worksheet.md) **WARNING:** DRAFT
 
 Monthly threat monitoring and level determination.
 
@@ -92,7 +92,7 @@ Monthly threat monitoring and level determination.
 
 ---
 
-### [Destination Dossier Template](destination-dossier-template.md) ⚠️ DRAFT
+### [Destination Dossier Template](destination-dossier-template.md) **WARNING:** DRAFT
 
 Comprehensive research format for potential safe harbors.
 
@@ -113,7 +113,7 @@ Comprehensive research format for potential safe harbors.
 
 ---
 
-### [Family Emergency Plan](family-emergency-plan-template.md) ⚠️ DRAFT
+### [Family Emergency Plan](family-emergency-plan-template.md) **WARNING:** DRAFT
 
 Custom plan for your family's specific needs and scenarios.
 
@@ -130,7 +130,7 @@ Custom plan for your family's specific needs and scenarios.
 
 ---
 
-### [Passage Planning Form](passage-planning-template.md) ⚠️ DRAFT
+### [Passage Planning Form](passage-planning-template.md) **WARNING:** DRAFT
 
 Standard format for planning ocean passages.
 
@@ -149,7 +149,7 @@ Standard format for planning ocean passages.
 
 ---
 
-### [Scenario Response Worksheet](scenario-response-worksheet.md) ✅ READY
+### [Scenario Response Worksheet](scenario-response-worksheet.md) [x] READY
 
 Comprehensive planning worksheet for each collapse scenario (economic, civil unrest, climate, war, pandemic, etc.).
 
@@ -190,4 +190,4 @@ Comprehensive planning worksheet for each collapse scenario (economic, civil unr
 
 ---
 
-[← Appendices](../appendices/README.md) | [Main Manual](../README.md)
+[<- Appendices](../appendices/README.md) | [Main Manual](../README.md)

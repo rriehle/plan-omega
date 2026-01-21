@@ -277,7 +277,7 @@ You're ready when you can:
 
 ## Critical Safety Notes
 
-� **Life-Threatening Risks**:
+**WARNING - Life-Threatening Risks**:
 
 - **Never attempt ocean passage without celestial navigation backup**
 - **Lee shores in storms are deadly** - Maintain 20+ miles clearance

@@ -33,13 +33,13 @@ git clone https://github.com/rriehle/plan-omega.git
 cd plan-omega
 ```
 
-2. Activate a Python virtual environment; here we use pyenv:
+1. Activate a Python virtual environment; here we use pyenv:
 
 ```bash
 pyenv activate py3.13.9-mkdocs
 ```
 
-3. Install dependencies:
+1. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -78,7 +78,7 @@ The site automatically deploys to GitHub Pages when you push to the `main` branc
 To enable GitHub Pages for your repository:
 
 1. Go to your repository on GitHub
-2. Navigate to **Settings** → **Pages**
+2. Navigate to **Settings** -> **Pages**
 3. Under **Source**, select **GitHub Actions**
 4. The workflow will automatically build and deploy on every push to `main`
 

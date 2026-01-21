@@ -2,7 +2,7 @@
 
 **Status:**  IN PROGRESS
 
-[← Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Civil Unrest Response →](17-civil-unrest.md)
+[<- Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Civil Unrest Response ->](17-civil-unrest.md)
 
 ---
 
@@ -19,7 +19,7 @@ Economic collapse scenarios range from severe recessions and depressions to comp
 **Key characteristics:**
 
 - **Primary threat mechanisms:** Currency devaluation/hyperinflation, banking freezes (corralito), supply chain breakdown, unemployment, asset confiscation, violence/looting driven by desperation
-- **Cascading effects:** Economic collapse → civil unrest (looting, protests) → piracy/maritime violence → regional instability → migration crises
+- **Cascading effects:** Economic collapse -> civil unrest (looting, protests) -> piracy/maritime violence -> regional instability -> migration crises
 - **Likely duration:** Severe recessions 10-18 months; depressions 3-12 years; hyperinflation months to years; recovery much longer
 - **Geographic variations:** Advanced economies hit harder in deflationary collapses; developing economies more vulnerable to currency crises; commodity exporters (especially food) fare better; dollarized economies more stable
 
@@ -665,7 +665,7 @@ These countries adopted the USD as legal tender, providing **complete protection
 
 **Example locations:**
 
-- **Ecuador:** Gal�pagos (pristine but expensive, permit required), mainland coast (Santa Cruz, Salinas)
+- **Ecuador:** Galapagos (pristine but expensive, permit required), mainland coast (Santa Cruz, Salinas)
 - **El Salvador:** Limited cruising infrastructure; Caribbean coast
 - **Panama:** San Blas Islands (Kuna Yala - beautiful, indigenous autonomy, limited services), Bocas del Toro (Caribbean), Panama Canal zone (services), Las Perlas Islands (Pacific)
 
@@ -733,4 +733,4 @@ These nations demonstrated economic resilience through strong pre-crisis fiscal 
 
 ---
 
-[← Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Civil Unrest Response →](17-civil-unrest.md)
+[<- Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Civil Unrest Response ->](17-civil-unrest.md)

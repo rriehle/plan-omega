@@ -50,8 +50,8 @@ Understanding how scenarios differ helps prioritize preparations and responses:
 
 | Factor | Economic Collapse | Civil Unrest | Climate Collapse | War | Pandemic |
 |--------|-------------------|--------------|------------------|-----|----------|
-| **Warning Time** | 12-24 months (yield curve, unemployment) | Days to weeks (protests → violence) | Decades (gradual) | Weeks to months (diplomatic breakdown) | Hours to days (outbreak announcement) |
-| **Escalation Speed** | Gradual → rapid (months → weeks) | Very rapid (peaceful → violent in 72 hrs) | Very slow (decades to centuries) | Rapid (weeks) | Rapid (days to weeks) |
+| **Warning Time** | 12-24 months (yield curve, unemployment) | Days to weeks (protests -> violence) | Decades (gradual) | Weeks to months (diplomatic breakdown) | Hours to days (outbreak announcement) |
+| **Escalation Speed** | Gradual -> rapid (months -> weeks) | Very rapid (peaceful -> violent in 72 hrs) | Very slow (decades to centuries) | Rapid (weeks) | Rapid (days to weeks) |
 | **Duration** | 10 months to 12+ years | Days to decades | Centuries (no recovery timeline) | Months to years | Weeks to months (waves possible) |
 | **Geographic Hotspots** | Emerging markets, high-debt nations | Urban centers, politically unstable | Tropics, Middle East, low-lying coasts | Conflict zones, strategic locations | Population centers, trade routes |
 | **Best Refuges** | Dollarized economies, subsistence regions, remote Pacific | Remote anchorages, peaceful cultures, neutral zones | High latitudes (Canada, Scandinavia, NZ, Patagonia) | Neutral nations, Southern Hemisphere | Remote anchorages 10+ miles from population |
@@ -60,14 +60,14 @@ Understanding how scenarios differ helps prioritize preparations and responses:
 | **Departure Trigger** | Banking freeze, hyperinflation >50%/month, civil unrest | First violence, government crackdown, foreigners evacuating | Home region uninhabitable, resource wars, mass migration | Military mobilization, first strikes, nuclear threats | WHO pandemic declaration, local cases, border closures |
 | **Ideal Timeline** | Depart during Level 2 (early warnings) | **Depart during Level 1-2** (before violence) | Gradual migration over decades | Depart immediately upon Level 3 | Isolate immediately (within hours) |
 | **Maritime Advantages** | Mobility to dollarized economies, fishing = renewable food, skills valued | **Mobility = escape before trapped**, physical separation from violence | **Mobility to relocate as climate shifts**, fishing as land agriculture fails, ocean cooling | Mobility to neutral zones, international waters refuge, low-value target | **Isolation 10+ miles offshore**, self-sufficiency, fishing, ability to quarantine |
-| **Cascade Risk** | → Civil Unrest (desperation) → Piracy | → Economic (infrastructure collapse) → Refugee flows | → Mass migration → Resource wars → Failed states | → Economic → Civil → Pandemic (public health breakdown) | → Economic → Civil |
+| **Cascade Risk** | -> Civil Unrest (desperation) -> Piracy | -> Economic (infrastructure collapse) -> Refugee flows | -> Mass migration -> Resource wars -> Failed states | -> Economic -> Civil -> Pandemic (public health breakdown) | -> Economic -> Civil |
 | **Multi-Year Viability** | Moderate (barter economy, subsistence) | Low (must reach stable refuge) | High (if in climate refuge with deep self-sufficiency) | Low to moderate (depends on war scope/duration) | Low (isolation unsustainable >6-12 months) |
 
 ### Key Insights from Comparison
 
 **Fastest-developing threats (most dangerous):**
 
-1. **Civil Unrest** - Peaceful → deadly in 72 hours; requires **pre-emptive departure**
+1. **Civil Unrest** - Peaceful -> deadly in 72 hours; requires **pre-emptive departure**
 2. **Pandemic** - Global spread in days; requires **immediate isolation**
 3. **War** - Escalation in weeks; requires **rapid departure to neutral zones**
 
@@ -87,55 +87,55 @@ Understanding how scenarios differ helps prioritize preparations and responses:
 
 **Most likely to cascade:**
 
-1. **Economic Collapse** → Civil Unrest (70-80% probability; historical pattern)
-2. **Climate Collapse** → Mass Migration → Resource Wars → Failed States (inevitable if warming >2°C)
-3. **Pandemic** → Economic Collapse (COVID-19 demonstrated)
+1. **Economic Collapse** -> Civil Unrest (70-80% probability; historical pattern)
+2. **Climate Collapse** -> Mass Migration -> Resource Wars -> Failed States (inevitable if warming >2°C)
+3. **Pandemic** -> Economic Collapse (COVID-19 demonstrated)
 
 **Best all-around refuge destinations (work for multiple scenarios):**
 
 1. **French Polynesia (especially Marquesas)**
-   - ✅ Economic: Subsistence economy, abundant fishing, minimal global integration
-   - ✅ Civil Unrest: Remote, peaceful, minimal conflict risk
-   - ✅ Climate: Zero cyclone risk, food-independent, high-latitude refuge (by tropical standards)
-   - ✅ War: Remote from conflict zones, neutral (French protectorate)
-   - ✅ Pandemic: Remote anchorages 10+ miles from population
+   - [x] Economic: Subsistence economy, abundant fishing, minimal global integration
+   - [x] Civil Unrest: Remote, peaceful, minimal conflict risk
+   - [x] Climate: Zero cyclone risk, food-independent, high-latitude refuge (by tropical standards)
+   - [x] War: Remote from conflict zones, neutral (French protectorate)
+   - [x] Pandemic: Remote anchorages 10+ miles from population
 
 2. **New Zealand**
-   - ✅ Economic: Stable currency, weathered 2008 crisis well
-   - ✅ Civil Unrest: Politically stable, rule of law
-   - ✅ Climate: High-latitude refuge, temperate, food self-reliant
-   - ✅ War: Neutral, remote from major conflicts
-   - ✅ Pandemic: Low population density, island nation (border control advantage)
+   - [x] Economic: Stable currency, weathered 2008 crisis well
+   - [x] Civil Unrest: Politically stable, rule of law
+   - [x] Climate: High-latitude refuge, temperate, food self-reliant
+   - [x] War: Neutral, remote from major conflicts
+   - [x] Pandemic: Low population density, island nation (border control advantage)
 
 3. **Canada (Pacific Northwest, Maritimes, Great Lakes)**
-   - ✅ Economic: Stable currency, commodity exporter
-   - ✅ Civil Unrest: Politically stable, low violence
-   - ✅ Climate: High-latitude refuge, freshwater access (Great Lakes)
-   - ✅ War: Neutral stance historically, NATO protection
-   - ⚠️ Pandemic: Population centers require avoidance; remote areas ideal
+   - [x] Economic: Stable currency, commodity exporter
+   - [x] Civil Unrest: Politically stable, low violence
+   - [x] Climate: High-latitude refuge, freshwater access (Great Lakes)
+   - [x] War: Neutral stance historically, NATO protection
+   - **WARNING:** Pandemic: Population centers require avoidance; remote areas ideal
 
 4. **Patagonia (Chile/Argentina)**
-   - ✅ Economic: Dollarized (in practice), subsistence possible
-   - ✅ Civil Unrest: Remote, low population density
-   - ✅ Climate: High-latitude Southern Hemisphere refuge
-   - ⚠️ War: Regional stability variable (Argentina economic crises)
-   - ✅ Pandemic: Remote, sparse population
+   - [x] Economic: Dollarized (in practice), subsistence possible
+   - [x] Civil Unrest: Remote, low population density
+   - [x] Climate: High-latitude Southern Hemisphere refuge
+   - **WARNING:** War: Regional stability variable (Argentina economic crises)
+   - [x] Pandemic: Remote, sparse population
 
 ## Multi-Scenario Planning
 
-Scenarios rarely occur in isolation—they cascade and overlap:
+Scenarios rarely occur in isolation--they cascade and overlap:
 
 **Common cascades:**
 
-- Pandemic → Economic → Civil (disease disrupts economy, scarcity triggers unrest)
-- Economic → Civil → War
-- Climate → Economic → Civil
-- War → Economic → Climate (neglect)
-- War → Pandemic (biological weapons, public health breakdown)
+- Pandemic -> Economic -> Civil (disease disrupts economy, scarcity triggers unrest)
+- Economic -> Civil -> War
+- Climate -> Economic -> Civil
+- War -> Economic -> Climate (neglect)
+- War -> Pandemic (biological weapons, public health breakdown)
 
 **Implication**: Your plans must address multiple scenarios simultaneously. Identify destinations and strategies that work for several scenarios.
 
-**COVID-19 lesson**: The 2019-2024 pandemic demonstrated that scenarios cascade rapidly and unpredictably. What begins as a health crisis quickly becomes economic, then social/political. Multi-scenario planning is not theoretical—it's essential.
+**COVID-19 lesson**: The 2019-2024 pandemic demonstrated that scenarios cascade rapidly and unpredictably. What begins as a health crisis quickly becomes economic, then social/political. Multi-scenario planning is not theoretical--it's essential.
 
 ### Planning for Overlapping Scenarios
 
@@ -165,26 +165,26 @@ Scenarios rarely occur in isolation—they cascade and overlap:
 
 ## Chapters in This Part
 
-### [16. Economic Collapse Response](16-economic-collapse.md) ⚠️ DRAFT
+### [16. Economic Collapse Response](16-economic-collapse.md) **WARNING:** DRAFT
 
 Surviving economic collapse: barter, trade, destinations, strategies.
 
-### [17. Civil Unrest Response](17-civil-unrest.md) ⚠️ DRAFT
+### [17. Civil Unrest Response](17-civil-unrest.md) **WARNING:** DRAFT
 
 Surviving civil unrest: evasion, safe havens, security, neutrality.
 
-### [18. Climate Collapse Response](18-climate-collapse.md) ⚠️ DRAFT
+### [18. Climate Collapse Response](18-climate-collapse.md) **WARNING:** DRAFT
 
 Surviving climate collapse: habitability, migration, adaptation, resources.
 
-### [19. War Response](19-war.md) ⚠️ DRAFT
+### [19. War Response](19-war.md) **WARNING:** DRAFT
 
 Surviving war: neutral zones, avoidance, evasion, nuclear considerations.
 
-### [20. Pandemic/Biological Crisis Response](20-pandemic-biological.md) 🔄 IN PROGRESS
+### [20. Pandemic/Biological Crisis Response](20-pandemic-biological.md) [IN PROGRESS] IN PROGRESS
 
 Surviving pandemic: isolation protocols, health monitoring, remote quarantine, telemedicine, extended self-sufficiency.
 
 ---
 
-[← Part III: Knowledge](../part-3-knowledge-skills/README.md) | [Main Manual](../README.md) | [Next: Part V - Protocols →](../part-5-protocols/README.md)
+[<- Part III: Knowledge](../part-3-knowledge-skills/README.md) | [Main Manual](../README.md) | [Next: Part V - Protocols ->](../part-5-protocols/README.md)

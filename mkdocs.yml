@@ -116,9 +116,9 @@ extra:
 
   # Custom variables
   status:
-    draft: ⚠️ DRAFT
-    in_progress: 🔄 IN PROGRESS
-    complete: ✅ COMPLETE
+    draft: **WARNING:** DRAFT
+    in_progress: [IN PROGRESS] IN PROGRESS
+    complete: [x] COMPLETE
 
 # Page tree / Navigation
 nav:

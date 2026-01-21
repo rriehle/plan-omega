@@ -1,6 +1,6 @@
 # P.A.C.E. Planning Template
 
-**Status:** ✅ READY TO USE
+**Status:** [x] READY TO USE
 
 ---
 
@@ -29,11 +29,11 @@ _________________________________________________________________________
 
 **Impact of complete system failure:**
 
-☐ Immediately life-threatening
-☐ Life-threatening within 24 hours
-☐ Life-threatening within 1 week
-☐ Serious hardship but survivable
-☐ Inconvenience only
+[ ] Immediately life-threatening
+[ ] Life-threatening within 24 hours
+[ ] Life-threatening within 1 week
+[ ] Serious hardship but survivable
+[ ] Inconvenience only
 
 ---
 
@@ -61,6 +61,7 @@ _________________________________________________________________________
 - ___________________________________________________
 
 **Maintenance Schedule:**
+
 - Daily: _________________________________________________
 - Weekly: ________________________________________________
 - Monthly: _______________________________________________
@@ -73,12 +74,12 @@ _________________________________________________________________________
 3. ___________________________________________________
 
 **Current Status:**
-☐ Fully implemented and operational
-☐ Partially implemented (describe gaps): __________________
-☐ Not yet implemented
+[ ] Fully implemented and operational
+[ ] Partially implemented (describe gaps): __________________
+[ ] Not yet implemented
 
 **Last Tested:** _______________
-**Test Frequency:** ☐ Daily ☐ Weekly ☐ Monthly ☐ Quarterly
+**Test Frequency:** [ ] Daily [ ] Weekly [ ] Monthly [ ] Quarterly
 
 **Notes:**
 
@@ -124,12 +125,12 @@ _________________________________________________________________________
 3. ___________________________________________________
 
 **Current Status:**
-☐ Fully implemented and operational
-☐ Partially implemented (describe gaps): __________________
-☐ Not yet implemented
+[ ] Fully implemented and operational
+[ ] Partially implemented (describe gaps): __________________
+[ ] Not yet implemented
 
 **Last Tested:** _______________
-**Test Frequency:** ☐ Weekly ☐ Monthly ☐ Quarterly ☐ Annually
+**Test Frequency:** [ ] Weekly [ ] Monthly [ ] Quarterly [ ] Annually
 
 **Notes:**
 
@@ -175,12 +176,12 @@ _________________________________________________________________________
 3. ___________________________________________________
 
 **Current Status:**
-☐ Fully implemented and operational
-☐ Partially implemented (describe gaps): __________________
-☐ Not yet implemented
+[ ] Fully implemented and operational
+[ ] Partially implemented (describe gaps): __________________
+[ ] Not yet implemented
 
 **Last Tested:** _______________
-**Test Frequency:** ☐ Quarterly ☐ Annually
+**Test Frequency:** [ ] Quarterly [ ] Annually
 
 **Notes:**
 
@@ -222,12 +223,12 @@ _________________________________________________________________________
 _________________________________________________________________________
 
 **Current Status:**
-☐ Fully implemented and operational
-☐ Partially implemented (describe gaps): __________________
-☐ Not yet implemented
+[ ] Fully implemented and operational
+[ ] Partially implemented (describe gaps): __________________
+[ ] Not yet implemented
 
 **Last Tested:** _______________
-**Test Frequency:** ☐ Annually ☐ Every 2 years
+**Test Frequency:** [ ] Annually [ ] Every 2 years
 
 **Notes:**
 
@@ -261,10 +262,10 @@ _________________________________________________________________________
 ## OVERALL ASSESSMENT
 
 **P.A.C.E. Readiness:**
-☐ All 4 levels implemented and tested (Excellent)
-☐ P, A, C implemented; E planned (Good)
-☐ P and A implemented (Adequate for Level 1-2)
-☐ P only (Inadequate—single point of failure)
+[ ] All 4 levels implemented and tested (Excellent)
+[ ] P, A, C implemented; E planned (Good)
+[ ] P and A implemented (Adequate for Level 1-2)
+[ ] P only (Inadequate--single point of failure)
 
 **Priority Actions** (Top 3 next steps to improve this system):
 
@@ -305,4 +306,4 @@ _________________________________________________________________________
 
 ---
 
-[← Templates Index](README.md) | [Main Manual](../README.md)
+[<- Templates Index](README.md) | [Main Manual](../README.md)

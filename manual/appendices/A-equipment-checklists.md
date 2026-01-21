@@ -1280,7 +1280,7 @@ In extremis, these items keep you alive until rescue. Prepare as if you'll spend
 #### Immersion/Survival Suits
 
 - **Type**: Full-body neoprene or coated nylon suits
-- **Quantity**: One per crew member if cruising cold waters (below 60�F/15�C)
+- **Quantity**: One per crew member if cruising cold waters (below 60F/15C)
 - **Features**:
   - Integrated flotation
   - Sealed wrists, neck, ankles
@@ -1661,7 +1661,7 @@ Long-term food provisioning requires careful planning of shelf-stable foods, pre
   - Sun-dried tomatoes (oil-packed): 6+ jars
   - Roasted red peppers: 6+ jars
   - Artichoke hearts: 12+ cans
-  - Pickled jalape�os: 6+ jars
+  - Pickled jalapenos: 6+ jars
   - Relish (sweet, dill): 6+ jars
 
 #### Sprouting Seeds (for fresh greens)

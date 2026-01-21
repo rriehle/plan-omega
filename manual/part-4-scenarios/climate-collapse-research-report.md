@@ -81,18 +81,18 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 **Already Crossed**:
 
-- ✅ **Coral Reefs**: Worst mass bleaching on record (2023-present), >80% affected
+- [x] **Coral Reefs**: Worst mass bleaching on record (2023-present), >80% affected
 
 **High Risk (Near-Term)**:
 
-- ⚠️ **AMOC Collapse** (Atlantic Meridional Overturning Circulation):
+- **WARNING:** **AMOC Collapse** (Atlantic Meridional Overturning Circulation):
   - Could collapse this century, possibly before 2°C warming
   - Impacts: Europe deep freeze, tropics heating, disrupted monsoons, raised sea levels
   - Scientific debate: Not all experts agree collapse is imminent
-- ⚠️ **Amazon Rainforest Dieback**:
+- **WARNING:** **Amazon Rainforest Dieback**:
   - Trigger threshold lowered from 2°C to 1.5°C
   - By 2050: Nearly half of Amazon could face multiple stressors triggering die-off
-- ⚠️ **Ice Sheet Collapse**:
+- **WARNING:** **Ice Sheet Collapse**:
   - Sections may have already passed tipping points
   - Implies "several meters of irreversible sea level rise"
 
@@ -164,13 +164,13 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 **Secondary Refuges**:
 
-5. **Great Lakes Region** (US/Canada)
+1. **Great Lakes Region** (US/Canada)
    - **Advantages**: 21% of world's surface freshwater (Lake Superior = 10% alone); warming winters; less fire-prone forests; insulation from sea level rise
    - **Challenges**: Not a complete "climate haven" - still faces warming, intense storms, less ice cover, water level fluctuations, shoreline erosion
    - **Best For**: Freshwater sailing; inland refuge; summer base
    - **Immigration Potential**: Projected to attract millions fleeing coastal/western areas
 
-6. **Southern Latitude Islands** (Falklands, South Georgia, Tasmania)
+2. **Southern Latitude Islands** (Falklands, South Georgia, Tasmania)
    - **Advantages**: Remote; temperate; ocean access
    - **Challenges**: Limited resources; harsh weather; isolation
    - **Best For**: Emergency refuge; experienced offshore sailors
@@ -315,7 +315,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 **Africa**:
 
-- 1.2-1.9°C warming → 25-95% increase in malnourished population by 2050
+- 1.2-1.9°C warming -> 25-95% increase in malnourished population by 2050
 
 **Global**:
 
@@ -334,7 +334,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 - Open ocean fish species migrating poleward/northward
 - **Key Advantage**: Mobile vessel can follow fish migrations to productive waters
 - Species shifting 4-10 km/year northward (Atlantic tuna, Pacific cod, Alaska pollock)
-- By 2030: 25% of global shared stocks crossing boundaries → new fishing opportunities in refuge zones
+- By 2030: 25% of global shared stocks crossing boundaries -> new fishing opportunities in refuge zones
 
 **Strategic Implications**:
 
@@ -431,7 +431,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 **Temperature Dynamics**:
 
 - Warming favors **dengue** (Aedes aegypti mosquito) expansion
-- May reduce suitability for **malaria** (Anopheles gambiae) in some areas → disease burden shift
+- May reduce suitability for **malaria** (Anopheles gambiae) in some areas -> disease burden shift
 
 ### Maritime Vulnerability
 
@@ -492,14 +492,14 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 - ~4.3°C warming by 2100
 - Catastrophic global impacts
 - **Current Assessment (2025)**: Less likely than when developed (2008-2011) due to renewable energy cost declines + Paris Agreement policies
-- **BUT**: Only ~0.5% probability of exceeding 8.5 W/m² forcing by 2100
+- **BUT**: Only ~0.5% probability of exceeding 8.5 W/m^2 forcing by 2100
 
 ### Current Trajectory (2025)
 
 **Consensus View**:
 
 - We are tracking **between RCP 4.5 and RCP 8.5**
-- Median projection: ~5.1 W/m² forcing by 2100 (range: 3.3-7.1)
+- Median projection: ~5.1 W/m^2 forcing by 2100 (range: 3.3-7.1)
 - Without strengthened action, **unlikely to achieve RCP 2.6**
 - Current policies insufficient to meet Paris Agreement targets
 
@@ -531,7 +531,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 - Still severe impacts but manageable with adaptation
 
-**Pessimistic Scenario** (RCP 8.5): Tipping point cascades + policy failures → >4°C warming
+**Pessimistic Scenario** (RCP 8.5): Tipping point cascades + policy failures -> >4°C warming
 
 - Civilization-level collapse in many regions; only high-latitude refuges viable
 
@@ -582,7 +582,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 - **Rapid Climate Shifts**: Can make previously viable regions uninhabitable within 1-2 generations
 - **Fishing Disruption**: Ice, changed ocean currents impacted marine resources
-- **Food Insecurity**: Climate-driven harvest failures → famine, social collapse
+- **Food Insecurity**: Climate-driven harvest failures -> famine, social collapse
 - **Population Decline**: Communities dependent on climate-sensitive resources (farming, fishing) abandoned regions
 
 ### Key Differences: Current Climate Change vs. Historical Analogues
@@ -611,7 +611,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 - Adaptation to new normal can be reversed rapidly (Norse Greenland collapse)
 - Ice expansion could return (some models predict AMOC-collapse cooling in North Atlantic/Europe even as globe warms)
 - Dependence on climate-stable food sources is risky
-- Population pressures far greater now → less room for error
+- Population pressures far greater now -> less room for error
 
 **Strategic Takeaway**: Historical analogues show climate shifts create **temporary opportunities** (new habitable zones, resources) but also **rapid reversals** (ice expansion, failed harvests). Maritime families must maintain **flexibility, redundancy, and self-sufficiency** rather than depending on any single climate-stable zone.
 
@@ -699,7 +699,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 **Primary: Rainwater Catchment**
 
-- **System**: Large canvas/tarp catchment → filtration → storage tanks (500-1000+ gallons)
+- **System**: Large canvas/tarp catchment -> filtration -> storage tanks (500-1000+ gallons)
 - **Advantages**: Free, sustainable, low energy, proven technology
 - **Challenges**: Extended droughts (climate change increases variability); contamination risk; storage capacity limits
 - **Best For**: Regions with reliable rainfall (high latitudes, temperate zones)
@@ -837,7 +837,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 ### Scenario B: Tipping Point Cascade (RCP 7.0-8.5, 2025-2050)
 
-**Timeline**: AMOC collapses, Amazon dieback, ice sheets accelerate → abrupt, severe changes
+**Timeline**: AMOC collapses, Amazon dieback, ice sheets accelerate -> abrupt, severe changes
 
 **Strategy**:
 
@@ -866,7 +866,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 ### Scenario C: Breakthrough Mitigation (RCP 3.0-4.5, 2025-2100)
 
-**Timeline**: Technology + policy → aggressive emissions cuts; warming limited to ~2°C
+**Timeline**: Technology + policy -> aggressive emissions cuts; warming limited to ~2°C
 
 **Strategy**:
 
@@ -905,7 +905,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 ### Technological Unknowns
 
-1. **Carbon Capture**: Will technology enable rapid CO₂ removal, reversing warming?
+1. **Carbon Capture**: Will technology enable rapid CO2 removal, reversing warming?
 2. **Fusion Energy**: Could abundant clean energy enable massive desalination, cooling, adaptation?
 3. **Geoengineering**: Will solar radiation management be deployed (intentionally or desperately)?
 4. **Sailboat Tech**: Will new materials, designs, systems improve climate resilience?
@@ -1081,7 +1081,7 @@ Climate collapse represents a progressive, multi-decade threat that will fundame
 
 **Integration with Manual**:
 
-- This research report informs **Part IV: Scenarios → Climate Collapse chapter**
+- This research report informs **Part IV: Scenarios -> Climate Collapse chapter**
 - Cross-reference with **Part II: Core Systems** (water, food, energy systems)
 - Update **Part V: Protocols** (seasonal migration, disease prevention, hurricane avoidance)
 

@@ -42,10 +42,10 @@
 
 ### FIRE CLASSIFICATIONS
 
-- **Class A:** Wood, paper, cloth → Water or ABC
-- **Class B:** Gasoline, oil, grease → BC or ABC (NEVER WATER)
-- **Class C:** Electrical → BC or ABC (cut power first)
-- **Class K:** Galley grease → Smother or K-type
+- **Class A:** Wood, paper, cloth -> Water or ABC
+- **Class B:** Gasoline, oil, grease -> BC or ABC (NEVER WATER)
+- **Class C:** Electrical -> BC or ABC (cut power first)
+- **Class K:** Galley grease -> Smother or K-type
 
 ### ENGINE ROOM FIRE PROTOCOL
 
@@ -174,7 +174,7 @@
 #### Figure-8 / Williamson Turn (Power Vessels)
 
 1. **Hard over rudder** toward side person went over
-2. **Shift rudder** when heading 60� off original
+2. **Shift rudder** when heading 60 deg off original
 3. **Steadies on reciprocal** heading back to person
 4. **Slow and approach** from downwind
 
@@ -197,10 +197,10 @@
 
 **Water Temp vs. Time:**
 
-- 50�F (10�C): 1-3 hours survival
-- 60�F (15�C): 2-7 hours survival
-- 70�F (21�C): 3-12 hours survival
-- 80�F (27�C): Indefinite if conscious
+- 50 degF (10 degC): 1-3 hours survival
+- 60 degF (15 degC): 2-7 hours survival
+- 70 degF (21 degC): 3-12 hours survival
+- 80 degF (27 degC): Indefinite if conscious
 
 **After Rescue:**
 
@@ -252,7 +252,7 @@
 
 **2. DISTRESS (60 seconds before)**
 
-- **MAYDAY � 3** on VHF CH 16 with position
+- **MAYDAY x 3** on VHF CH 16 with position
 - Activate **EPIRB** (bring in life raft)
 - Activate **DSC distress** on VHF
 - Set off flares if vessels nearby
@@ -628,7 +628,7 @@
 3. **Trim mainsail** (reefed or trysail)
 4. **Lash helm to leeward** (rudder turns boat into wind)
 
-**Result:** Boat drifts slowly forward and to lee at 1-2 knots, bow 40-50� off wind, relatively stable
+**Result:** Boat drifts slowly forward and to lee at 1-2 knots, bow 40-50 deg off wind, relatively stable
 
 **Best for:** Fin keel boats may lie beam-to (dangerous)test in moderate conditions first
 
@@ -729,7 +729,7 @@
 - Disabled, taking on water but stable, medical concern
 - Needs assistance but not immediate danger
 
-**S�CURIT� = Safety Information**
+**SECURITE = Safety Information**
 
 - Navigation hazards, weather warnings
 - Information broadcast, not request for assistance
@@ -801,7 +801,7 @@ Over.
 
 - **Orange smoke:** High visibility, wind disperses quickly
 - **Signal mirror:** Effective 10+ miles, aim reflection at aircraft/vessel
-- **Orange flag:** 3�3 ft with black ball and square
+- **Orange flag:** 3 deg3 ft with black ball and square
 - **Dye marker:** Bright green/orange in water, aerial spotting
 
 **Nighttime:**
@@ -813,7 +813,7 @@ Over.
 **Flare Usage:**
 
 - Wait until aircraft/vessel in sight (limited quantity)
-- Aim aerial flares downwind, 15� angle
+- Aim aerial flares downwind, 15 deg angle
 - Handheld flares: Extend at arm's length, downwind side, aim away from vessel
 
 ### PYROTECHNIC REQUIREMENTS
@@ -848,7 +848,7 @@ Over.
 **Priority 3: Information**
 
 1. Monitor Ch 16 and local working channels
-2. Broadcast S�CURIT� if hazard to others
+2. Broadcast SECURITE if hazard to others
 
 ---
 
@@ -894,7 +894,7 @@ Over.
 **Overtaking (Rule 13):**
 
 - Overtaking vessel keeps clear
-- Passing within 22.5� of stern = overtaking
+- Passing within 22.5 deg of stern = overtaking
 - Overtaking remains give-way even if crossing later
 
 ### SOUND SIGNALS IN RESTRICTED VISIBILITY
@@ -1074,9 +1074,9 @@ Over.
 
 | Air Temp | Minimal Survival | Subsistence | Working |
 |----------|-----------------|-------------|---------|
-| 50�F (10�C) | 1.5 L/day | 2.5 L/day | 4 L/day |
-| 70�F (20�C) | 2 L/day | 3 L/day | 5 L/day |
-| 90�F (30�C) | 3 L/day | 4 L/day | 7+ L/day |
+| 50 degF (10 degC) | 1.5 L/day | 2.5 L/day | 4 L/day |
+| 70 degF (20 degC) | 2 L/day | 3 L/day | 5 L/day |
+| 90 degF (30 degC) | 3 L/day | 4 L/day | 7+ L/day |
 
 **Children:** Reduce by 25-50% depending on age/size
 
@@ -1414,4 +1414,4 @@ Drill these procedures regularly. When the emergency happens, you'll fall to you
 
 ---
 
-[� Appendix D: Document Templates](D-document-templates.md) | [Appendices Overview](README.md) | [Main Manual](../README.md)
+[<- Appendix D: Document Templates](D-document-templates.md) | [Appendices Overview](README.md) | [Main Manual](../README.md)

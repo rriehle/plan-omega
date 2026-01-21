@@ -94,8 +94,8 @@ When you're 1,000 miles from the nearest harbor and something breaks, your survi
 
 **Mechanical**
 
-- **Socket set**: �", \", �" drive, metric and imperial
-- **Combination wrenches**: 8mm-19mm, 5/16"-�"
+- **Socket set**: 1/4", \", 1/4" drive, metric and imperial
+- **Combination wrenches**: 8mm-19mm, 5/16"-1/4"
 - **Adjustable wrenches**: 6", 10", 12"
 - **Screwdrivers**: Complete set including JIS for Japanese engines
 - **Allen keys**: Metric and imperial, ball-end
@@ -197,7 +197,7 @@ When you're 1,000 miles from the nearest harbor and something breaks, your survi
 
 - Machine screws (316 SS, complete range)
 - Self-tapping screws (316 SS, #6-#14)
-- Bolts (316 SS, �"-�")
+- Bolts (316 SS, 1/4"-1/4")
 - Nuts and washers (316 SS)
 - Clevis pins and cotter pins
 - Shackles (spare for each critical application)

@@ -355,9 +355,9 @@ The standard method used in modern celestial navigation.
    - Identify celestial body observed
 
 2. **Apply Corrections**:
-   - Index error → Observed altitude
-   - Dip (height of eye) → Apparent altitude (Ha)
-   - Refraction, semidiameter, parallax → Observed altitude (Ho)
+   - Index error -> Observed altitude
+   - Dip (height of eye) -> Apparent altitude (Ha)
+   - Refraction, semidiameter, parallax -> Observed altitude (Ho)
 
 3. **Choose Assumed Position**:
    - Latitude: Nearest whole degree to DR position
@@ -422,7 +422,7 @@ The standard method used in modern celestial navigation.
 **Dip Error (Height of Eye)**:
 
 - Always negative for observations above sea level
-- Formula: Dip (minutes) = 0.97 × √(height in feet)
+- Formula: Dip (minutes) = 0.97 x sqrt(height in feet)
 - Abnormal atmospheric refraction can cause 10' variation from tables
 - Greater error in unusual weather conditions
 - Apply correction from tables based on height of eye
@@ -505,7 +505,7 @@ The standard method used in modern celestial navigation.
 
 Dead reckoning (DR) is the fundamental skill of calculating current position based on previously known position, course, speed, and time elapsed.
 
-**Basic Formula**: Distance = Speed × Time
+**Basic Formula**: Distance = Speed x Time
 
 **Essential Components**:
 
@@ -529,7 +529,7 @@ Dead reckoning (DR) is the fundamental skill of calculating current position bas
 
 3. **Calculate Distance Run**:
    - Use log reading or estimated speed
-   - Distance = Speed (knots) × Time (hours)
+   - Distance = Speed (knots) x Time (hours)
    - Mark DR position at regular intervals (hourly for ocean passages)
 
 4. **Account for Leeway**:
@@ -631,15 +631,15 @@ Dead reckoning (DR) is the fundamental skill of calculating current position bas
 
 Converting between Compass, Magnetic, and True courses:
 
-**C**ompass → **A**pply **D**eviation → **M**agnetic → **A**pply **V**ariation → **T**rue
+**C**ompass -> **A**pply **D**eviation -> **M**agnetic -> **A**pply **V**ariation -> **T**rue
 
-**Going from Compass to True (C→T)**:
+**Going from Compass to True (C->T)**:
 
 - Add EAST deviation and variation
 - Subtract WEST deviation and variation
-- "CADET" → Add East
+- "CADET" -> Add East
 
-**Going from True to Compass (T→C)**:
+**Going from True to Compass (T->C)**:
 
 - Reverse the process
 - Subtract EAST deviation and variation
@@ -652,6 +652,7 @@ Converting between Compass, Magnetic, and True courses:
 - Variation: 15°W
 
 Compass: 090°
+
 - Dev 3°E: = 093° Magnetic
 
 - Var 15°W: = 078° True
@@ -712,7 +713,7 @@ Compass: 090°
 - Use dividers on latitude scale (1 minute = 1 nautical mile)
 - Never use longitude scale for distance
 - Walk dividers along course line for long distances
-- Distance formula: 60 × minutes of latitude = nautical miles
+- Distance formula: 60 x minutes of latitude = nautical miles
 
 **Measuring Direction**:
 

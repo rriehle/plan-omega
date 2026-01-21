@@ -2,7 +2,7 @@
 
 **Status:**  COMPLETE
 
-← Resource Lists(C-resource-lists.md) | Appendices Overview(README.md) | Next: Quick Reference Cards →(E-quick-reference.md)
+<- Resource Lists(C-resource-lists.md) | Appendices Overview(README.md) | Next: Quick Reference Cards ->(E-quick-reference.md)
 
 ---
 
@@ -41,7 +41,7 @@ POSITION & NAVIGATION
 Time (Local): ________    Time (UTC): ________
 
 Position: ___°___.___' N/S    ___°___.___' E/W
-Method: ☐ GPS  ☐ Celestial  ☐ Dead Reckoning  ☐ Other: ______
+Method: [ ] GPS  [ ] Celestial  [ ] Dead Reckoning  [ ] Other: ______
 
 Course Made Good: _______°    Distance Run (24h): _______ nm
 Average Speed: _______ kts    Max Speed: _______ kts
@@ -51,35 +51,35 @@ Distance to Destination: _________ nm    ETA: ______________
 
 WEATHER CONDITIONS
 
-Time: ________    Barometer: _________ mb    Trend: ☐ Rising  ☐ Falling  ☐ Steady
+Time: ________    Barometer: _________ mb    Trend: [ ] Rising  [ ] Falling  [ ] Steady
 
-Sky: ☐Clear  ☐Partly Cloudy  ☐Overcast  ☐Fog  ☐Rain  ☐Storm
+Sky: [ ]Clear  [ ]Partly Cloudy  [ ]Overcast  [ ]Fog  [ ]Rain  [ ]Storm
 Sea State: _______ (0-9)    Swell: _____-_____ ft from _______°
 Visibility: _______ nm
 
 Wind: _______° at _______ kts
-☐Calm  ☐Light  ☐Moderate  ☐Fresh  ☐Strong  ☐Gale  ☐Storm
+[ ]Calm  [ ]Light  [ ]Moderate  [ ]Fresh  [ ]Strong  [ ]Gale  [ ]Storm
 
 Forecast for Next 24h: ______________________________________
 ____________________________________________________________
 
 VESSEL STATUS
 
-Hull: ☐Good  ☐Minor Issue: _____________________________
-Rigging: ☐Good  ☐Minor Issue: _____________________________
-Engine: ☐Good  ☐Minor Issue: _____________________________
-Electrical: ☐Good  ☐Minor Issue: _____________________________
+Hull: [ ]Good  [ ]Minor Issue: _____________________________
+Rigging: [ ]Good  [ ]Minor Issue: _____________________________
+Engine: [ ]Good  [ ]Minor Issue: _____________________________
+Electrical: [ ]Good  [ ]Minor Issue: _____________________________
 
 Engine Hours Start: ________    End: ________    Total: ________
 Fuel: ________%    Water: ________%
 Battery: House ________V    Starter ________V
 
-Sails Used: ☐Main  ☐Jib  ☐Genoa  ☐Staysail  ☐Spinnaker
-☐Storm Sails  ☐Other: _________________________________
+Sails Used: [ ]Main  [ ]Jib  [ ]Genoa  [ ]Staysail  [ ]Spinnaker
+[ ]Storm Sails  [ ]Other: _________________________________
 
 OPERATIONS & ACTIVITIES
 
-☐Underway    ☐At Anchor    ☐At Dock    ☐Hove To    ☐Other
+[ ]Underway    [ ]At Anchor    [ ]At Dock    [ ]Hove To    [ ]Other
 
 Crew Activity:
 ____________________________________________________________
@@ -98,7 +98,7 @@ Water Produced/Collected: ________ gal/L    Method: __________
 ENCOUNTERS & OBSERVATIONS
 
 Vessels Sighted: ___________________________________________
-Communications: ☐VHF  ☐SSB  ☐Ham  ☐Satellite  ☐None
+Communications: [ ]VHF  [ ]SSB  [ ]Ham  [ ]Satellite  [ ]None
 Contacts: __________________________________________________
 
 Wildlife: __________________________________________________
@@ -111,23 +111,23 @@ ____________________________________________________________
 
 CREW WELFARE
 
-Morale: ☐Excellent  ☐Good  ☐Fair  ☐Low  ☐Concerning
-Health: ☐All Well  ☐Minor Issues: ______________________
+Morale: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Low  [ ]Concerning
+Health: [ ]All Well  [ ]Minor Issues: ______________________
 Medical Events: ____________________________________________
 
 Meals: B: ________________ L: ________________ D: ______________
 
 SAFETY & SECURITY
 
-Security Posture: ☐Normal  ☐Elevated  ☐High Alert
-Incidents: ☐None  ☐Describe: _____________________________
+Security Posture: [ ]Normal  [ ]Elevated  [ ]High Alert
+Incidents: [ ]None  [ ]Describe: _____________________________
 ____________________________________________________________
 
 Drills Conducted: __________________________________________
 
 THREAT ASSESSMENT
 
-Current Threat Level: ☐Level 1  ☐Level 2  ☐Level 3  ☐Level 4
+Current Threat Level: [ ]Level 1  [ ]Level 2  [ ]Level 3  [ ]Level 4
 
 News/Information Received: _________________________________
 ____________________________________________________________
@@ -168,7 +168,7 @@ PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
                     INVENTORY TRACKING SHEET
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 
-Category: ☐Food  ☐Water  ☐Medical  ☐Fuel  ☐Parts  ☐Other: ________
+Category: [ ]Food  [ ]Water  [ ]Medical  [ ]Fuel  [ ]Parts  [ ]Other: ________
 Review Date: ______________    Reviewed By: __________________
 Last Audit: ______________    Next Audit: __________________
 
@@ -176,21 +176,21 @@ ITEM TRACKING TABLE
 
 Item Name | Qty | Unit | Location | Exp Date | Min Stock | Status
 
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
 
 CONSUMPTION ANALYSIS
 
@@ -208,19 +208,19 @@ RESUPPLY REQUIREMENTS
 
 Priority | Item | Quantity Needed | Target Date | Source
 
-☐URGENT |      |                 |             |
-☐HIGH   |      |                 |             |
-☐MEDIUM |      |                 |             |
-☐LOW    |      |                 |             |
+[ ]URGENT |      |                 |             |
+[ ]HIGH   |      |                 |             |
+[ ]MEDIUM |      |                 |             |
+[ ]LOW    |      |                 |             |
 
 ITEMS NEAR EXPIRATION (Next 90 Days)
 
 Item                    | Qty | Exp Date | Action Plan
 
-                       |     |          | ☐Use  ☐Replace  ☐Discard
-                       |     |          | ☐Use  ☐Replace  ☐Discard
-                       |     |          | ☐Use  ☐Replace  ☐Discard
-                       |     |          | ☐Use  ☐Replace  ☐Discard
+                       |     |          | [ ]Use  [ ]Replace  [ ]Discard
+                       |     |          | [ ]Use  [ ]Replace  [ ]Discard
+                       |     |          | [ ]Use  [ ]Replace  [ ]Discard
+                       |     |          | [ ]Use  [ ]Replace  [ ]Discard
 
 NOTES
 
@@ -247,8 +247,8 @@ PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
                     MAINTENANCE SCHEDULE TEMPLATE
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 
-System: ☐Engine  ☐Rigging  ☐Electrical  ☐Plumbing  ☐Sails
-        ☐Safety Equipment  ☐Electronics  ☐Other: ___________
+System: [ ]Engine  [ ]Rigging  [ ]Electrical  [ ]Plumbing  [ ]Sails
+        [ ]Safety Equipment  [ ]Electronics  [ ]Other: ___________
 
 Vessel: _____________________    Month/Year: ______________
 
@@ -285,10 +285,10 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Follow-up Required: ☐No  ☐Yes: _________________________
+Follow-up Required: [ ]No  [ ]Yes: _________________________
 ____________________________________________________________
 
-Status: ☐Complete  ☐Incomplete  ☐Needs Professional Service
+Status: [ ]Complete  [ ]Incomplete  [ ]Needs Professional Service
 
 
 Date: ______________    Performed By: ________________________
@@ -303,10 +303,10 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Follow-up Required: ☐No  ☐Yes: _________________________
+Follow-up Required: [ ]No  [ ]Yes: _________________________
 ____________________________________________________________
 
-Status: ☐Complete  ☐Incomplete  ☐Needs Professional Service
+Status: [ ]Complete  [ ]Incomplete  [ ]Needs Professional Service
 
 
 
@@ -314,10 +314,10 @@ UPCOMING MAINTENANCE (Next 30 Days)
 
 Due Date | Task | Priority | Parts Needed | Est. Time
 
-         |      | ☐U ☐H ☐M ☐L |         |
-         |      | ☐U ☐H ☐M ☐L |         |
-         |      | ☐U ☐H ☐M ☐L |         |
-         |      | ☐U ☐H ☐M ☐L |         |
+         |      | [ ]U [ ]H [ ]M [ ]L |         |
+         |      | [ ]U [ ]H [ ]M [ ]L |         |
+         |      | [ ]U [ ]H [ ]M [ ]L |         |
+         |      | [ ]U [ ]H [ ]M [ ]L |         |
 
 Priority: U=Urgent  H=High  M=Medium  L=Low
 
@@ -325,9 +325,9 @@ PARTS INVENTORY NEEDED
 
 Part Description              | Qty On Hand | Qty Needed | Order?
 
-                             |             |            | ☐Yes
-                             |             |            | ☐Yes
-                             |             |            | ☐Yes
+                             |             |            | [ ]Yes
+                             |             |            | [ ]Yes
+                             |             |            | [ ]Yes
 
 NOTES & OBSERVATIONS
 
@@ -358,14 +358,14 @@ Drill Officer: ____________________    Weather: ________________
 
 DRILL TYPE (Check One)
 
-☐Fire (Engine Room)           ☐Navigation (Lost Position)
-☐Fire (Galley)                ☐Navigation (Equipment Failure)
-☐Flooding (Hull Breach)       ☐Medical (Trauma)
-☐Man Overboard                ☐Medical (Illness)
-☐Abandon Ship                 ☐Security (Boarding)
-☐Storm Preparation            ☐Security (Threat)
-☐Communication Emergency      ☐System Failure (Specify): _____
-☐Water Emergency              ☐Other: _____________________
+[ ]Fire (Engine Room)           [ ]Navigation (Lost Position)
+[ ]Fire (Galley)                [ ]Navigation (Equipment Failure)
+[ ]Flooding (Hull Breach)       [ ]Medical (Trauma)
+[ ]Man Overboard                [ ]Medical (Illness)
+[ ]Abandon Ship                 [ ]Security (Boarding)
+[ ]Storm Preparation            [ ]Security (Threat)
+[ ]Communication Emergency      [ ]System Failure (Specify): _____
+[ ]Water Emergency              [ ]Other: _____________________
 
 DRILL SCENARIO
 
@@ -382,10 +382,10 @@ CREW PARTICIPATION
 
 Name                | Role | Present? | Performance
 
-                   |      | ☐Yes ☐No | ☐Excellent ☐Good ☐Needs Improvement
-                   |      | ☐Yes ☐No | ☐Excellent ☐Good ☐Needs Improvement
-                   |      | ☐Yes ☐No | ☐Excellent ☐Good ☐Needs Improvement
-                   |      | ☐Yes ☐No | ☐Excellent ☐Good ☐Needs Improvement
+                   |      | [ ]Yes [ ]No | [ ]Excellent [ ]Good [ ]Needs Improvement
+                   |      | [ ]Yes [ ]No | [ ]Excellent [ ]Good [ ]Needs Improvement
+                   |      | [ ]Yes [ ]No | [ ]Excellent [ ]Good [ ]Needs Improvement
+                   |      | [ ]Yes [ ]No | [ ]Excellent [ ]Good [ ]Needs Improvement
 
 DRILL TIMELINE
 
@@ -403,30 +403,30 @@ Total Time: ________    Target Time: ________    Variance: ________
 
 OBJECTIVES ASSESSMENT
 
-Objective 1: ☐Met  ☐Partially Met  ☐Not Met
+Objective 1: [ ]Met  [ ]Partially Met  [ ]Not Met
 Notes: _____________________________________________________
 
-Objective 2: ☐Met  ☐Partially Met  ☐Not Met
+Objective 2: [ ]Met  [ ]Partially Met  [ ]Not Met
 Notes: _____________________________________________________
 
-Objective 3: ☐Met  ☐Partially Met  ☐Not Met
+Objective 3: [ ]Met  [ ]Partially Met  [ ]Not Met
 Notes: _____________________________________________________
 
 PERFORMANCE EVALUATION
 
-Communication: ☐Excellent  ☐Good  ☐Adequate  ☐Poor
+Communication: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor
 Comments: __________________________________________________
 ____________________________________________________________
 
-Coordination: ☐Excellent  ☐Good  ☐Adequate  ☐Poor
+Coordination: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor
 Comments: __________________________________________________
 ____________________________________________________________
 
-Speed/Efficiency: ☐Excellent  ☐Good  ☐Adequate  ☐Poor
+Speed/Efficiency: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor
 Comments: __________________________________________________
 ____________________________________________________________
 
-Equipment Readiness: ☐Excellent  ☐Good  ☐Adequate  ☐Poor
+Equipment Readiness: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor
 Comments: __________________________________________________
 ____________________________________________________________
 
@@ -440,9 +440,9 @@ ISSUES IDENTIFIED
 
 Issue                        | Severity | Responsible | Due Date
 
-                            | ☐H ☐M ☐L |         |
-                            | ☐H ☐M ☐L |         |
-                            | ☐H ☐M ☐L |         |
+                            | [ ]H [ ]M [ ]L |         |
+                            | [ ]H [ ]M [ ]L |         |
+                            | [ ]H [ ]M [ ]L |         |
 
 LESSONS LEARNED
 
@@ -455,9 +455,9 @@ ACTION ITEMS
 
 Priority | Action | Assigned To | Target Date | Status
 
-☐U ☐H ☐M ☐L |   |             |             | ☐Open ☐Complete
-☐U ☐H ☐M ☐L |   |             |             | ☐Open ☐Complete
-☐U ☐H ☐M ☐L |   |             |             | ☐Open ☐Complete
+[ ]U [ ]H [ ]M [ ]L |   |             |             | [ ]Open [ ]Complete
+[ ]U [ ]H [ ]M [ ]L |   |             |             | [ ]Open [ ]Complete
+[ ]U [ ]H [ ]M [ ]L |   |             |             | [ ]Open [ ]Complete
 
 TRAINING RECOMMENDATIONS
 
@@ -475,7 +475,7 @@ SIGN-OFF
 Drill Officer: ____________________    Date: ______________
 Reviewed By: ______________________    Date: ______________
 
-Overall Assessment: ☐Excellent  ☐Good  ☐Adequate  ☐Needs Improvement
+Overall Assessment: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Needs Improvement
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 ```
 
@@ -499,98 +499,98 @@ Current Position: ______________    Region: ____________________
 
 CURRENT THREAT LEVEL
 
-Overall Assessment: ☐Level 1 (Normal)      ☐Level 2 (Enhanced)
-                   ☐Level 3 (Activation)  ☐Level 4 (Survival)
+Overall Assessment: [ ]Level 1 (Normal)      [ ]Level 2 (Enhanced)
+                   [ ]Level 3 (Activation)  [ ]Level 4 (Survival)
 
-Change from Last Assessment: ☐Increased  ☐Decreased  ☐Unchanged
+Change from Last Assessment: [ ]Increased  [ ]Decreased  [ ]Unchanged
 
 SCENARIO-SPECIFIC THREAT EVALUATION
 
 
 ECONOMIC COLLAPSE
-Current Status: ☐Green (Stable)  ☐Yellow (Concerning)
-                ☐Orange (Serious)  ☐Red (Critical)
+Current Status: [ ]Green (Stable)  [ ]Yellow (Concerning)
+                [ ]Orange (Serious)  [ ]Red (Critical)
 
 Indicators Present:
-☐Unemployment rising significantly
-☐Bank failures/runs
-☐Currency devaluation (>20%)
-☐Supply chain disruptions
-☐Price inflation (>50% annual)
-☐Government debt crisis
-☐Stock market crash (>40%)
-☐Credit markets frozen
+[ ]Unemployment rising significantly
+[ ]Bank failures/runs
+[ ]Currency devaluation (>20%)
+[ ]Supply chain disruptions
+[ ]Price inflation (>50% annual)
+[ ]Government debt crisis
+[ ]Stock market crash (>40%)
+[ ]Credit markets frozen
 
 Notes: _____________________________________________________
 ____________________________________________________________
 
-Confidence Level: ☐High  ☐Medium  ☐Low
+Confidence Level: [ ]High  [ ]Medium  [ ]Low
 Information Sources: _______________________________________
 
 
 
 CIVIL UNREST
-Current Status: ☐Green (Stable)  ☐Yellow (Concerning)
-                ☐Orange (Serious)  ☐Red (Critical)
+Current Status: [ ]Green (Stable)  [ ]Yellow (Concerning)
+                [ ]Orange (Serious)  [ ]Red (Critical)
 
 Indicators Present:
-☐Large-scale protests/riots
-☐Government instability
-☐Police/military conflicts
-☐Widespread violence
-☐Rule of law breakdown
-☐Refugee flows increasing
-☐Martial law declared
-☐Infrastructure attacks
+[ ]Large-scale protests/riots
+[ ]Government instability
+[ ]Police/military conflicts
+[ ]Widespread violence
+[ ]Rule of law breakdown
+[ ]Refugee flows increasing
+[ ]Martial law declared
+[ ]Infrastructure attacks
 
 Notes: _____________________________________________________
 ____________________________________________________________
 
-Confidence Level: ☐High  ☐Medium  ☐Low
+Confidence Level: [ ]High  [ ]Medium  [ ]Low
 Information Sources: _______________________________________
 
 
 
 CLIMATE COLLAPSE
-Current Status: ☐Green (Stable)  ☐Yellow (Concerning)
-                ☐Orange (Serious)  ☐Red (Critical)
+Current Status: [ ]Green (Stable)  [ ]Yellow (Concerning)
+                [ ]Orange (Serious)  [ ]Red (Critical)
 
 Indicators Present:
-☐Extreme weather events increasing
-☐Crop failures/food shortages
-☐Water scarcity
-☐Mass migration due to climate
-☐Ecosystem collapse indicators
-☐Sea level rise impacting populations
-☐Disease outbreaks
-☐Resource conflicts
+[ ]Extreme weather events increasing
+[ ]Crop failures/food shortages
+[ ]Water scarcity
+[ ]Mass migration due to climate
+[ ]Ecosystem collapse indicators
+[ ]Sea level rise impacting populations
+[ ]Disease outbreaks
+[ ]Resource conflicts
 
 Notes: _____________________________________________________
 ____________________________________________________________
 
-Confidence Level: ☐High  ☐Medium  ☐Low
+Confidence Level: [ ]High  [ ]Medium  [ ]Low
 Information Sources: _______________________________________
 
 
 
 WAR/CONFLICT
-Current Status: ☐Green (Stable)  ☐Yellow (Concerning)
-                ☐Orange (Serious)  ☐Red (Critical)
+Current Status: [ ]Green (Stable)  [ ]Yellow (Concerning)
+                [ ]Orange (Serious)  [ ]Red (Critical)
 
 Indicators Present:
-☐Diplomatic relations deteriorating
-☐Military mobilization
-☐Border incidents
-☐Proxy conflicts escalating
-☐Nuclear threats
-☐Trade embargoes/sanctions
-☐Cyberattacks increasing
-☐Regional conflict spillover
+[ ]Diplomatic relations deteriorating
+[ ]Military mobilization
+[ ]Border incidents
+[ ]Proxy conflicts escalating
+[ ]Nuclear threats
+[ ]Trade embargoes/sanctions
+[ ]Cyberattacks increasing
+[ ]Regional conflict spillover
 
 Notes: _____________________________________________________
 ____________________________________________________________
 
-Confidence Level: ☐High  ☐Medium  ☐Low
+Confidence Level: [ ]High  [ ]Medium  [ ]Low
 Information Sources: _______________________________________
 
 
@@ -600,36 +600,36 @@ LOCAL/REGIONAL THREATS
 Geographic Area: ___________________________________________
 
 Specific Threats:
-☐Piracy                    ☐Corrupt officials
-☐Criminal activity         ☐Political instability
-☐Natural disasters         ☐Disease outbreaks
-☐Resource scarcity         ☐Hostile populations
-☐Other: _______________
+[ ]Piracy                    [ ]Corrupt officials
+[ ]Criminal activity         [ ]Political instability
+[ ]Natural disasters         [ ]Disease outbreaks
+[ ]Resource scarcity         [ ]Hostile populations
+[ ]Other: _______________
 
 Threat Details:
 ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Risk Level: ☐Low  ☐Moderate  ☐High  ☐Critical
+Risk Level: [ ]Low  [ ]Moderate  [ ]High  [ ]Critical
 
 INFORMATION SOURCES ASSESSMENT
 
 Source                 | Type | Reliability | Last Update
 
-                      |      | ☐H ☐M ☐L |
-                      |      | ☐H ☐M ☐L |
-                      |      | ☐H ☐M ☐L |
-                      |      | ☐H ☐M ☐L |
+                      |      | [ ]H [ ]M [ ]L |
+                      |      | [ ]H [ ]M [ ]L |
+                      |      | [ ]H [ ]M [ ]L |
+                      |      | [ ]H [ ]M [ ]L |
 
 Type: N=News, O=Official, P=Personal Contact, R=Radio, S=Social Media
 
 TREND ANALYSIS
 
-Compared to 7 Days Ago: ☐Better  ☐Same  ☐Worse
-Compared to 30 Days Ago: ☐Better  ☐Same  ☐Worse
+Compared to 7 Days Ago: [ ]Better  [ ]Same  [ ]Worse
+Compared to 30 Days Ago: [ ]Better  [ ]Same  [ ]Worse
 
-Trend Direction: ☐Improving  ☐Stable  ☐Deteriorating  ☐Rapidly Deteriorating
+Trend Direction: [ ]Improving  [ ]Stable  [ ]Deteriorating  [ ]Rapidly Deteriorating
 
 RECOMMENDED ACTIONS
 
@@ -647,7 +647,7 @@ ____________________________________________________________
 
 READINESS STATUS
 
-Can execute departure within: ☐1 hour  ☐6 hours  ☐24 hours  ☐>24 hours
+Can execute departure within: [ ]1 hour  [ ]6 hours  [ ]24 hours  [ ]>24 hours
 
 Critical gaps/concerns: ____________________________________
 ____________________________________________________________
@@ -663,7 +663,7 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Reviewed with crew: ☐Yes  ☐No    Date: ______________
+Reviewed with crew: [ ]Yes  [ ]No    Date: ______________
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 ```
 
@@ -691,25 +691,25 @@ Position: ___°___.___' N/S    ___°___.___' E/W
 Nearest Major Port: _________________________________________
 Distance from Current Position: __________ nm
 
-Region: ☐Caribbean  ☐Pacific  ☐Mediterranean  ☐Indian Ocean
-        ☐Atlantic  ☐Red Sea  ☐Other: ___________________
+Region: [ ]Caribbean  [ ]Pacific  [ ]Mediterranean  [ ]Indian Ocean
+        [ ]Atlantic  [ ]Red Sea  [ ]Other: ___________________
 
 NAVIGATION & ACCESS
 
-Approach Difficulty: ☐Easy  ☐Moderate  ☐Difficult  ☐Dangerous
+Approach Difficulty: [ ]Easy  [ ]Moderate  [ ]Difficult  [ ]Dangerous
 
-Hazards: ☐Reefs  ☐Rocks  ☐Shoals  ☐Strong Currents
-         ☐Heavy Traffic  ☐Other: _______________________
+Hazards: [ ]Reefs  [ ]Rocks  [ ]Shoals  [ ]Strong Currents
+         [ ]Heavy Traffic  [ ]Other: _______________________
 
-Anchorage Type: ☐Bay  ☐Harbor  ☐Lagoon  ☐Roadstead  ☐Marina
-Holding: ☐Excellent  ☐Good  ☐Fair  ☐Poor
-Bottom: ☐Sand  ☐Mud  ☐Rock  ☐Coral  ☐Mixed
+Anchorage Type: [ ]Bay  [ ]Harbor  [ ]Lagoon  [ ]Roadstead  [ ]Marina
+Holding: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
+Bottom: [ ]Sand  [ ]Mud  [ ]Rock  [ ]Coral  [ ]Mixed
 
-Depth: _____ - _____ ft/m    Swinging Room: ☐Ample  ☐Limited
-Protection from: ☐N  ☐NE  ☐E  ☐SE  ☐S  ☐SW  ☐W  ☐NW
+Depth: _____ - _____ ft/m    Swinging Room: [ ]Ample  [ ]Limited
+Protection from: [ ]N  [ ]NE  [ ]E  [ ]SE  [ ]S  [ ]SW  [ ]W  [ ]NW
 
 Best Season: _______________    Avoid: ___________________
-Cyclone/Hurricane Risk: ☐None  ☐Low  ☐Moderate  ☐High
+Cyclone/Hurricane Risk: [ ]None  [ ]Low  [ ]Moderate  [ ]High
 Season: _______________
 
 Charts Required: ___________________________________________
@@ -718,143 +718,143 @@ Pilots/Guides: ____________________________________________
 INFRASTRUCTURE & SERVICES
 
 Available Services:
-☐Fuel (Diesel)            ☐Water (Potable)
-☐Fuel (Gasoline)          ☐Provisions
-☐Marine Supplies          ☐Chandlery
-☐Haul-out/Repairs         ☐Sailmaker
-☐Medical Facilities       ☐Pharmacy
-☐Internet/Wifi            ☐Laundry
-☐Garbage Disposal         ☐Dinghy Dock
+[ ]Fuel (Diesel)            [ ]Water (Potable)
+[ ]Fuel (Gasoline)          [ ]Provisions
+[ ]Marine Supplies          [ ]Chandlery
+[ ]Haul-out/Repairs         [ ]Sailmaker
+[ ]Medical Facilities       [ ]Pharmacy
+[ ]Internet/Wifi            [ ]Laundry
+[ ]Garbage Disposal         [ ]Dinghy Dock
 
-Service Quality: ☐Excellent  ☐Good  ☐Basic  ☐Limited  ☐None
+Service Quality: [ ]Excellent  [ ]Good  [ ]Basic  [ ]Limited  [ ]None
 
-Marina: ☐Available  ☐Full-service  ☐Basic  ☐None
+Marina: [ ]Available  [ ]Full-service  [ ]Basic  [ ]None
 Cost: _________/day or _________/month
 
-Haul-out Facilities: ☐Yes  ☐No    Max LOA: _____ ft
+Haul-out Facilities: [ ]Yes  [ ]No    Max LOA: _____ ft
 Cost: _________    Availability: _________________________
 
 POLITICAL & LEGAL
 
 Government Type: ___________________________________________
-Political Stability: ☐Very Stable  ☐Stable  ☐Unstable  ☐Volatile
+Political Stability: [ ]Very Stable  [ ]Stable  [ ]Unstable  [ ]Volatile
 
-Cruiser-Friendly: ☐Very  ☐Moderately  ☐Neutral  ☐Difficult
+Cruiser-Friendly: [ ]Very  [ ]Moderately  [ ]Neutral  [ ]Difficult
 
-Visa Requirements: ☐None  ☐On Arrival  ☐In Advance
-Duration: _________    Cost: _________    Extensible: ☐Yes  ☐No
+Visa Requirements: [ ]None  [ ]On Arrival  [ ]In Advance
+Duration: _________    Cost: _________    Extensible: [ ]Yes  [ ]No
 
 Entry Requirements:
-☐Passport            ☐Cruising Permit
-☐Zarpe               ☐Ship's Papers
-☐Vaccinations        ☐Other: _________________________
+[ ]Passport            [ ]Cruising Permit
+[ ]Zarpe               [ ]Ship's Papers
+[ ]Vaccinations        [ ]Other: _________________________
 
 Fees/Costs: ________________________________________________
 
 Restrictions:
-☐Firearms restrictions (Describe): _______________________
-☐Movement restrictions
-☐Reporting requirements
-☐Other: __________________________________________________
+[ ]Firearms restrictions (Describe): _______________________
+[ ]Movement restrictions
+[ ]Reporting requirements
+[ ]Other: __________________________________________________
 
-Corruption Level: ☐Low  ☐Moderate  ☐High
-Official Attitude: ☐Helpful  ☐Neutral  ☐Obstructive
+Corruption Level: [ ]Low  [ ]Moderate  [ ]High
+Official Attitude: [ ]Helpful  [ ]Neutral  [ ]Obstructive
 
 RESOURCES & SUSTAINABILITY
 
 Fresh Water:
-☐Municipal supply  ☐Well  ☐Rainwater  ☐Limited  ☐Scarce
-Quality: ☐Potable  ☐Needs Treatment    Cost: ____________
+[ ]Municipal supply  [ ]Well  [ ]Rainwater  [ ]Limited  [ ]Scarce
+Quality: [ ]Potable  [ ]Needs Treatment    Cost: ____________
 
 Food Availability:
-☐Markets/Stores  ☐Fishing  ☐Agriculture  ☐Limited
-Variety: ☐Excellent  ☐Good  ☐Basic  ☐Poor
-Cost: ☐Cheap  ☐Moderate  ☐Expensive  ☐Very Expensive
+[ ]Markets/Stores  [ ]Fishing  [ ]Agriculture  [ ]Limited
+Variety: [ ]Excellent  [ ]Good  [ ]Basic  [ ]Poor
+Cost: [ ]Cheap  [ ]Moderate  [ ]Expensive  [ ]Very Expensive
 
-Local Economy: ☐Cash  ☐Credit Cards  ☐Barter  ☐Mixed
-Currency: _________    Exchange Rate: _________    Stable: ☐Yes  ☐No
+Local Economy: [ ]Cash  [ ]Credit Cards  [ ]Barter  [ ]Mixed
+Currency: _________    Exchange Rate: _________    Stable: [ ]Yes  [ ]No
 
-Agricultural Potential: ☐Excellent  ☐Good  ☐Limited  ☐None
+Agricultural Potential: [ ]Excellent  [ ]Good  [ ]Limited  [ ]None
 Growing Season: ___________________________________________
 Suitable Crops: ___________________________________________
 
-Fishing: ☐Excellent  ☐Good  ☐Fair  ☐Poor  ☐Restricted
+Fishing: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor  [ ]Restricted
 Species: __________________________________________________
 
 Renewable Energy Potential:
-☐Solar (_____ hrs/day avg)    ☐Wind (_____ kts avg)
-☐Hydro                        ☐Other: ________________
+[ ]Solar (_____ hrs/day avg)    [ ]Wind (_____ kts avg)
+[ ]Hydro                        [ ]Other: ________________
 
 CLIMATE & ENVIRONMENT
 
-Climate Type: ☐Tropical  ☐Subtropical  ☐Temperate  ☐Other
+Climate Type: [ ]Tropical  [ ]Subtropical  [ ]Temperate  [ ]Other
 Average Temp: High _____ °F/C    Low _____ °F/C
 
-Rainfall: _____ inches/year    Distribution: ☐Year-round  ☐Seasonal
+Rainfall: _____ inches/year    Distribution: [ ]Year-round  [ ]Seasonal
 Dry Season: _________    Wet Season: _________
 
 Environmental Concerns:
-☐Mosquitoes/Disease Vectors    ☐Jellyfish
-☐Sharks                        ☐Crocodiles
-☐Poisonous Flora/Fauna         ☐Pollution
-☐Other: ______________
+[ ]Mosquitoes/Disease Vectors    [ ]Jellyfish
+[ ]Sharks                        [ ]Crocodiles
+[ ]Poisonous Flora/Fauna         [ ]Pollution
+[ ]Other: ______________
 
 Diseases Present: __________________________________________
-Malaria Risk: ☐None  ☐Low  ☐Moderate  ☐High
+Malaria Risk: [ ]None  [ ]Low  [ ]Moderate  [ ]High
 Other Disease Risks: _______________________________________
 
 SECURITY
 
-Overall Safety: ☐Very Safe  ☐Safe  ☐Moderate  ☐Unsafe  ☐Dangerous
+Overall Safety: [ ]Very Safe  [ ]Safe  [ ]Moderate  [ ]Unsafe  [ ]Dangerous
 
-Crime Level: ☐Low  ☐Moderate  ☐High
-Types: ☐Theft  ☐Burglary  ☐Assault  ☐Piracy  ☐Other: ____
+Crime Level: [ ]Low  [ ]Moderate  [ ]High
+Types: [ ]Theft  [ ]Burglary  [ ]Assault  [ ]Piracy  [ ]Other: ____
 
-Piracy Risk: ☐None  ☐Low  ☐Moderate  ☐High  ☐Critical
+Piracy Risk: [ ]None  [ ]Low  [ ]Moderate  [ ]High  [ ]Critical
 Recent Incidents: __________________________________________
 
-Local Population: ☐Very Friendly  ☐Friendly  ☐Neutral  ☐Unfriendly
-Attitude to Cruisers: ☐Welcoming  ☐Neutral  ☐Suspicious  ☐Hostile
+Local Population: [ ]Very Friendly  [ ]Friendly  [ ]Neutral  [ ]Unfriendly
+Attitude to Cruisers: [ ]Welcoming  [ ]Neutral  [ ]Suspicious  [ ]Hostile
 
-Military Presence: ☐None  ☐Minimal  ☐Moderate  ☐Heavy
-Police Presence: ☐None  ☐Minimal  ☐Moderate  ☐Heavy
+Military Presence: [ ]None  [ ]Minimal  [ ]Moderate  [ ]Heavy
+Police Presence: [ ]None  [ ]Minimal  [ ]Moderate  [ ]Heavy
 
 Recommended Security Measures:
-☐Standard precautions only      ☐Enhanced vigilance
-☐24-hour watch                  ☐Hide valuables
-☐Avoid after dark               ☐Limited shore access
-☐Other: ______________________________________________
+[ ]Standard precautions only      [ ]Enhanced vigilance
+[ ]24-hour watch                  [ ]Hide valuables
+[ ]Avoid after dark               [ ]Limited shore access
+[ ]Other: ______________________________________________
 
 COMMUNICATION
 
-Cell Coverage: ☐Excellent  ☐Good  ☐Limited  ☐None
+Cell Coverage: [ ]Excellent  [ ]Good  [ ]Limited  [ ]None
 Carrier: _________    Cost: _________
 
-Internet: ☐Excellent  ☐Good  ☐Limited  ☐None
+Internet: [ ]Excellent  [ ]Good  [ ]Limited  [ ]None
 Speed: _________    Cost: _________
 
-VHF Coverage: ☐Good  ☐Limited  ☐None
+VHF Coverage: [ ]Good  [ ]Limited  [ ]None
 Channels in Use: __________________________________________
 
-Cruiser Net: ☐Yes - Frequency: _________  Time: _________
-            ☐No
+Cruiser Net: [ ]Yes - Frequency: _________  Time: _________
+            [ ]No
 
-SSB Coverage: ☐Good  ☐Limited  ☐None
+SSB Coverage: [ ]Good  [ ]Limited  [ ]None
 
-Language Spoken: ___________    English Proficiency: ☐High  ☐Low
+Language Spoken: ___________    English Proficiency: [ ]High  [ ]Low
 
 COMMUNITY
 
-Cruising Community: ☐Large  ☐Moderate  ☐Small  ☐None
+Cruising Community: [ ]Large  [ ]Moderate  [ ]Small  [ ]None
 Season: _________
 
 Local Community:
-Size: ☐Large City  ☐Town  ☐Village  ☐Remote
-Friendliness: ☐Very Welcoming  ☐Friendly  ☐Neutral  ☐Reserved
+Size: [ ]Large City  [ ]Town  [ ]Village  [ ]Remote
+Friendliness: [ ]Very Welcoming  [ ]Friendly  [ ]Neutral  [ ]Reserved
 
 Facilities for Families:
-☐Schools                ☐Playgrounds
-☐Medical for Children   ☐Other Children Present
+[ ]Schools                [ ]Playgrounds
+[ ]Medical for Children   [ ]Other Children Present
 
 Educational Opportunities: _________________________________
 
@@ -862,28 +862,28 @@ Social Activities: _________________________________________
 
 SCENARIO-SPECIFIC EVALUATION
 
-Economic Collapse Suitability: ☐Excellent  ☐Good  ☐Fair  ☐Poor
+Economic Collapse Suitability: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
 Reasoning: _________________________________________________
 ____________________________________________________________
 
-Civil Unrest Suitability: ☐Excellent  ☐Good  ☐Fair  ☐Poor
+Civil Unrest Suitability: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
 Reasoning: _________________________________________________
 ____________________________________________________________
 
-Climate Collapse Suitability: ☐Excellent  ☐Good  ☐Fair  ☐Poor
+Climate Collapse Suitability: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
 Reasoning: _________________________________________________
 ____________________________________________________________
 
-War Refuge Suitability: ☐Excellent  ☐Good  ☐Fair  ☐Poor
+War Refuge Suitability: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
 Reasoning: _________________________________________________
 ____________________________________________________________
 
 OVERALL ASSESSMENT
 
-Overall Rating: ☐Excellent  ☐Good  ☐Adequate  ☐Poor  ☐Avoid
+Overall Rating: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor  [ ]Avoid
 
-Best Use Case: ☐Long-term refuge  ☐Temporary stop
-               ☐Resupply only  ☐Emergency only
+Best Use Case: [ ]Long-term refuge  [ ]Temporary stop
+               [ ]Resupply only  [ ]Emergency only
 
 Recommended Duration: _______________________________________
 
@@ -912,7 +912,7 @@ INFORMATION SOURCES
 Cruising Guides: ___________________________________________
 Online Resources: __________________________________________
 Personal Contacts: _________________________________________
-Visited: ☐Yes - Date: _________  ☐No
+Visited: [ ]Yes - Date: _________  [ ]No
 
 LAST UPDATE
 
@@ -960,12 +960,12 @@ Navigator: __________________
 Crew 1: _____________________    Role: _____________________
 Crew 2: _____________________    Role: _____________________
 
-Experience Level: ☐All Experienced  ☐Mixed  ☐Mostly Inexperienced
-Previous Ocean Passages: ☐Yes  ☐No  ☐Some Crew
+Experience Level: [ ]All Experienced  [ ]Mixed  [ ]Mostly Inexperienced
+Previous Ocean Passages: [ ]Yes  [ ]No  [ ]Some Crew
 
 ROUTE PLANNING
 
-Route Type: ☐Great Circle  ☐Rhumb Line  ☐Waypoint Route
+Route Type: [ ]Great Circle  [ ]Rhumb Line  [ ]Waypoint Route
 
 Primary Route: _____________________________________________
 Alternate Route: ___________________________________________
@@ -982,45 +982,45 @@ WP  | Lat/Lon | Description | Distance | Bearing | Notes
 HAZARDS & CONSIDERATIONS
 
 Navigation Hazards:
-☐Reefs            ☐Rocks           ☐Shoals
-☐Shipping Lanes   ☐Fishing Areas   ☐Military Zones
-☐Restricted Areas ☐Other: _______________________
+[ ]Reefs            [ ]Rocks           [ ]Shoals
+[ ]Shipping Lanes   [ ]Fishing Areas   [ ]Military Zones
+[ ]Restricted Areas [ ]Other: _______________________
 
 Details: ___________________________________________________
 ____________________________________________________________
 
 Weather Concerns:
-☐Tropical Cyclones (Season: ________)
-☐Gales/Storms Expected
-☐Fog
-☐Prevailing Conditions Unfavorable
-☐Other: _______________
+[ ]Tropical Cyclones (Season: ________)
+[ ]Gales/Storms Expected
+[ ]Fog
+[ ]Prevailing Conditions Unfavorable
+[ ]Other: _______________
 
-Weather Window Required: ☐Yes  ☐No
+Weather Window Required: [ ]Yes  [ ]No
 Forecast Sources: __________________________________________
 
 Ocean Currents:
-Expected: _____ kts from _____☐   Impact: ________________
+Expected: _____ kts from _____[ ]   Impact: ________________
 ____________________________________________________________
 
 Sea State Forecast: ________________________________________
 
 COMMUNICATIONS
 
-Primary: ☐SSB  ☐Satellite Phone  ☐Starlink  ☐Ham Radio
+Primary: [ ]SSB  [ ]Satellite Phone  [ ]Starlink  [ ]Ham Radio
 Frequency/Contact: _________________________________________
 
-Alternate: ☐SSB  ☐Satellite Phone  ☐Ham Radio  ☐VHF
+Alternate: [ ]SSB  [ ]Satellite Phone  [ ]Ham Radio  [ ]VHF
 Frequency/Contact: _________________________________________
 
-Emergency: ☐EPIRB  ☐PLB  ☐Satellite SOS
+Emergency: [ ]EPIRB  [ ]PLB  [ ]Satellite SOS
 MMSI: _____________    EPIRB HEX ID: ____________________
 
 Check-in Schedule:
-☐Daily at ________ UTC with _______________________________
-☐Every _____ hours
-☐On arrival/departure
-☐Other: _______________
+[ ]Daily at ________ UTC with _______________________________
+[ ]Every _____ hours
+[ ]On arrival/departure
+[ ]Other: _______________
 
 Shore Contact: Name: ________________    Phone: ____________
                Email: __________________    Skype: ____________
@@ -1032,21 +1032,21 @@ Passage Duration: _____ days    + Reserve: _____ days = _____ total
 Water:
 Capacity: _____ gal/L    Consumption Rate: _____ gal/L per day
 Required: _____ gal/L    On board: _____ gal/L
-Status: ☐Adequate  ☐Need More
+Status: [ ]Adequate  [ ]Need More
 
-Watermaker: ☐Functional  ☐Not Available
+Watermaker: [ ]Functional  [ ]Not Available
 Capacity: _____ gal/day
 
 Fuel:
 Capacity: _____ gal/L    Consumption Rate: _____ gal/hr
 Expected Usage: _____ hours    Required: _____ gal/L
-On board: _____ gal/L    Status: ☐Adequate  ☐Need More
+On board: _____ gal/L    Status: [ ]Adequate  [ ]Need More
 
 Food:
-☐Fresh Provisions for _____ days
-☐Canned/Preserved for _____ days
-☐Emergency Rations for _____ days
-Status: ☐Adequate  ☐Need More
+[ ]Fresh Provisions for _____ days
+[ ]Canned/Preserved for _____ days
+[ ]Emergency Rations for _____ days
+Status: [ ]Adequate  [ ]Need More
 
 Special Dietary Needs: _____________________________________
 
@@ -1055,72 +1055,72 @@ VESSEL PREPARATION
 Pre-Departure Checklist:
 
 DECK & RIGGING:
-☐Rigging inspected (all standing rigging, turnbuckles)
-☐Running rigging inspected
-☐Sails inspected (main, jib, storm sails)
-☐Lifelines secure
-☐Jack lines rigged
-☐Deck gear secured
-☐Anchor(s) ready
-☐Storm anchor prepared
-☐Sail repair kit aboard
+[ ]Rigging inspected (all standing rigging, turnbuckles)
+[ ]Running rigging inspected
+[ ]Sails inspected (main, jib, storm sails)
+[ ]Lifelines secure
+[ ]Jack lines rigged
+[ ]Deck gear secured
+[ ]Anchor(s) ready
+[ ]Storm anchor prepared
+[ ]Sail repair kit aboard
 
 ENGINE & MECHANICAL:
-☐Engine serviced (oil, filters, belts)
-☐Fuel filters changed
-☐Raw water system checked
-☐Spare parts aboard
-☐Tools inventory complete
-☐Engine hours: ________
+[ ]Engine serviced (oil, filters, belts)
+[ ]Fuel filters changed
+[ ]Raw water system checked
+[ ]Spare parts aboard
+[ ]Tools inventory complete
+[ ]Engine hours: ________
 
 ELECTRICAL & ELECTRONICS:
-☐Batteries fully charged
-☐Solar panels functional
-☐Wind generator functional
-☐GPS functional (+ backup)
-☐Chartplotter functional
-☐Autopilot functional (+ backup/windvane)
-☐Radar functional
-☐AIS functional
-☐Navigation lights functional
-☐Spare electronics/bulbs aboard
+[ ]Batteries fully charged
+[ ]Solar panels functional
+[ ]Wind generator functional
+[ ]GPS functional (+ backup)
+[ ]Chartplotter functional
+[ ]Autopilot functional (+ backup/windvane)
+[ ]Radar functional
+[ ]AIS functional
+[ ]Navigation lights functional
+[ ]Spare electronics/bulbs aboard
 
 SAFETY EQUIPMENT:
-☐Life raft inspected (Exp: ________)
-☐EPIRB tested (Exp: ________)
-☐Flares current (Exp: ________)
-☐Fire extinguishers charged
-☐Life jackets for all
-☐Harnesses for all
-☐MOB equipment ready
-☐Ditch bag prepared
-☐First aid kit complete
-☐Medical supplies adequate
+[ ]Life raft inspected (Exp: ________)
+[ ]EPIRB tested (Exp: ________)
+[ ]Flares current (Exp: ________)
+[ ]Fire extinguishers charged
+[ ]Life jackets for all
+[ ]Harnesses for all
+[ ]MOB equipment ready
+[ ]Ditch bag prepared
+[ ]First aid kit complete
+[ ]Medical supplies adequate
 
 NAVIGATION:
-☐Charts aboard (paper + electronic)
-☐Pilot books/cruising guides
-☐Current publications (Notices to Mariners)
-☐Binoculars
-☐Handheld GPS (backup)
-☐Handheld compass (backup)
-☐Sextant + tables (if capable)
-☐Flashlights + batteries
-☐Navigation tools
+[ ]Charts aboard (paper + electronic)
+[ ]Pilot books/cruising guides
+[ ]Current publications (Notices to Mariners)
+[ ]Binoculars
+[ ]Handheld GPS (backup)
+[ ]Handheld compass (backup)
+[ ]Sextant + tables (if capable)
+[ ]Flashlights + batteries
+[ ]Navigation tools
 
 BELOW DECKS:
-☐Bilges clean and dry
-☐Bilge pumps functional (manual + electric)
-☐Seacocks checked
-☐Thru-hulls inspected
-☐Heavy items secured
-☐Galley secured
-☐Sharp objects secured
-☐Books/items secured for sea
+[ ]Bilges clean and dry
+[ ]Bilge pumps functional (manual + electric)
+[ ]Seacocks checked
+[ ]Thru-hulls inspected
+[ ]Heavy items secured
+[ ]Galley secured
+[ ]Sharp objects secured
+[ ]Books/items secured for sea
 
 WATCH SYSTEM
 
-Watch Schedule: ☐3-hour  ☐4-hour  ☐6-hour  ☐Other: ____
+Watch Schedule: [ ]3-hour  [ ]4-hour  [ ]6-hour  [ ]Other: ____
 
 Watch  | Time | Primary | Backup
 
@@ -1130,13 +1130,13 @@ Watch  | Time | Primary | Backup
 4      |      |         |
 
 Watch Duties:
-☐Helm/Monitor autopilot
-☐Log position, heading, speed every hour
-☐Weather observation
-☐Look out for traffic, hazards
-☐Sail trim as needed
-☐Wake off-watch for weather/traffic
-☐Report any issues immediately
+[ ]Helm/Monitor autopilot
+[ ]Log position, heading, speed every hour
+[ ]Weather observation
+[ ]Look out for traffic, hazards
+[ ]Sail trim as needed
+[ ]Wake off-watch for weather/traffic
+[ ]Report any issues immediately
 
 Night Orders: ______________________________________________
 ____________________________________________________________
@@ -1144,10 +1144,10 @@ ____________________________________________________________
 CONTINGENCY PLANS
 
 If weather deteriorates:
-☐Heave to
-☐Divert to: _______________
-☐Return to departure port
-☐Other: _______________
+[ ]Heave to
+[ ]Divert to: _______________
+[ ]Return to departure port
+[ ]Other: _______________
 
 If major equipment failure (specify):
 ____________________________________________________________
@@ -1168,24 +1168,24 @@ Nearest Ports of Refuge en route:
 
 DOCUMENTATION
 
-☐Ship's papers
-☐Passports (all crew)
-☐Visas (if required)
-☐Insurance papers
-☐Medical records
-☐Vaccination records
-☐Radio licenses
-☐Fishing licenses (if applicable)
+[ ]Ship's papers
+[ ]Passports (all crew)
+[ ]Visas (if required)
+[ ]Insurance papers
+[ ]Medical records
+[ ]Vaccination records
+[ ]Radio licenses
+[ ]Fishing licenses (if applicable)
 
 DEPARTURE
 
-☐Weather forecast reviewed
-☐Final weather window confirmed
-☐Crew briefing completed
-☐Float plan filed with: ___________________________________
-☐Check-in schedule confirmed
-☐Port clearance (if required)
-☐Final walkthrough complete
+[ ]Weather forecast reviewed
+[ ]Final weather window confirmed
+[ ]Crew briefing completed
+[ ]Float plan filed with: ___________________________________
+[ ]Check-in schedule confirmed
+[ ]Port clearance (if required)
+[ ]Final walkthrough complete
 
 Target Departure: Date ____________    Time ____________
 Tides: HW ________ at ________    LW ________ at ________
@@ -1197,7 +1197,7 @@ ARRIVAL
 
 Entry Requirements: ________________________________________
 Port of Entry: _____________    VHF Channel: ______________
-Quarantine Flag: ☐Required
+Quarantine Flag: [ ]Required
 Customs/Immigration Procedures: ____________________________
 ____________________________________________________________
 
@@ -1251,29 +1251,29 @@ ____________________________________________________________
 
 HISTORY OF PRESENT ILLNESS
 
-Onset: ☐Sudden  ☐Gradual    When: _______________________
+Onset: [ ]Sudden  [ ]Gradual    When: _______________________
 Duration: _______________
 Symptoms: __________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Previous Episodes: ☐No  ☐Yes - When: ____________________
+Previous Episodes: [ ]No  [ ]Yes - When: ____________________
 Describe: __________________________________________________
 
 SYMPTOMS CHECKLIST
 
-General:  ☐Fever  ☐Chills  ☐Fatigue  ☐Weight Loss
-Head:     ☐Headache  ☐Dizziness  ☐Vision Changes
-Resp:     ☐Cough  ☐SOB  ☐Chest Pain  ☐Wheezing
-GI:       ☐Nausea  ☐Vomiting  ☐Diarrhea  ☐Abdominal Pain
-GU:       ☐Dysuria  ☐Frequency  ☐Blood in Urine
-MSK:      ☐Joint Pain  ☐Muscle Pain  ☐Swelling  ☐Limited ROM
-Skin:     ☐Rash  ☐Itching  ☐Wounds  ☐Bruising
-Neuro:    ☐Numbness  ☐Tingling  ☐Weakness  ☐Confusion
+General:  [ ]Fever  [ ]Chills  [ ]Fatigue  [ ]Weight Loss
+Head:     [ ]Headache  [ ]Dizziness  [ ]Vision Changes
+Resp:     [ ]Cough  [ ]SOB  [ ]Chest Pain  [ ]Wheezing
+GI:       [ ]Nausea  [ ]Vomiting  [ ]Diarrhea  [ ]Abdominal Pain
+GU:       [ ]Dysuria  [ ]Frequency  [ ]Blood in Urine
+MSK:      [ ]Joint Pain  [ ]Muscle Pain  [ ]Swelling  [ ]Limited ROM
+Skin:     [ ]Rash  [ ]Itching  [ ]Wounds  [ ]Bruising
+Neuro:    [ ]Numbness  [ ]Tingling  [ ]Weakness  [ ]Confusion
 
 PHYSICAL EXAMINATION
 
-General Appearance: ☐Well  ☐Ill-appearing  ☐In Distress
+General Appearance: [ ]Well  [ ]Ill-appearing  [ ]In Distress
 HEENT: _____________________________________________________
 Chest/Lungs: _______________________________________________
 Heart: _____________________________________________________
@@ -1288,15 +1288,15 @@ ____________________________________________________________
 PAST MEDICAL HISTORY
 
 Known Conditions:
-☐Diabetes            ☐Hypertension        ☐Asthma
-☐Heart Disease       ☐Allergies           ☐Other: ________
+[ ]Diabetes            [ ]Hypertension        [ ]Asthma
+[ ]Heart Disease       [ ]Allergies           [ ]Other: ________
 
 Medications Currently Taking:
 1. ________________________    Dose: __________    Frequency: ____
 2. ________________________    Dose: __________    Frequency: ____
 3. ________________________    Dose: __________    Frequency: ____
 
-Allergies: ☐None Known  ☐NKDA
+Allergies: [ ]None Known  [ ]NKDA
 Drug: ____________    Reaction: _____________________________
 Drug: ____________    Reaction: _____________________________
 
@@ -1315,7 +1315,7 @@ Differential Diagnoses:
 1. ________________________________________________________
 2. ________________________________________________________
 
-Severity: ☐Minor  ☐Moderate  ☐Serious  ☐Life-Threatening
+Severity: [ ]Minor  [ ]Moderate  [ ]Serious  [ ]Life-Threatening
 
 TREATMENT PLAN
 
@@ -1335,27 +1335,27 @@ ____________________________________________________________
 ____________________________________________________________
 
 Wound Care (if applicable):
-Type: ☐Laceration  ☐Abrasion  ☐Burn  ☐Puncture  ☐Other
+Type: [ ]Laceration  [ ]Abrasion  [ ]Burn  [ ]Puncture  [ ]Other
 Location: ________________    Size: ________ cm/inches
 Cleaned with: ______________    Closed with: ________________
 Bandaging: _________________________________________________
-Tetanus Status: ☐Up to date  ☐Booster given  ☐Unknown
+Tetanus Status: [ ]Up to date  [ ]Booster given  [ ]Unknown
 
 DISPOSITION
 
-☐Improved - Continue current treatment
-☐Stable - Monitor closely
-☐Not improving - Modify treatment plan
-☐Deteriorating - Consider evacuation
+[ ]Improved - Continue current treatment
+[ ]Stable - Monitor closely
+[ ]Not improving - Modify treatment plan
+[ ]Deteriorating - Consider evacuation
 
 Follow-up Care:
 ____________________________________________________________
 ____________________________________________________________
 
-Activity Restrictions: ☐None  ☐Light Duty  ☐Rest  ☐Other: ____
+Activity Restrictions: [ ]None  [ ]Light Duty  [ ]Rest  [ ]Other: ____
 Duration: ______________
 
-Diet Restrictions: ☐None  ☐Specify: _____________________
+Diet Restrictions: [ ]None  [ ]Specify: _____________________
 
 Medications Prescribed:
 Drug: __________________    Dose: ________    Frequency: ________
@@ -1374,22 +1374,22 @@ Symptoms to Monitor:
 ____________________________________________________________
 
 Warning Signs (Seek Immediate Attention):
-☐Fever >102°F/39°C
-☐Difficulty breathing
-☐Chest pain
-☐Severe pain
-☐Bleeding
-☐Other: _______________________________________________
+[ ]Fever >102°F/39°C
+[ ]Difficulty breathing
+[ ]Chest pain
+[ ]Severe pain
+[ ]Bleeding
+[ ]Other: _______________________________________________
 
 CONSULTATION/EVACUATION
 
-Telemedicine Consultation: ☐Not Needed  ☐Requested  ☐Completed
+Telemedicine Consultation: [ ]Not Needed  [ ]Requested  [ ]Completed
 Date/Time: ______________    Provider: ______________________
 Recommendations: ___________________________________________
 ____________________________________________________________
 
-Evacuation Status: ☐Not Required  ☐Consider  ☐Urgent  ☐Immediate
-Method: ☐Own Vessel  ☐Coast Guard  ☐Air Evac  ☐Rendezvous
+Evacuation Status: [ ]Not Required  [ ]Consider  [ ]Urgent  [ ]Immediate
+Method: [ ]Own Vessel  [ ]Coast Guard  [ ]Air Evac  [ ]Rendezvous
 Destination: _______________________________________________
 
 FOLLOW-UP NOTES
@@ -1406,13 +1406,13 @@ OUTCOME
 Date Resolved: ______________
 
 Final Status:
-☐Full Recovery
-☐Recovered with Limitations: ______________________________
-☐Ongoing Treatment Required
-☐Evacuated for Professional Care
-☐Other: _______________
+[ ]Full Recovery
+[ ]Recovered with Limitations: ______________________________
+[ ]Ongoing Treatment Required
+[ ]Evacuated for Professional Care
+[ ]Other: _______________
 
-Complications: ☐None  ☐Yes: _____________________________
+Complications: [ ]None  [ ]Yes: _____________________________
 ____________________________________________________________
 
 LESSONS LEARNED
@@ -1458,24 +1458,24 @@ CREW ROSTER
 
 Name                    | Experience | Watch Qualified | Special Skills
 
-                       | ☐H ☐M ☐L | ☐Yes  ☐No |
-                       | ☐H ☐M ☐L | ☐Yes  ☐No |
-                       | ☐H ☐M ☐L | ☐Yes  ☐No |
-                       | ☐H ☐M ☐L | ☐Yes  ☐No |
+                       | [ ]H [ ]M [ ]L | [ ]Yes  [ ]No |
+                       | [ ]H [ ]M [ ]L | [ ]Yes  [ ]No |
+                       | [ ]H [ ]M [ ]L | [ ]Yes  [ ]No |
+                       | [ ]H [ ]M [ ]L | [ ]Yes  [ ]No |
 
 WATCH SYSTEM
 
-System Type: ☐3-Hour  ☐4-Hour  ☐6-Hour  ☐Swedish Watch  ☐Other
+System Type: [ ]3-Hour  [ ]4-Hour  [ ]6-Hour  [ ]Swedish Watch  [ ]Other
 
 Number of Watches per Day: ________
 Number of Watch Standers Required per Watch: ________
 
 Special Considerations:
-☐Night watches shared (no solo night watches for inexperienced)
-☐Parent always available for children
-☐Cook exempt during meal preparation
-☐Captain on-call (not standing regular watches)
-☐Other: _______________________________________________
+[ ]Night watches shared (no solo night watches for inexperienced)
+[ ]Parent always available for children
+[ ]Cook exempt during meal preparation
+[ ]Captain on-call (not standing regular watches)
+[ ]Other: _______________________________________________
 
 STANDARD WATCH SCHEDULE
 
@@ -1505,58 +1505,58 @@ Note: Rotate positions each day to distribute desirable/undesirable watches
 WATCH DUTIES & RESPONSIBILITIES
 
 ALL WATCHES:
-☐Maintain lookout at all times
-☐Monitor and adjust course as needed
-☐Monitor autopilot/wind vane performance
-☐Check and trim sails as needed
-☐Monitor instruments (speed, wind, depth, GPS)
-☐Log position, conditions every hour
-☐Monitor weather conditions
-☐Monitor VHF/radio
-☐Watch for traffic, hazards, fishing gear
-☐Maintain safety (harness at night, rough weather)
-☐Wake relief 15 minutes before watch change
-☐Brief relief on conditions, traffic, course
+[ ]Maintain lookout at all times
+[ ]Monitor and adjust course as needed
+[ ]Monitor autopilot/wind vane performance
+[ ]Check and trim sails as needed
+[ ]Monitor instruments (speed, wind, depth, GPS)
+[ ]Log position, conditions every hour
+[ ]Monitor weather conditions
+[ ]Monitor VHF/radio
+[ ]Watch for traffic, hazards, fishing gear
+[ ]Maintain safety (harness at night, rough weather)
+[ ]Wake relief 15 minutes before watch change
+[ ]Brief relief on conditions, traffic, course
 
 DO NOT HESITATE TO WAKE CAPTAIN FOR:
-☐Traffic on collision course
-☐Weather deteriorating
-☐Any navigation concerns
-☐Equipment failure
-☐Unusual sounds or conditions
-☐ANY DOUBTS OR CONCERNS
+[ ]Traffic on collision course
+[ ]Weather deteriorating
+[ ]Any navigation concerns
+[ ]Equipment failure
+[ ]Unusual sounds or conditions
+[ ]ANY DOUBTS OR CONCERNS
 
 SPECIFIC WATCH RESPONSIBILITIES:
 
 0000-0400 Watch:
-☐Check navigation lights
-☐Extra vigilance (most dangerous hours)
-☐Wake 0400 watch at 0345
+[ ]Check navigation lights
+[ ]Extra vigilance (most dangerous hours)
+[ ]Wake 0400 watch at 0345
 
 0400-0800 Watch:
-☐Morning weather forecast (______ UTC on ______)
-☐Check bilges
-☐Start engine if needed for batteries
-☐Prepare for sunrise traffic increase
+[ ]Morning weather forecast (______ UTC on ______)
+[ ]Check bilges
+[ ]Start engine if needed for batteries
+[ ]Prepare for sunrise traffic increase
 
 0800-1200 Watch:
-☐Noon sight (if doing celestial)
-☐Position report/check-in (at ______ UTC on ______)
-☐Assist with lunch preparation if needed
+[ ]Noon sight (if doing celestial)
+[ ]Position report/check-in (at ______ UTC on ______)
+[ ]Assist with lunch preparation if needed
 
 1200-1600 Watch:
-☐Afternoon weather forecast
-☐Monitor crew rest (ensure off-watch crew sleeping)
+[ ]Afternoon weather forecast
+[ ]Monitor crew rest (ensure off-watch crew sleeping)
 
 1600-2000 Watch:
-☐Prepare for night watches (lights check)
-☐Assist with dinner preparation if needed
-☐Evening position report/check-in (at ______ UTC on ______)
+[ ]Prepare for night watches (lights check)
+[ ]Assist with dinner preparation if needed
+[ ]Evening position report/check-in (at ______ UTC on ______)
 
 2000-0000 Watch:
-☐Extra vigilance at dusk (traffic, weather)
-☐Ensure night vision adaptation
-☐Brief night crew on any issues
+[ ]Extra vigilance at dusk (traffic, weather)
+[ ]Ensure night vision adaptation
+[ ]Brief night crew on any issues
 
 WATCH LOG ENTRIES
 
@@ -1578,20 +1578,20 @@ ____________________________________________________________
 Issues/Concerns:
 ____________________________________________________________
 
-Relief Briefing Given: ☐Yes    Time: ________
+Relief Briefing Given: [ ]Yes    Time: ________
 Relieved by: ____________________
 
 MODIFIED WATCH SCHEDULE (Bad Weather)
 
 In heavy weather, rough seas, or when extra vigilance needed:
 
-☐Shorten watch periods to 2-3 hours
-☐Two-person watches in severe conditions
-☐Captain on deck/available
-☐All crew in foul weather gear, harnesses
-☐Extra emphasis on safety
+[ ]Shorten watch periods to 2-3 hours
+[ ]Two-person watches in severe conditions
+[ ]Captain on deck/available
+[ ]All crew in foul weather gear, harnesses
+[ ]Extra emphasis on safety
 
-Current Status: ☐Normal Schedule  ☐Modified Schedule
+Current Status: [ ]Normal Schedule  [ ]Modified Schedule
 Reason: ____________________________________________________
 
 ANCHOR WATCH SCHEDULE
@@ -1608,12 +1608,12 @@ Watch | Time | Assigned | Duties
   4   |      |          | Monitor anchor, weather, traffic
 
 Anchor Watch Duties:
-☐Check position vs. anchor waypoint every 30 min
-☐Monitor weather changes
-☐Monitor other vessels in anchorage
-☐Check anchor light/riding light
-☐Monitor VHF Channel ______
-☐Wake captain if dragging or concerns
+[ ]Check position vs. anchor waypoint every 30 min
+[ ]Monitor weather changes
+[ ]Monitor other vessels in anchorage
+[ ]Check anchor light/riding light
+[ ]Monitor VHF Channel ______
+[ ]Wake captain if dragging or concerns
 
 GALLEY/COOK SCHEDULE
 
@@ -1643,9 +1643,9 @@ Charge electronics | | As needed |
 EMERGENCY WATCH PROTOCOL
 
 In emergency, watch schedule suspended:
-☐All hands on deck
-☐Captain assumes command
-☐Specific roles as briefed/drilled
+[ ]All hands on deck
+[ ]Captain assumes command
+[ ]Specific roles as briefed/drilled
 
 Emergency Stations:
 Name | Emergency Role
@@ -1661,10 +1661,10 @@ Minimum rest between watches: _____ hours
 Maximum continuous watch time: _____ hours
 
 Monitor crew for:
-☐Fatigue
-☐Seasickness affecting performance
-☐Hypothermia
-☐Dehydration
+[ ]Fatigue
+[ ]Seasickness affecting performance
+[ ]Hypothermia
+[ ]Dehydration
 
 Adjust schedule if crew welfare compromised.
 
@@ -1726,4 +1726,4 @@ The key is **consistent use** - templates are only valuable if used regularly an
 
 ---
 
-← Resource Lists(C-resource-lists.md) | Appendices Overview(README.md) | Next: Quick Reference Cards →(E-quick-reference.md)
+<- Resource Lists(C-resource-lists.md) | Appendices Overview(README.md) | Next: Quick Reference Cards ->(E-quick-reference.md)

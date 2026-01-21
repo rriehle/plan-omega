@@ -14,4 +14,4 @@ _This template is under development._
 
 ---
 
-[ Back to Templates](README.md)
+[Back to Templates](README.md)

@@ -1,8 +1,8 @@
 # Chapter 7: Shelter & Vessel Maintenance
 
-**Status:** ⚠️ DRAFT - Framework Only
+**Status:** **WARNING:** DRAFT - Framework Only
 
-[← Food Systems](06-food-systems.md) | [Part II Overview](README.md) | [Next: Energy & Power →](08-energy-power.md)
+[<- Food Systems](06-food-systems.md) | [Part II Overview](README.md) | [Next: Energy & Power ->](08-energy-power.md)
 
 ---
 
@@ -19,6 +19,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 **Description:** Prevent failures through rigorous maintenance
 
 **Critical systems:**
+
 - Hull integrity (blisters, cracks, through-hulls)
 - Rigging (standing and running)
 - Sails (condition, repairs)
@@ -29,6 +30,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 - Rudder and steering
 
 **Maintenance schedule:**
+
 - **Daily**: Visual inspection, bilge check
 - **Weekly**: Systems check, running engine, charging batteries
 - **Monthly**: Detailed inspection, specific maintenance tasks
@@ -36,6 +38,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 - **Annually**: Full survey, replace age-limited items, major service
 
 **Documentation:**
+
 - Maintenance log (all work documented)
 - Systems manual (how everything works)
 - Troubleshooting guides
@@ -50,6 +53,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 **Description:** Fix problems using onboard resources and skills
 
 **Essential skills:**
+
 - Fiberglass repair
 - Metal fabrication/welding
 - Woodworking
@@ -60,6 +64,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 - Plumbing
 
 **Critical spare parts:**
+
 - Through-hull plugs (multiple sizes)
 - Hoses and clamps
 - Seacocks
@@ -72,6 +77,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 - Fasteners (bolts, screws, rivets)
 
 **Tools:**
+
 - Hand tools (comprehensive set)
 - Power tools (drill, angle grinder, etc.)
 - Rigging tools (swage tool, wire cutters)
@@ -88,6 +94,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 **Description:** Keep boat afloat using improvisation when proper parts unavailable
 
 **Scenarios and solutions:**
+
 - **Rudder loss**: Emergency rudder (spinnaker pole, boards, drogue steering)
 - **Mast loss**: Jury rig (salvage mast, improvised stays, storm sails)
 - **Hull breach**: Collision mat, epoxy patches, underwater epoxy, wooden plugs
@@ -95,6 +102,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 - **Steering failure**: Emergency tiller, wheel-to-rudder linkage, wind vane
 
 **Improvisation materials:**
+
 - Wood (teak, plywood, spars)
 - Rope and cordage
 - Tarps and canvas
@@ -111,6 +119,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 **Description:** Life-saving measures when vessel compromised
 
 **Damage control:**
+
 - Collision/grounding response
 - Fire suppression
 - Flooding control (pumps, plugs, patches)
@@ -118,6 +127,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 - Distress signaling
 
 **Abandon ship:**
+
 - When to abandon (vessel sinking, fire out of control, immediate danger)
 - Liferaft deployment and boarding
 - Abandon ship bag (grab bag essentials)
@@ -125,6 +135,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 - Survival at sea
 
 **Liferaft and abandon ship equipment:**
+
 - Liferaft (serviced regularly, adequate capacity)
 - EPIRB (406 MHz, registered)
 - Handheld VHF (waterproof)
@@ -139,6 +150,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 ## Heavy Weather Preparation
 
 ### Storm-Ready Boat Configuration
+
 - Storm sails rigged and ready
 - Jacklines rigged
 - All gear secured
@@ -148,6 +160,7 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 - EPIRB and communication devices ready
 
 ### Heavy Weather Tactics
+
 - Heaving to
 - Running off
 - Deploying drogues or sea anchors
@@ -161,12 +174,14 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 ## Anchoring and Mooring
 
 ### Anchor Systems
+
 - Primary anchor (sized for vessel and conditions)
 - Secondary anchor (different type for redundancy)
 - Storm anchor (oversized for extreme conditions)
 - Rode (chain and rope, adequate scope)
 
 ### Anchoring Techniques
+
 - Scope calculations (5:1 minimum, 7:1 for storms)
 - Bottom types and anchor selection
 - Multiple anchor deployment
@@ -178,27 +193,31 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 
 ## System Readiness Checklist
 
-### Primary (Preventive Maintenance):
+### Primary (Preventive Maintenance)
+
 - [ ] Comprehensive maintenance schedule created
 - [ ] All systems recently inspected
 - [ ] Maintenance log current
 - [ ] No deferred maintenance
 - [ ] Systems manuals and documentation aboard
 
-### Alternate (Field Repairs):
+### Alternate (Field Repairs)
+
 - [ ] Critical spare parts aboard (comprehensive list)
 - [ ] Tools adequate for all repairs
 - [ ] Family trained in basic repairs
 - [ ] Repair materials stocked (epoxy, fiberglass, etc.)
 - [ ] Repair skills practiced
 
-### Contingency (Improvisation):
+### Contingency (Improvisation)
+
 - [ ] Emergency repair knowledge documented
 - [ ] Improvisation materials aboard
 - [ ] Jury rig scenarios planned
 - [ ] Drills conducted
 
-### Emergency (Damage Control / Abandon Ship):
+### Emergency (Damage Control / Abandon Ship)
+
 - [ ] Liferaft serviced and accessible
 - [ ] EPIRB registered and functional
 - [ ] Abandon ship bag stocked
@@ -226,4 +245,4 @@ Your boat is the platform for all other survival systems. If the vessel fails, e
 
 ---
 
-[← Food Systems](06-food-systems.md) | [Part II Overview](README.md) | [Next: Energy & Power →](08-energy-power.md)
+[<- Food Systems](06-food-systems.md) | [Part II Overview](README.md) | [Next: Energy & Power ->](08-energy-power.md)
