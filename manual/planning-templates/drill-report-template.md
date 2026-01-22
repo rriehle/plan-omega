@@ -302,5 +302,4 @@ Regular drills are essential for:
 - Share with new crew during onboarding
 
 ---
-
 [Back to Templates](README.md)

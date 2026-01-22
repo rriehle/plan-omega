@@ -181,7 +181,7 @@ Surviving climate collapse: habitability, migration, adaptation, resources.
 
 Surviving war: neutral zones, avoidance, evasion, nuclear considerations.
 
-### [20. Pandemic/Biological Crisis Response](20-pandemic-biological.md) [REFRESH] IN PROGRESS
+### [20. Pandemic/Biological Crisis Response](20-pandemic-biological.md) [IN PROGRESS] IN PROGRESS
 
 Surviving pandemic: isolation protocols, health monitoring, remote quarantine, telemedicine, extended self-sufficiency.
 

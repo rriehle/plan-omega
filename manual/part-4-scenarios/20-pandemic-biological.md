@@ -1,6 +1,6 @@
 # 20. Pandemic/Biological Crisis Response
 
-**Status:** [REFRESH] IN PROGRESS
+**Status:** [IN PROGRESS] IN PROGRESS
 
 [<- Part IV Overview](README.md) | [Main Manual](../README.md) | [Previous: War Response](19-war.md)
 

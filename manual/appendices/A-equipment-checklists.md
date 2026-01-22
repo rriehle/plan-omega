@@ -1661,7 +1661,7 @@ Long-term food provisioning requires careful planning of shelf-stable foods, pre
   - Sun-dried tomatoes (oil-packed): 6+ jars
   - Roasted red peppers: 6+ jars
   - Artichoke hearts: 12+ cans
-  - Pickled jalapeos: 6+ jars
+  - Pickled jalapenos: 6+ jars
   - Relish (sweet, dill): 6+ jars
 
 #### Sprouting Seeds (for fresh greens)

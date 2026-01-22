@@ -377,5 +377,4 @@ May need to weigh competing risks (e.g., economic instability ashore vs. cyclone
 **Complacency:** Most dangerous after long periods of calm. Maintain discipline in assessment schedule.
 
 ---
-
 [Back to Templates](README.md)

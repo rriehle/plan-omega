@@ -484,5 +484,4 @@ Nothing beats actually visiting. When there:
 - Share updated information with community
 
 ---
-
 [Back to Templates](README.md)

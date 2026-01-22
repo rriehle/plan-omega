@@ -60,9 +60,9 @@ Tailored response protocols for each collapse scenario.
 
 Action plans, drills, and continuous improvement processes.
 
-1. [Trigger-Action Matrix](part-5-protocols/20-trigger-action-matrix.md)
-2. [Drills & Training Programs](part-5-protocols/21-drills-training.md)
-3. [Continuous Improvement](part-5-protocols/22-continuous-improvement.md)
+1. [Trigger-Action Matrix](part-5-protocols/21-trigger-action-matrix.md)
+2. [Drills & Training Programs](part-5-protocols/22-drills-training.md)
+3. [Continuous Improvement](part-5-protocols/23-continuous-improvement.md)
 
 ### [Appendices](appendices/README.md)
 
@@ -126,7 +126,7 @@ Every critical system has four levels of redundancy:
 This manual is a living document. Sections marked with:
 
 - **WARNING:** **DRAFT** - Initial framework only, needs content development
-- [REFRESH] **IN PROGRESS** - Being actively developed
+- [IN PROGRESS] **IN PROGRESS** - Being actively developed
 - [x] **COMPLETE** - Fully developed, requires only maintenance updates
 
 ## Version History

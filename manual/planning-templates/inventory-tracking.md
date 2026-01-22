@@ -147,5 +147,4 @@ Consider using spreadsheet software for:
 - Easy updating and sharing
 
 ---
-
 [Back to Templates](README.md)

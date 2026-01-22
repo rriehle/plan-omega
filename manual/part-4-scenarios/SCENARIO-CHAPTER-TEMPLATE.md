@@ -20,7 +20,7 @@ This template provides a standardized structure for scenario-specific response c
 ```markdown
 # [Chapter Number]. [Scenario Name] Response
 
-**Status:** **WARNING:** DRAFT | [REFRESH] IN PROGRESS | [x] COMPLETE
+**Status:** **WARNING:** DRAFT | [IN PROGRESS] IN PROGRESS | [x] COMPLETE
 
 [<- Part IV Overview](README.md) | [Main Manual](../README.md) | [Next Scenario ->]
 

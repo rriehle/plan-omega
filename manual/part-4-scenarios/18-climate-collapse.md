@@ -35,7 +35,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 - **Sea level rise rate:** Accelerating (currently 3.3 mm/year; IPCC projects 0.5-1.0 m by 2100)
 - **Arctic sea ice extent:** September minimum declining (proxy for global warming)
 - **Ocean heat content:** Increasing (90% of excess heat absorbed by oceans)
-- **CO concentration:** Exceeding 420 ppm (pre-industrial: 280 ppm; current trajectory: 500-700 ppm by 2100)
+- **CO2 concentration:** Exceeding 420 ppm (pre-industrial: 280 ppm; current trajectory: 500-700 ppm by 2100)
 - **Tipping point status:** AMOC weakening, Amazon drought/deforestation, ice sheet velocity increasing
 
 **Medium-term indicators (years advance warning):**
@@ -45,7 +45,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 - **Fish migration patterns:** Species shifting poleward 4-10 km/year; traditional fishing grounds declining
 - **Extreme weather frequency:** Heat waves, droughts, floods, wildfires increasing in frequency and severity
 - **Agricultural stress:** Crop yield decline in vulnerable regions (Middle East, North Africa, South Asia showing 10-30% reductions)
-- **Freshwater scarcity:** Regions experiencing "Day Zero" events (Cape Town, Chennai, So Paulo precedents)
+- **Freshwater scarcity:** Regions experiencing "Day Zero" events (Cape Town, Chennai, Sao Paulo precedents)
 
 **Immediate crisis indicators (months to years warning):**
 
@@ -102,7 +102,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 *Actions:*
 
 - **Establish legal residency in climate refuge:** Apply for visas/residency in Canada, Scandinavia, New Zealand, or Patagonia (before immigration restrictions tighten)
-- **Execute seasonal migration pattern:** Summer in high latitudes (50-65N/S); winter in mid-latitudes (35-45N/S); avoid tropics
+- **Execute seasonal migration pattern:** Summer in high latitudes (50-65 deg N/S); winter in mid-latitudes (35-45 deg N/S); avoid tropics
 - **Achieve deep self-sufficiency:**
   - Water: 60-90 days autonomy (500-1000 gallon storage + rain catchment + watermaker)
   - Food: 6-12 months provisions + professional-level offshore fishing skills
@@ -181,7 +181,7 @@ Climate collapse represents a progressive, multi-decade threat fundamentally res
 
 - **IPCC Reports** (AR6, upcoming AR7 ~2028-2030) - Sea level rise, temperature projections, regional impacts
 - **NOAA Climate.gov** - Real-time data, extreme weather trends, ocean conditions
-- **NASA Climate** - Temperature anomalies, sea level rise, ice sheet monitoring, CO concentration
+- **NASA Climate** - Temperature anomalies, sea level rise, ice sheet monitoring, CO2 concentration
 - **Tipping Point Research** - AMOC status, Amazon deforestation/drought, ice sheet velocity (academic journals, Climate Tipping Points reports)
 - **ND-GAIN Index** (Notre Dame Global Adaptation Initiative) - Country climate resilience rankings
 
@@ -283,9 +283,9 @@ Recognize climate collapse as a slow-motion crisis allowing staged adaptation. B
 
 | Season | Primary Regions | Rationale | Activities |
 |--------|----------------|-----------|------------|
-| **Summer (Jun-Sep)** | High latitudes (50-65N/S): Canada, Scandinavia, Great Lakes, New Zealand (Dec-Feb = NZ summer) | Cool temperatures; avoid tropical cyclone season; long daylight; productive fishing | Cruising, exploration, fishing, maintenance, provisioning |
-| **Fall (Sep-Nov)** | Mid-latitudes (35-50N): Portugal, Mediterranean (cautiously), Uruguay, Tasmania | Transition season; harvest time; avoid early cyclones | Route planning, weather monitoring, final provisioning |
-| **Winter (Dec-Mar)** | Temperate zones (25-40N): Azores, Canary Islands (avoiding Sahara heat), Northern NZ, Tasmania | Mild climate; outside intensifying tropical cyclone zones | Passage-making, maintenance, skill practice, community building |
+| **Summer (Jun-Sep)** | High latitudes (50-65 deg N/S): Canada, Scandinavia, Great Lakes, New Zealand (Dec-Feb = NZ summer) | Cool temperatures; avoid tropical cyclone season; long daylight; productive fishing | Cruising, exploration, fishing, maintenance, provisioning |
+| **Fall (Sep-Nov)** | Mid-latitudes (35-50 deg N): Portugal, Mediterranean (cautiously), Uruguay, Tasmania | Transition season; harvest time; avoid early cyclones | Route planning, weather monitoring, final provisioning |
+| **Winter (Dec-Mar)** | Temperate zones (25-40 deg N): Azores, Canary Islands (avoiding Sahara heat), Northern NZ, Tasmania | Mild climate; outside intensifying tropical cyclone zones | Passage-making, maintenance, skill practice, community building |
 | **Spring (Mar-May)** | Transition northward | Positioning for summer refuges; avoid late-season storms | Final provisioning, system checks, route execution |
 
 **Flexible Adaptation:**

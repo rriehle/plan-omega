@@ -116,9 +116,9 @@ extra:
 
   # Custom variables
   status:
-    draft: ⚠️ DRAFT
-    in_progress: 🔄 IN PROGRESS
-    complete: ✅ COMPLETE
+    draft: "**WARNING:** DRAFT"
+    in_progress: "[IN PROGRESS] IN PROGRESS"
+    complete: "[x] COMPLETE"
 
 # Page tree / Navigation
 nav:
@@ -159,9 +159,9 @@ nav:
 
   - Operational Protocols:
     - Overview: part-5-protocols/README.md
-    - Trigger-Action Matrix: part-5-protocols/20-trigger-action-matrix.md
-    - Drills & Training: part-5-protocols/21-drills-training.md
-    - Continuous Improvement: part-5-protocols/22-continuous-improvement.md
+    - Trigger-Action Matrix: part-5-protocols/21-trigger-action-matrix.md
+    - Drills & Training: part-5-protocols/22-drills-training.md
+    - Continuous Improvement: part-5-protocols/23-continuous-improvement.md
 
   - Reference:
     - Appendices:

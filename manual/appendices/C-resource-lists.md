@@ -212,7 +212,7 @@ These topics are extensively covered in the heavy weather sailing books listed a
 - **Author:** Charles E. Wood
 - **Publisher:** Charlie's Charts/Imray
 - **ISBN:** 978-1951116439
-- **Why Essential:** Covers South Pacific east of 165W including Marquesas, Tuamotu, Pitcairn, Easter Island, Society Islands (Tahiti, Moorea, Huahine, Raiatea, Bora-Bora), Cook Islands, and Niue. Updated anchorages and marina facilities.
+- **Why Essential:** Covers South Pacific east of 165 deg W including Marquesas, Tuamotu, Pitcairn, Easter Island, Society Islands (Tahiti, Moorea, Huahine, Raiatea, Bora-Bora), Cook Islands, and Niue. Updated anchorages and marina facilities.
 
 **South Pacific Anchorages (2nd Edition)**
 
@@ -1147,4 +1147,4 @@ Numerous cruiser Facebook groups exist for:
 
 ---
 
-[Back to Appendices](README.md) | [Main Manual](../README.md) | [Next: Document Templates](D-document-templates.md)
+[<- Back to Appendices](README.md) | [Main Manual](../README.md) | [Next: Document Templates ->](D-document-templates.md)

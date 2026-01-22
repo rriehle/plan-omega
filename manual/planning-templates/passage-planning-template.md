@@ -677,5 +677,4 @@ After arrival:
 - Crew rotation strategy
 
 ---
-
 [Back to Templates](README.md)

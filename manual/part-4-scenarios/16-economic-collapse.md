@@ -665,7 +665,7 @@ These countries adopted the USD as legal tender, providing **complete protection
 
 **Example locations:**
 
-- **Ecuador:** Galpagos (pristine but expensive, permit required), mainland coast (Santa Cruz, Salinas)
+- **Ecuador:** Galapagos (pristine but expensive, permit required), mainland coast (Santa Cruz, Salinas)
 - **El Salvador:** Limited cruising infrastructure; Caribbean coast
 - **Panama:** San Blas Islands (Kuna Yala - beautiful, indigenous autonomy, limited services), Bocas del Toro (Caribbean), Panama Canal zone (services), Las Perlas Islands (Pacific)
 
