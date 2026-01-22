@@ -29,40 +29,40 @@ Psychological preparation, threat assessment, strategic planning, and destinatio
 
 Essential maritime survival systems with redundancy at every level.
 
-5. [Water Systems](part-2-core-systems/05-water-systems.md)
-6. [Food Systems](part-2-core-systems/06-food-systems.md)
-7. [Shelter & Vessel Maintenance](part-2-core-systems/07-shelter-vessel.md)
-8. [Energy & Power](part-2-core-systems/08-energy-power.md)
-9. [Medical & Healthcare](part-2-core-systems/09-medical-healthcare.md)
-10. [Defense & Security](part-2-core-systems/10-defense-security.md)
+1. [Water Systems](part-2-core-systems/05-water-systems.md)
+2. [Food Systems](part-2-core-systems/06-food-systems.md)
+3. [Shelter & Vessel Maintenance](part-2-core-systems/07-shelter-vessel.md)
+4. [Energy & Power](part-2-core-systems/08-energy-power.md)
+5. [Medical & Healthcare](part-2-core-systems/09-medical-healthcare.md)
+6. [Defense & Security](part-2-core-systems/10-defense-security.md)
 
 ### [Part III: Knowledge & Skills](part-3-knowledge-skills/README.md)
 
 Critical knowledge and capabilities for long-term autonomy.
 
-11. [Education for Children](part-3-knowledge-skills/11-education-children.md)
-12. [Navigation & Seamanship](part-3-knowledge-skills/12-navigation-seamanship.md)
-13. [Communication Systems](part-3-knowledge-skills/13-communication.md)
-14. [Tools & Equipment](part-3-knowledge-skills/14-tools-equipment.md)
-15. [Local Integration & Community](part-3-knowledge-skills/15-local-integration.md)
+1. [Education for Children](part-3-knowledge-skills/11-education-children.md)
+2. [Navigation & Seamanship](part-3-knowledge-skills/12-navigation-seamanship.md)
+3. [Communication Systems](part-3-knowledge-skills/13-communication.md)
+4. [Tools & Equipment](part-3-knowledge-skills/14-tools-equipment.md)
+5. [Local Integration & Community](part-3-knowledge-skills/15-local-integration.md)
 
 ### [Part IV: Scenario-Specific Responses](part-4-scenarios/README.md)
 
 Tailored response protocols for each collapse scenario.
 
-16. [Economic Collapse Response](part-4-scenarios/16-economic-collapse.md)
-17. [Civil Unrest Response](part-4-scenarios/17-civil-unrest.md)
-18. [Climate Collapse Response](part-4-scenarios/18-climate-collapse.md)
-19. [War Response](part-4-scenarios/19-war.md)
-20. [Pandemic/Biological Crisis Response](part-4-scenarios/20-pandemic-biological.md)
+1. [Economic Collapse Response](part-4-scenarios/16-economic-collapse.md)
+2. [Civil Unrest Response](part-4-scenarios/17-civil-unrest.md)
+3. [Climate Collapse Response](part-4-scenarios/18-climate-collapse.md)
+4. [War Response](part-4-scenarios/19-war.md)
+5. [Pandemic/Biological Crisis Response](part-4-scenarios/20-pandemic-biological.md)
 
 ### [Part V: Operational Protocols](part-5-protocols/README.md)
 
 Action plans, drills, and continuous improvement processes.
 
-20. [Trigger-Action Matrix](part-5-protocols/20-trigger-action-matrix.md)
-21. [Drills & Training Programs](part-5-protocols/21-drills-training.md)
-22. [Continuous Improvement](part-5-protocols/22-continuous-improvement.md)
+1. [Trigger-Action Matrix](part-5-protocols/20-trigger-action-matrix.md)
+2. [Drills & Training Programs](part-5-protocols/21-drills-training.md)
+3. [Continuous Improvement](part-5-protocols/22-continuous-improvement.md)
 
 ### [Appendices](appendices/README.md)
 
@@ -125,9 +125,9 @@ Every critical system has four levels of redundancy:
 
 This manual is a living document. Sections marked with:
 
-- ⚠️ **DRAFT** - Initial framework only, needs content development
-- 🔄 **IN PROGRESS** - Being actively developed
-- ✅ **COMPLETE** - Fully developed, requires only maintenance updates
+- **WARNING:** **DRAFT** - Initial framework only, needs content development
+- [REFRESH] **IN PROGRESS** - Being actively developed
+- [x] **COMPLETE** - Fully developed, requires only maintenance updates
 
 ## Version History
 

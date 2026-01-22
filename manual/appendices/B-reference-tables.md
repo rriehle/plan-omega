@@ -61,7 +61,7 @@ This appendix provides essential calculations, conversions, and reference data f
 
 ### 1.3 Distance to Horizon
 
-**Formula:** Distance (NM) = 1.17 × √(height of eye in feet)
+**Formula:** Distance (NM) = 1.17 x sqrt(height of eye in feet)
 
 | Height of Eye (feet) | Distance to Horizon (NM) |
 |---------------------|-------------------------|
@@ -77,13 +77,15 @@ This appendix provides essential calculations, conversions, and reference data f
 ### 1.4 Speed-Time-Distance Formulas
 
 **Basic Formulas:**
-- Distance (NM) = Speed (knots) × Time (hours)
-- Speed (knots) = Distance (NM) ÷ Time (hours)
-- Time (hours) = Distance (NM) ÷ Speed (knots)
+
+- Distance (NM) = Speed (knots) x Time (hours)
+- Speed (knots) = Distance (NM) / Time (hours)
+- Time (hours) = Distance (NM) / Speed (knots)
 
 **"60 D Street" Rule (for minutes):**
+
 - 60D = ST
-- Distance (NM) = (Speed × Time in minutes) ÷ 60
+- Distance (NM) = (Speed x Time in minutes) / 60
 
 #### Quick Calculation Table (Minutes to Cover Distance)
 
@@ -98,8 +100,9 @@ This appendix provides essential calculations, conversions, and reference data f
 ### 1.5 Fuel Consumption
 
 **Simplified Estimation:**
-- Gasoline engines: GPH ≈ Total HP ÷ 10 (at wide open throttle)
-- Diesel engines: GPH ≈ Total HP × 0.06 (at wide open throttle)
+
+- Gasoline engines: GPH ~ Total HP / 10 (at wide open throttle)
+- Diesel engines: GPH ~ Total HP x 0.06 (at wide open throttle)
 
 *Note: Cruising speed typically uses 60-80% of WOT fuel consumption.*
 
@@ -117,6 +120,7 @@ This appendix provides essential calculations, conversions, and reference data f
 **TVMDC Formula:** True, Variation, Magnetic, Deviation, Compass
 
 **Memory Aid:** "East is Least, West is Best" (when converting from compass to true)
+
 - East variation/deviation: ADD to true, SUBTRACT from compass
 - West variation/deviation: SUBTRACT from true, ADD to compass
 
@@ -182,7 +186,7 @@ True Course = Compass Course + Variation + Deviation
 
 | Medication | Adult Dosing | Pediatric Dosing | Administration | **CRITICAL** |
 |------------|--------------|------------------|----------------|-----------|
-| **Epinephrine Auto-Injector (EpiPen)** | 0.3 mg IM | <30 kg: 0.15 mg (EpiPen Jr), ≥30 kg: 0.3 mg | Inject into outer thigh; can inject through clothing | **CALL EMERGENCY SERVICES IMMEDIATELY**; patient must be transported even if symptoms improve |
+| **Epinephrine Auto-Injector (EpiPen)** | 0.3 mg IM | <30 kg: 0.15 mg (EpiPen Jr), >=30 kg: 0.3 mg | Inject into outer thigh; can inject through clothing | **CALL EMERGENCY SERVICES IMMEDIATELY**; patient must be transported even if symptoms improve |
 
 ### Medical Kit Recommendations by Distance from Shore
 
@@ -191,6 +195,7 @@ True Course = Compass Course + Variation + Deviation
 - **Category A** (>150 nm offshore): Most comprehensive kit per WHO guidelines
 
 **Recommended References:**
+
 - WHO International Medical Guide for Ships (3rd Edition)
 - "Your Offshore Doctor" by Michael H. Beilan, M.D.
 - "Advanced First Aid Afloat" by Peter F. Eastman, M.D.
@@ -228,6 +233,7 @@ True Course = Compass Course + Variation + Deviation
 | **20%+** | 3-7 days | Death | Fatal |
 
 **Critical Notes:**
+
 - Survival without water: typically 3-7 days depending on conditions
 - Hot weather dramatically reduces survival time
 - **NEVER drink salt water** - accelerates dehydration
@@ -304,6 +310,7 @@ True Course = Compass Course + Variation + Deviation
 ### 4.7 Marine Storage Guidelines
 
 **Critical Factors:**
+
 - Every 10°F increase in temperature cuts shelf life in half
 - Assume 50% reduction in shelf life vs. ideal conditions
 - Use waterproof containers and desiccant packs
@@ -359,7 +366,7 @@ True Course = Compass Course + Variation + Deviation
 | **General Marine Use** | 5:1 to 7:1 | Standard |
 | **Light Loads** (halyards on small boats) | 4:1 to 5:1 | Less Conservative |
 
-**Working Load = Breaking Strength ÷ Safety Factor**
+**Working Load = Breaking Strength / Safety Factor**
 
 ### 5.4 Knot Strength Efficiency
 
@@ -388,9 +395,10 @@ True Course = Compass Course + Variation + Deviation
 | 50-60 ft | 3/4" | 1/2" | 50-100 ft | 400+ ft | 57 ft depth |
 
 **Scope Guidelines:**
+
 - **7:1 minimum** for design holding power (calm conditions)
 - **10:1 in storms** for maximum security
-- Scope = Total rode length ÷ (Depth + Height of bow above water)
+- Scope = Total rode length / (Depth + Height of bow above water)
 
 **For Comprehensive Research and Decision Guidance:**
 See [Appendix B2: Rope and Knot Research](B2-rope-knot-research.md) for detailed analysis of rope material properties, trade-offs, selection criteria, and common mistakes. Section 5 above provides quick-reference tables; B2 provides the "why" behind the numbers.
@@ -402,37 +410,42 @@ See [Appendix B2: Rope and Knot Research](B2-rope-knot-research.md) for detailed
 ### 6.1 Ohm's Law Formulas
 
 **Power Formulas:**
-- Watts (W) = Volts (V) × Amps (A)
-- Amps (A) = Watts (W) ÷ Volts (V)
-- Volts (V) = Watts (W) ÷ Amps (A)
+
+- Watts (W) = Volts (V) x Amps (A)
+- Amps (A) = Watts (W) / Volts (V)
+- Volts (V) = Watts (W) / Amps (A)
 
 **Resistance Formulas:**
-- Volts (V) = Amps (A) × Ohms (Ω)
-- Amps (A) = Volts (V) ÷ Ohms (Ω)
-- Ohms (Ω) = Volts (V) ÷ Amps (A)
+
+- Volts (V) = Amps (A) x Ohms (Ω)
+- Amps (A) = Volts (V) / Ohms (Ω)
+- Ohms (Ω) = Volts (V) / Amps (A)
 
 **Practical 12V DC Examples:**
-- 100W light bar: 100W ÷ 12V = 8.33A
-- 3W LED light: 3W ÷ 12V = 0.25A
-- 300W device: 300W ÷ 12V = 25A
+
+- 100W light bar: 100W / 12V = 8.33A
+- 3W LED light: 3W / 12V = 0.25A
+- 300W device: 300W / 12V = 25A
 
 ### 6.2 Battery Capacity
 
 **Formulas:**
-- Amp-Hours (Ah) = Amps × Hours
-- Watt-Hours (Wh) = Watts × Hours
-- Watt-Hours (Wh) = Amp-Hours (Ah) × Volts
+
+- Amp-Hours (Ah) = Amps x Hours
+- Watt-Hours (Wh) = Watts x Hours
+- Watt-Hours (Wh) = Amp-Hours (Ah) x Volts
 
 **Runtime Formula:**
-Runtime (hours) = Battery Capacity (Ah) × Battery Voltage (V) ÷ Device Load (W)
+Runtime (hours) = Battery Capacity (Ah) x Battery Voltage (V) / Device Load (W)
 
 **Battery Bank Sizing:**
-Battery Bank Capacity = Daily Consumption (Ah) × 3 to 4
+Battery Bank Capacity = Daily Consumption (Ah) x 3 to 4
 
 **Depth of Discharge (DoD) Limits:**
+
 - **Lead-Acid/AGM:** Use only 50% of capacity maximum
 - **Lithium (LiFePO4):** Can use 80-100% of capacity
-- Usable Capacity = Total Capacity × DoD Percentage
+- Usable Capacity = Total Capacity x DoD Percentage
 
 ### 6.3 Wire Gauge Selection (12V DC, 3% Voltage Drop)
 
@@ -449,6 +462,7 @@ Battery Bank Capacity = Daily Consumption (Ah) × 3 to 4
 **Note:** Smaller AWG numbers = larger wire diameter. Wire length = round-trip distance (battery to load and back).
 
 **Voltage Drop Standards:**
+
 - **Critical circuits** (navigation, bilge pumps, emergency): **3% maximum**
 - **Non-critical circuits** (cabin lights, other): **10% maximum**
 
@@ -485,13 +499,14 @@ Battery Bank Capacity = Daily Consumption (Ah) × 3 to 4
 ### 6.5 Solar Panel Sizing
 
 **Basic Formula:**
-Required Solar Wattage = (Daily Ah × System Voltage × 1.4) ÷ Peak Sun Hours
+Required Solar Wattage = (Daily Ah x System Voltage x 1.4) / Peak Sun Hours
 
 **Realistic Daily Output:**
-- **On passage (sailing):** Rated Watts × 5 hours ÷ 12V = Daily Ah
-- **At anchor:** Rated Watts × 7 hours ÷ 12V = Daily Ah
 
-**Example:** 400W panel at anchor: 400W × 7 ÷ 12 = 233 Ah/day
+- **On passage (sailing):** Rated Watts x 5 hours / 12V = Daily Ah
+- **At anchor:** Rated Watts x 7 hours / 12V = Daily Ah
+
+**Example:** 400W panel at anchor: 400W x 7 / 12 = 233 Ah/day
 
 #### Solar Array Sizing Guide
 
@@ -505,14 +520,16 @@ Required Solar Wattage = (Daily Ah × System Voltage × 1.4) ÷ Peak Sun Hours
 ### 6.6 Battery Charging
 
 **Charging Time Formula:**
-Charge Time (hours) = Battery Capacity (Ah) ÷ (Charge Current × Charge Efficiency)
+Charge Time (hours) = Battery Capacity (Ah) / (Charge Current x Charge Efficiency)
 
 **Charge Efficiency by Type:**
+
 - Lithium (LiFePO4): 98%
 - AGM: 90%
 - Flooded Lead-Acid: 85%
 
 **Recommended Charging Rates:**
+
 - Lead-Acid: 10-15% of Ah capacity
 - AGM: 15-25% of Ah capacity
 - LiFePO4: 30-50% of Ah capacity (up to 100% safe)
@@ -520,9 +537,10 @@ Charge Time (hours) = Battery Capacity (Ah) ÷ (Charge Current × Charge Efficie
 ### 6.7 AC to DC Conversions
 
 **Basic Formula:**
-DC Amps = (AC Watts × 1.1) ÷ DC Volts
+DC Amps = (AC Watts x 1.1) / DC Volts
 
 **Conversion ratio:** ~1:10 for 12V systems
+
 - 1000W inverter needs ~100A DC supply capability
 - 2000W inverter needs ~200A DC supply capability
 
@@ -538,12 +556,14 @@ DC Amps = (AC Watts × 1.1) ÷ DC Volts
 ### 6.8 Inverter Sizing
 
 **Popular Sizes:**
+
 - **300-600W:** Laptops, phones, small devices only
 - **1000-1500W:** Add blender, small microwave, power tools
 - **2000-2500W:** Most household appliances (**recommended for serious cruising**)
 - **3000W+:** Air conditioning, multiple high-draw devices
 
 **Minimum Battery Bank by Inverter:**
+
 - 1000W inverter: 200Ah minimum, 300Ah recommended
 - 2000W inverter: 400Ah minimum, 500-600Ah recommended
 - 3000W inverter: 600Ah minimum, 800Ah+ recommended
@@ -1451,6 +1471,7 @@ The 14.300 MHz frequency provides nearly 24-hour coverage through sequential net
 | **12** | 64+ | 73+ | 46+ ft | Hurricane | Air filled with foam/spray, visibility severely reduced |
 
 **Sailing Guidelines:**
+
 - **Force 0-3:** Ideal sailing conditions
 - **Force 4-5:** Good sailing, reef in strong gusts
 - **Force 6:** Experienced sailors only, heavy weather preparation
@@ -1539,7 +1560,7 @@ The 14.300 MHz frequency provides nearly 24-hour coverage through sequential net
 
 | Category | Wind Speed (knots) | Pressure (mb) | Damage |
 |----------|-------------------|---------------|--------|
-| **1** | 64-82 | ≥980 | Minimal |
+| **1** | 64-82 | >=980 | Minimal |
 | **2** | 83-95 | 965-979 | Moderate |
 | **3** | 96-112 | 945-964 | Extensive |
 | **4** | 113-136 | 920-944 | Extreme |
@@ -1561,30 +1582,35 @@ The 14.300 MHz frequency provides nearly 24-hour coverage through sequential net
 Every sailor must know these knots cold. Practice until you can tie them in the dark, in rough seas, and with cold hands.
 
 #### 1. Bowline
+
 **Use:** Creates a fixed loop that won't slip or bind
 **Strength:** 70-75% of rope strength
 **Applications:** Securing sheets, making rescue loops, tying to rings/posts
 **Memory Aid:** "The rabbit comes out of the hole, around the tree, and back down the hole"
 
 #### 2. Figure 8 Loop
+
 **Use:** Stronger alternative to bowline
 **Strength:** 75-80% of rope strength
 **Applications:** Tie-in point for safety lines, rescue loops, attachment to hardware
 **Advantage:** Easy to inspect, won't come undone, very strong
 
 #### 3. Clove Hitch
+
 **Use:** Quick temporary attachment to posts, rails, or other lines
 **Strength:** 60-65% of rope strength
 **Applications:** Fender lines, temporary mooring, securing to lifelines
 **Warning:** Not reliable under variable load or on smooth surfaces
 
 #### 4. Round Turn and Two Half Hitches
+
 **Use:** Securing to posts, rings, or rails
 **Strength:** 65-70% of rope strength
 **Applications:** Docking lines, securing fenders, tying to anchors
 **Advantage:** Easy to tie and adjust under load
 
 #### 5. Sheet Bend (and Double Sheet Bend)
+
 **Use:** Joining two ropes, especially of different diameters
 **Strength:** 40-45% (single), 50-55% (double)
 **Applications:** Extending lines, creating longer dock lines
@@ -1607,15 +1633,15 @@ Every sailor must know these knots cold. Practice until you can tie them in the 
 
 ```
 DISTANCE & SPEED:
-Distance (NM) = Speed (knots) × Time (hours)
-Speed (knots) = Distance (NM) ÷ Time (hours)
+Distance (NM) = Speed (knots) x Time (hours)
+Speed (knots) = Distance (NM) / Time (hours)
 60D = ST (for calculations in minutes)
 
 ELECTRICAL:
-Watts = Volts × Amps
-Amps = Watts ÷ Volts
-Battery Bank = Daily Ah × 3-4
-DC Amps from AC = (AC Watts × 1.1) ÷ DC Volts
+Watts = Volts x Amps
+Amps = Watts / Volts
+Battery Bank = Daily Ah x 3-4
+DC Amps from AC = (AC Watts x 1.1) / DC Volts
 
 WATER & FOOD:
 Minimum water: 1-3 L/day depending on temperature
@@ -1626,7 +1652,7 @@ Minimum calories: 1500-2500/day depending on activity
 
 - **1 nautical mile = 1 minute of latitude**
 - **1 knot = 1.15 mph**
-- **Distance to horizon (NM) = 1.17 × √(height in feet)**
+- **Distance to horizon (NM) = 1.17 x sqrt(height in feet)**
 - **Anchor scope: 7:1 minimum, 10:1 in storms**
 - **Knots reduce rope strength 25-60%**
 - **Lead-acid DoD: 50% max; Lithium DoD: 80-100%**
@@ -1637,4 +1663,4 @@ Minimum calories: 1500-2500/day depending on activity
 
 ---
 
-[← Appendix A: Equipment](A-equipment-checklists.md) | [Appendices Home](README.md) | [Appendix C: Resources →](C-resource-lists.md)
+[<- Appendix A: Equipment](A-equipment-checklists.md) | [Appendices Home](README.md) | [Appendix C: Resources ->](C-resource-lists.md)

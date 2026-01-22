@@ -22,24 +22,24 @@ CREW ROSTER
 
 Name                    | Experience | Watch Qualified | Special Skills
 
-                       | ☐H ☐M ☐L | ☐Yes  ☐No |
-                       | ☐H ☐M ☐L | ☐Yes  ☐No |
-                       | ☐H ☐M ☐L | ☐Yes  ☐No |
-                       | ☐H ☐M ☐L | ☐Yes  ☐No |
+                       | [ ]H [ ]M [ ]L | [ ]Yes  [ ]No |
+                       | [ ]H [ ]M [ ]L | [ ]Yes  [ ]No |
+                       | [ ]H [ ]M [ ]L | [ ]Yes  [ ]No |
+                       | [ ]H [ ]M [ ]L | [ ]Yes  [ ]No |
 
 WATCH SYSTEM
 
-System Type: ☐3-Hour  ☐4-Hour  ☐6-Hour  ☐Swedish Watch  ☐Other
+System Type: [ ]3-Hour  [ ]4-Hour  [ ]6-Hour  [ ]Swedish Watch  [ ]Other
 
 Number of Watches per Day: ________
 Number of Watch Standers Required per Watch: ________
 
 Special Considerations:
-☐Night watches shared (no solo night watches for inexperienced)
-☐Parent always available for children
-☐Cook exempt during meal preparation
-☐Captain on-call (not standing regular watches)
-☐Other: _______________________________________________
+[ ]Night watches shared (no solo night watches for inexperienced)
+[ ]Parent always available for children
+[ ]Cook exempt during meal preparation
+[ ]Captain on-call (not standing regular watches)
+[ ]Other: _______________________________________________
 
 STANDARD WATCH SCHEDULE
 
@@ -69,58 +69,58 @@ Note: Rotate positions each day to distribute desirable/undesirable watches
 WATCH DUTIES & RESPONSIBILITIES
 
 ALL WATCHES:
-☐Maintain lookout at all times
-☐Monitor and adjust course as needed
-☐Monitor autopilot/wind vane performance
-☐Check and trim sails as needed
-☐Monitor instruments (speed, wind, depth, GPS)
-☐Log position, conditions every hour
-☐Monitor weather conditions
-☐Monitor VHF/radio
-☐Watch for traffic, hazards, fishing gear
-☐Maintain safety (harness at night, rough weather)
-☐Wake relief 15 minutes before watch change
-☐Brief relief on conditions, traffic, course
+[ ]Maintain lookout at all times
+[ ]Monitor and adjust course as needed
+[ ]Monitor autopilot/wind vane performance
+[ ]Check and trim sails as needed
+[ ]Monitor instruments (speed, wind, depth, GPS)
+[ ]Log position, conditions every hour
+[ ]Monitor weather conditions
+[ ]Monitor VHF/radio
+[ ]Watch for traffic, hazards, fishing gear
+[ ]Maintain safety (harness at night, rough weather)
+[ ]Wake relief 15 minutes before watch change
+[ ]Brief relief on conditions, traffic, course
 
 DO NOT HESITATE TO WAKE CAPTAIN FOR:
-☐Traffic on collision course
-☐Weather deteriorating
-☐Any navigation concerns
-☐Equipment failure
-☐Unusual sounds or conditions
-☐ANY DOUBTS OR CONCERNS
+[ ]Traffic on collision course
+[ ]Weather deteriorating
+[ ]Any navigation concerns
+[ ]Equipment failure
+[ ]Unusual sounds or conditions
+[ ]ANY DOUBTS OR CONCERNS
 
 SPECIFIC WATCH RESPONSIBILITIES:
 
 0000-0400 Watch:
-☐Check navigation lights
-☐Extra vigilance (most dangerous hours)
-☐Wake 0400 watch at 0345
+[ ]Check navigation lights
+[ ]Extra vigilance (most dangerous hours)
+[ ]Wake 0400 watch at 0345
 
 0400-0800 Watch:
-☐Morning weather forecast (______ UTC on ______)
-☐Check bilges
-☐Start engine if needed for batteries
-☐Prepare for sunrise traffic increase
+[ ]Morning weather forecast (______ UTC on ______)
+[ ]Check bilges
+[ ]Start engine if needed for batteries
+[ ]Prepare for sunrise traffic increase
 
 0800-1200 Watch:
-☐Noon sight (if doing celestial)
-☐Position report/check-in (at ______ UTC on ______)
-☐Assist with lunch preparation if needed
+[ ]Noon sight (if doing celestial)
+[ ]Position report/check-in (at ______ UTC on ______)
+[ ]Assist with lunch preparation if needed
 
 1200-1600 Watch:
-☐Afternoon weather forecast
-☐Monitor crew rest (ensure off-watch crew sleeping)
+[ ]Afternoon weather forecast
+[ ]Monitor crew rest (ensure off-watch crew sleeping)
 
 1600-2000 Watch:
-☐Prepare for night watches (lights check)
-☐Assist with dinner preparation if needed
-☐Evening position report/check-in (at ______ UTC on ______)
+[ ]Prepare for night watches (lights check)
+[ ]Assist with dinner preparation if needed
+[ ]Evening position report/check-in (at ______ UTC on ______)
 
 2000-0000 Watch:
-☐Extra vigilance at dusk (traffic, weather)
-☐Ensure night vision adaptation
-☐Brief night crew on any issues
+[ ]Extra vigilance at dusk (traffic, weather)
+[ ]Ensure night vision adaptation
+[ ]Brief night crew on any issues
 
 WATCH LOG ENTRIES
 
@@ -142,20 +142,20 @@ ____________________________________________________________
 Issues/Concerns:
 ____________________________________________________________
 
-Relief Briefing Given: ☐Yes    Time: ________
+Relief Briefing Given: [ ]Yes    Time: ________
 Relieved by: ____________________
 
 MODIFIED WATCH SCHEDULE (Bad Weather)
 
 In heavy weather, rough seas, or when extra vigilance needed:
 
-☐Shorten watch periods to 2-3 hours
-☐Two-person watches in severe conditions
-☐Captain on deck/available
-☐All crew in foul weather gear, harnesses
-☐Extra emphasis on safety
+[ ]Shorten watch periods to 2-3 hours
+[ ]Two-person watches in severe conditions
+[ ]Captain on deck/available
+[ ]All crew in foul weather gear, harnesses
+[ ]Extra emphasis on safety
 
-Current Status: ☐Normal Schedule  ☐Modified Schedule
+Current Status: [ ]Normal Schedule  [ ]Modified Schedule
 Reason: ____________________________________________________
 
 ANCHOR WATCH SCHEDULE
@@ -172,12 +172,12 @@ Watch | Time | Assigned | Duties
   4   |      |          | Monitor anchor, weather, traffic
 
 Anchor Watch Duties:
-☐Check position vs. anchor waypoint every 30 min
-☐Monitor weather changes
-☐Monitor other vessels in anchorage
-☐Check anchor light/riding light
-☐Monitor VHF Channel ______
-☐Wake captain if dragging or concerns
+[ ]Check position vs. anchor waypoint every 30 min
+[ ]Monitor weather changes
+[ ]Monitor other vessels in anchorage
+[ ]Check anchor light/riding light
+[ ]Monitor VHF Channel ______
+[ ]Wake captain if dragging or concerns
 
 GALLEY/COOK SCHEDULE
 
@@ -207,9 +207,9 @@ Charge electronics | | As needed |
 EMERGENCY WATCH PROTOCOL
 
 In emergency, watch schedule suspended:
-☐All hands on deck
-☐Captain assumes command
-☐Specific roles as briefed/drilled
+[ ]All hands on deck
+[ ]Captain assumes command
+[ ]Specific roles as briefed/drilled
 
 Emergency Stations:
 Name | Emergency Role
@@ -225,10 +225,10 @@ Minimum rest between watches: _____ hours
 Maximum continuous watch time: _____ hours
 
 Monitor crew for:
-☐Fatigue
-☐Seasickness affecting performance
-☐Hypothermia
-☐Dehydration
+[ ]Fatigue
+[ ]Seasickness affecting performance
+[ ]Hypothermia
+[ ]Dehydration
 
 Adjust schedule if crew welfare compromised.
 

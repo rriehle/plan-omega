@@ -15,7 +15,7 @@ PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
                     INVENTORY TRACKING SHEET
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 
-Category: ☐Food  ☐Water  ☐Medical  ☐Fuel  ☐Parts  ☐Other: ________
+Category: [ ]Food  [ ]Water  [ ]Medical  [ ]Fuel  [ ]Parts  [ ]Other: ________
 Review Date: ______________    Reviewed By: __________________
 Last Audit: ______________    Next Audit: __________________
 
@@ -23,21 +23,21 @@ ITEM TRACKING TABLE
 
 Item Name | Qty | Unit | Location | Exp Date | Min Stock | Status
 
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
-          |     |      |          |          |           | ☐OK ☐LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
+          |     |      |          |          |           | [ ]OK [ ]LOW
 
 CONSUMPTION ANALYSIS
 
@@ -55,19 +55,19 @@ RESUPPLY REQUIREMENTS
 
 Priority | Item | Quantity Needed | Target Date | Source
 
-☐URGENT |      |                 |             |
-☐HIGH   |      |                 |             |
-☐MEDIUM |      |                 |             |
-☐LOW    |      |                 |             |
+[ ]URGENT |      |                 |             |
+[ ]HIGH   |      |                 |             |
+[ ]MEDIUM |      |                 |             |
+[ ]LOW    |      |                 |             |
 
 ITEMS NEAR EXPIRATION (Next 90 Days)
 
 Item                    | Qty | Exp Date | Action Plan
 
-                       |     |          | ☐Use  ☐Replace  ☐Discard
-                       |     |          | ☐Use  ☐Replace  ☐Discard
-                       |     |          | ☐Use  ☐Replace  ☐Discard
-                       |     |          | ☐Use  ☐Replace  ☐Discard
+                       |     |          | [ ]Use  [ ]Replace  [ ]Discard
+                       |     |          | [ ]Use  [ ]Replace  [ ]Discard
+                       |     |          | [ ]Use  [ ]Replace  [ ]Discard
+                       |     |          | [ ]Use  [ ]Replace  [ ]Discard
 
 NOTES
 

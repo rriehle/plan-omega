@@ -23,7 +23,7 @@ POSITION & NAVIGATION
 Time (Local): ________    Time (UTC): ________
 
 Position: ___°___.___' N/S    ___°___.___' E/W
-Method: ☐ GPS  ☐ Celestial  ☐ Dead Reckoning  ☐ Other: ______
+Method: [ ] GPS  [ ] Celestial  [ ] Dead Reckoning  [ ] Other: ______
 
 Course Made Good: _______°    Distance Run (24h): _______ nm
 Average Speed: _______ kts    Max Speed: _______ kts
@@ -33,35 +33,35 @@ Distance to Destination: _________ nm    ETA: ______________
 
 WEATHER CONDITIONS
 
-Time: ________    Barometer: _________ mb    Trend: ☐ Rising  ☐ Falling  ☐ Steady
+Time: ________    Barometer: _________ mb    Trend: [ ] Rising  [ ] Falling  [ ] Steady
 
-Sky: ☐Clear  ☐Partly Cloudy  ☐Overcast  ☐Fog  ☐Rain  ☐Storm
+Sky: [ ]Clear  [ ]Partly Cloudy  [ ]Overcast  [ ]Fog  [ ]Rain  [ ]Storm
 Sea State: _______ (0-9)    Swell: _____-_____ ft from _______°
 Visibility: _______ nm
 
 Wind: _______° at _______ kts
-☐Calm  ☐Light  ☐Moderate  ☐Fresh  ☐Strong  ☐Gale  ☐Storm
+[ ]Calm  [ ]Light  [ ]Moderate  [ ]Fresh  [ ]Strong  [ ]Gale  [ ]Storm
 
 Forecast for Next 24h: ______________________________________
 ____________________________________________________________
 
 VESSEL STATUS
 
-Hull: ☐Good  ☐Minor Issue: _____________________________
-Rigging: ☐Good  ☐Minor Issue: _____________________________
-Engine: ☐Good  ☐Minor Issue: _____________________________
-Electrical: ☐Good  ☐Minor Issue: _____________________________
+Hull: [ ]Good  [ ]Minor Issue: _____________________________
+Rigging: [ ]Good  [ ]Minor Issue: _____________________________
+Engine: [ ]Good  [ ]Minor Issue: _____________________________
+Electrical: [ ]Good  [ ]Minor Issue: _____________________________
 
 Engine Hours Start: ________    End: ________    Total: ________
 Fuel: ________%    Water: ________%
 Battery: House ________V    Starter ________V
 
-Sails Used: ☐Main  ☐Jib  ☐Genoa  ☐Staysail  ☐Spinnaker
-☐Storm Sails  ☐Other: _________________________________
+Sails Used: [ ]Main  [ ]Jib  [ ]Genoa  [ ]Staysail  [ ]Spinnaker
+[ ]Storm Sails  [ ]Other: _________________________________
 
 OPERATIONS & ACTIVITIES
 
-☐Underway    ☐At Anchor    ☐At Dock    ☐Hove To    ☐Other
+[ ]Underway    [ ]At Anchor    [ ]At Dock    [ ]Hove To    [ ]Other
 
 Crew Activity:
 ____________________________________________________________
@@ -80,7 +80,7 @@ Water Produced/Collected: ________ gal/L    Method: __________
 ENCOUNTERS & OBSERVATIONS
 
 Vessels Sighted: ___________________________________________
-Communications: ☐VHF  ☐SSB  ☐Ham  ☐Satellite  ☐None
+Communications: [ ]VHF  [ ]SSB  [ ]Ham  [ ]Satellite  [ ]None
 Contacts: __________________________________________________
 
 Wildlife: __________________________________________________
@@ -93,23 +93,23 @@ ____________________________________________________________
 
 CREW WELFARE
 
-Morale: ☐Excellent  ☐Good  ☐Fair  ☐Low  ☐Concerning
-Health: ☐All Well  ☐Minor Issues: ______________________
+Morale: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Low  [ ]Concerning
+Health: [ ]All Well  [ ]Minor Issues: ______________________
 Medical Events: ____________________________________________
 
 Meals: B: ________________ L: ________________ D: ______________
 
 SAFETY & SECURITY
 
-Security Posture: ☐Normal  ☐Elevated  ☐High Alert
-Incidents: ☐None  ☐Describe: _____________________________
+Security Posture: [ ]Normal  [ ]Elevated  [ ]High Alert
+Incidents: [ ]None  [ ]Describe: _____________________________
 ____________________________________________________________
 
 Drills Conducted: __________________________________________
 
 THREAT ASSESSMENT
 
-Current Threat Level: ☐Level 1  ☐Level 2  ☐Level 3  ☐Level 4
+Current Threat Level: [ ]Level 1  [ ]Level 2  [ ]Level 3  [ ]Level 4
 
 News/Information Received: _________________________________
 ____________________________________________________________

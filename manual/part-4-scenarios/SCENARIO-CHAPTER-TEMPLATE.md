@@ -20,9 +20,9 @@ This template provides a standardized structure for scenario-specific response c
 ```markdown
 # [Chapter Number]. [Scenario Name] Response
 
-**Status:** ⚠️ DRAFT | 🔄 IN PROGRESS | ✅ COMPLETE
+**Status:** **WARNING:** DRAFT | [REFRESH] IN PROGRESS | [x] COMPLETE
 
-[← Part IV Overview](README.md) | [Main Manual](../README.md) | [Next Scenario →]
+[<- Part IV Overview](README.md) | [Main Manual](../README.md) | [Next Scenario ->]
 
 ---
 
@@ -408,16 +408,16 @@ ELSE [continue normal operations with enhanced monitoring]
 
 **This scenario commonly occurs alongside:**
 
-☐ Economic Collapse - [How they interact]
-☐ Civil Unrest - [How they interact]
-☐ Climate Collapse - [How they interact]
-☐ War - [How they interact]
-☐ Pandemic - [How they interact]
+[ ] Economic Collapse - [How they interact]
+[ ] Civil Unrest - [How they interact]
+[ ] Climate Collapse - [How they interact]
+[ ] War - [How they interact]
+[ ] Pandemic - [How they interact]
 
 ### Cascade Patterns
 
 **Common progression:**
-[Scenario X] → [This scenario] → [Scenario Y]
+[Scenario X] -> [This scenario] -> [Scenario Y]
 
 **Implications for planning:**
 [How multi-scenario planning affects preparation]
@@ -525,7 +525,7 @@ ELSE [continue normal operations with enhanced monitoring]
 
 ---
 
-[← Part IV Overview](README.md) | [Main Manual](../README.md) | [Next Scenario →]
+[<- Part IV Overview](README.md) | [Main Manual](../README.md) | [Next Scenario ->]
 ```
 
 ---
@@ -555,7 +555,7 @@ ELSE [continue normal operations with enhanced monitoring]
 
 ### Completeness Checklist
 
-Before marking a scenario chapter as ✅ COMPLETE, verify:
+Before marking a scenario chapter as [x] COMPLETE, verify:
 
 - [ ] All template sections completed (not "TBD" or empty)
 - [ ] At least 3 destination recommendations with specifics
@@ -588,4 +588,4 @@ Before marking a scenario chapter as ✅ COMPLETE, verify:
 
 ---
 
-[← Part IV Overview](README.md) | [Main Manual](../README.md)
+[<- Part IV Overview](README.md) | [Main Manual](../README.md)

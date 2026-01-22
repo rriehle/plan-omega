@@ -12,7 +12,7 @@ Your comprehensive maritime family survival manual structure is now complete! He
 
 ## Part I: Foundation & Strategy (FULLY WRITTEN)
 
-✅ **All 4 chapters completed with comprehensive content:**
+[x] **All 4 chapters completed with comprehensive content:**
 
 1. **Psychology & Mindset** - Complete guide to mental preparation, family dynamics, decision-making under stress, and maintaining hope
 2. **Threat Assessment & Triggers** - Four-level threat system, scenario-specific indicators, information management, and decision triggers
@@ -25,15 +25,15 @@ Your comprehensive maritime family survival manual structure is now complete! He
 
 ## Part II: Core Survival Systems
 
-✅ **Complete water systems chapter** (fully detailed)
-⚠️ **Framework chapters** for Food, Shelter, Energy, Medical, Security (structured outlines ready for expansion)
+[x] **Complete water systems chapter** (fully detailed)
+**WARNING:** **Framework chapters** for Food, Shelter, Energy, Medical, Security (structured outlines ready for expansion)
 
-5. **Water Systems** - COMPLETE: Full P.A.C.E. plan with watermaker, rain catchment, solar still, emergency rations. Ready to implement.
-6. **Food Systems** - Framework: Structured outline for provisioning, fishing, foraging, emergency rations
-7. **Shelter & Vessel** - Framework: Maintenance, repairs, heavy weather, damage control
-8. **Energy & Power** - Framework: Solar, wind, generator, conservation strategies
-9. **Medical & Healthcare** - Framework: Training, supplies, telemedicine, field medicine
-10. **Defense & Security** - Framework: Avoidance, deterrence, active defense, escape
+1. **Water Systems** - COMPLETE: Full P.A.C.E. plan with watermaker, rain catchment, solar still, emergency rations. Ready to implement.
+2. **Food Systems** - Framework: Structured outline for provisioning, fishing, foraging, emergency rations
+3. **Shelter & Vessel** - Framework: Maintenance, repairs, heavy weather, damage control
+4. **Energy & Power** - Framework: Solar, wind, generator, conservation strategies
+5. **Medical & Healthcare** - Framework: Training, supplies, telemedicine, field medicine
+6. **Defense & Security** - Framework: Avoidance, deterrence, active defense, escape
 
 **Status:** Water chapter ready to implement. Other chapters provide structure for your detailed planning.
 
@@ -41,41 +41,41 @@ Your comprehensive maritime family survival manual structure is now complete! He
 
 ## Part III: Knowledge & Skills
 
-⚠️ **Framework established**, ready for content development:
+**WARNING:** **Framework established**, ready for content development:
 
-11. Education for Children
-12. Navigation & Seamanship
-13. Communication Systems
-14. Tools & Equipment
-15. Local Integration & Community
+1. Education for Children
+2. Navigation & Seamanship
+3. Communication Systems
+4. Tools & Equipment
+5. Local Integration & Community
 
 ---
 
 ## Part IV: Scenario-Specific Responses
 
-⚠️ **Framework established**, ready for content development:
+**WARNING:** **Framework established**, ready for content development:
 
-16. Economic Collapse Response
-17. Civil Unrest Response
-18. Climate Collapse Response
-19. War Response
+1. Economic Collapse Response
+2. Civil Unrest Response
+3. Climate Collapse Response
+4. War Response
 
 ---
 
 ## Part V: Operational Protocols
 
-⚠️ **Framework established**, ready for content development:
+**WARNING:** **Framework established**, ready for content development:
 
-20. Trigger-Action Matrix
-21. Drills & Training Programs
-22. Continuous Improvement
+1. Trigger-Action Matrix
+2. Drills & Training Programs
+3. Continuous Improvement
 
 ---
 
 ## Appendices & Templates
 
-✅ **Complete P.A.C.E. Planning Template** (ready to use)
-⚠️ **Framework** for Equipment Checklists, Reference Tables, Resource Lists, etc.
+[x] **Complete P.A.C.E. Planning Template** (ready to use)
+**WARNING:** **Framework** for Equipment Checklists, Reference Tables, Resource Lists, etc.
 
 ---
 
@@ -97,32 +97,32 @@ Your comprehensive maritime family survival manual structure is now complete! He
 
 ### Short-term (This Month)
 
-4. **Begin threat assessment**
+1. **Begin threat assessment**
    - Set up monitoring for the indicators described in Chapter 2
    - Establish your baseline threat level
 
-5. **Research destinations**
+2. **Research destinations**
    - Use Chapter 4 framework to evaluate 3-5 potential safe harbors
    - Consider one destination for each scenario
 
-6. **Expand Part II chapters**
+3. **Expand Part II chapters**
    - Use the water chapter as a model
    - Develop detailed content for the framework chapters (Food, Shelter, Energy, Medical, Security)
    - OR hire me to help expand these!
 
 ### Medium-term (Next 3 Months)
 
-7. **Develop Parts III-V**
+1. **Develop Parts III-V**
    - Skills and knowledge (Part III)
    - Scenario responses (Part IV)
    - Operational protocols (Part V)
 
-8. **Create comprehensive appendices**
+2. **Create comprehensive appendices**
    - Equipment checklists customized to your boat and family
    - Reference tables for your specific systems
    - Resource lists for your cruising grounds
 
-9. **Begin implementation**
+3. **Begin implementation**
    - Actually acquire equipment
    - Conduct training
    - Run drills
@@ -130,16 +130,16 @@ Your comprehensive maritime family survival manual structure is now complete! He
 
 ### Long-term (Next Year)
 
-10. **Full P.A.C.E. implementation**
+1. **Full P.A.C.E. implementation**
     - All critical systems (water, food, shelter, energy, medical, security)
     - Tested and practiced
     - Family trained
 
-11. **Position strategically**
+2. **Position strategically**
     - Cruise in areas with good exit strategies
     - Stay within striking distance of safe harbors
 
-12. **Continuous improvement**
+3. **Continuous improvement**
     - Regular drills
     - Quarterly reviews
     - Annual threat reassessment
@@ -172,21 +172,23 @@ Your comprehensive maritime family survival manual structure is now complete! He
 
 ## Expanding the Manual
 
-### You can expand it yourself:
+### You can expand it yourself
 
 **Use existing chapters as models:**
+
 - Water Systems chapter (Part II, Ch. 5) shows the detail level and structure
 - Part I chapters show comprehensive topic coverage
 - Templates provide structured formats
 
 **Follow the same pattern:**
+
 1. Introduction (why this matters)
 2. P.A.C.E. breakdown (Primary, Alternate, Contingency, Emergency)
 3. Implementation details (equipment, skills, procedures)
 4. Checklists and action items
 5. Cross-references to other chapters
 
-### Or get help:
+### Or get help
 
 I can help you expand any of the framework chapters to the same level of detail as the water systems chapter. Just ask!
 
@@ -203,6 +205,7 @@ I can help you expand any of the framework chapters to the same level of detail 
 **Essential template:** `planning-templates/pace-planning-template.md`
 
 **Part overviews:**
+
 - `part-1-foundation/README.md`
 - `part-2-core-systems/README.md`
 - `part-3-knowledge-skills/README.md`
@@ -218,21 +221,25 @@ I can help you expand any of the framework chapters to the same level of detail 
 This manual is based on proven frameworks:
 
 **P.A.C.E. Planning** (Military-derived redundancy methodology)
+
 - Primary, Alternate, Contingency, Emergency solutions for everything
 - Eliminates single points of failure
 - Ensures you're never stuck without options
 
 **FM 21-76 Structure** (U.S. Army Survival Manual organization)
+
 - Psychology first (90% of survival is mental)
 - Basic skills before advanced
 - Environment-specific after universal
 
 **Liveaboard Self-Sufficiency** ("Fix everything with what's in your brain and what's on your boat")
+
 - True autonomy
 - Systems thinking
 - Continuous learning
 
 **FEMA Preparedness Cycle** (Plan, Organize, Train, Equip, Exercise, Evaluate, Improve)
+
 - Living process, not static plan
 - Regular practice and improvement
 
@@ -256,6 +263,6 @@ The manual is designed to be self-explanatory, but if you need clarification or 
 
 ---
 
-[→ Start Reading: Main Manual](README.md)
+[-> Start Reading: Main Manual](README.md)
 
-[→ Part I: Foundation & Strategy](part-1-foundation/README.md)
+[-> Part I: Foundation & Strategy](part-1-foundation/README.md)

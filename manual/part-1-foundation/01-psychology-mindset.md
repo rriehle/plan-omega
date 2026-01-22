@@ -1,8 +1,8 @@
 # Chapter 1: Psychology & Mindset
 
-**Status:** ⚠️ DRAFT
+**Status:** **WARNING:** DRAFT
 
-[← Part I Overview](README.md) | [Next: Threat Assessment →](02-threat-assessment-triggers.md)
+[<- Part I Overview](README.md) | [Next: Threat Assessment ->](02-threat-assessment-triggers.md)
 
 ---
 
@@ -32,6 +32,7 @@ Adapted from FM 21-76, this keyword provides a mental checklist for crisis situa
 #### **S - Size Up the Situation**
 
 Before reacting, assess:
+
 - **Surroundings**: Current position, weather, nearby threats, available resources
 - **Physical condition**: Health status of all family members, injuries, fatigue
 - **Equipment**: What's working, what's broken, what resources you have
@@ -44,6 +45,7 @@ Before reacting, assess:
 Panic kills. Rushed decisions lead to mistakes, injuries, and wasted resources.
 
 **Techniques for slowing down:**
+
 - "Count to 10" rule before major decisions
 - "Sleep on it" for non-urgent choices
 - Family consensus for significant actions
@@ -52,6 +54,7 @@ Panic kills. Rushed decisions lead to mistakes, injuries, and wasted resources.
 #### **R - Remember Where You Are**
 
 Maintain constant situational awareness:
+
 - **Geographic**: Precise navigation, position tracking
 - **Temporal**: Date, time, seasons, weather patterns
 - **Strategic**: Which scenario is unfolding, what phase you're in
@@ -59,9 +62,10 @@ Maintain constant situational awareness:
 
 #### **V - Vanquish Fear and Panic**
 
-Fear is natural and useful—it sharpens senses and motivates preparation. Panic is fear out of control.
+Fear is natural and useful--it sharpens senses and motivates preparation. Panic is fear out of control.
 
 **Fear management for adults:**
+
 - Acknowledge fear without judgment
 - Channel fear into productive action
 - Use breathing techniques (box breathing: 4 counts in, 4 hold, 4 out, 4 hold)
@@ -69,6 +73,7 @@ Fear is natural and useful—it sharpens senses and motivates preparation. Panic
 - Review successful past challenges
 
 **Fear management for children:**
+
 - Honest, age-appropriate information (see Children's Psychology section below)
 - Structured routines provide security
 - Give children age-appropriate responsibilities
@@ -80,6 +85,7 @@ Fear is natural and useful—it sharpens senses and motivates preparation. Panic
 Resourcefulness is the ultimate survival skill. You will never have perfect equipment or ideal conditions.
 
 **Cultivating improvisation:**
+
 - Practice making tools from boat materials
 - Run "what if" scenarios regularly
 - Encourage children's creative problem-solving
@@ -91,16 +97,18 @@ Resourcefulness is the ultimate survival skill. You will never have perfect equi
 Maintaining purpose and hope is critical for long-term survival.
 
 **Preserving meaning:**
+
 - **Purpose beyond survival**: Why are you surviving? What are you preserving?
 - **Family mission statement**: Write it down, revisit it
 - **Education continues**: Children's learning gives hope for future
 - **Rituals and celebrations**: Maintain holidays, birthdays, ceremonies
-- **Record-keeping**: Log, journal, photos—you're preserving history
+- **Record-keeping**: Log, journal, photos--you're preserving history
 - **Future planning**: Maintain goals beyond immediate survival
 
 #### **A - Act Like the Natives**
 
 Local knowledge is invaluable. When you reach new areas:
+
 - Observe local fishing techniques
 - Learn traditional weather prediction
 - Adopt local food preparation
@@ -110,6 +118,7 @@ Local knowledge is invaluable. When you reach new areas:
 #### **L - Live by Your Wits**
 
 Continuous learning and adaptation:
+
 - Every day, learn something new
 - Debrief daily: what worked, what didn't
 - Cross-train skills among family members
@@ -123,11 +132,13 @@ Continuous learning and adaptation:
 ### Leadership Aboard
 
 **Shared leadership model:**
+
 - **Captain role** (likely adult with most sailing experience): Final say on vessel safety and navigation
 - **Co-leader role** (other adult): Equal authority on non-vessel decisions, backup for all captain skills
 - **Children's roles**: Age-appropriate responsibilities with real authority in their domains
 
 **Decision-making protocols:**
+
 - **Emergency**: Captain decides, others execute immediately
 - **Urgent but not immediate**: Quick family huddle, 5 minutes max
 - **Important decisions**: Full family discussion, consensus when possible
@@ -142,10 +153,11 @@ Conflict is inevitable. Unresolved conflict in a confined space is catastrophic.
 1. **Cool-down period**: If emotions are high, separate to different parts of boat for 30 minutes
 2. **Private discussion**: Adults resolve adult conflicts in private when possible
 3. **Family meetings**: Regular scheduled meetings (weekly minimum) to address building tensions before crisis
-4. **"Clear the air" rule**: No letting resentments fester—address within 24 hours
+4. **"Clear the air" rule**: No letting resentments fester--address within 24 hours
 5. **Apology and repair**: Model sincere apologies and relationship repair for children
 
 **Conflict prevention:**
+
 - Clearly defined roles and responsibilities
 - Reasonable expectations given stress
 - Regular appreciation and affirmation
@@ -158,6 +170,7 @@ Conflict is inevitable. Unresolved conflict in a confined space is catastrophic.
 The adult partnership is the foundation of family stability.
 
 **Relationship maintenance:**
+
 - Regular "date nights" even if just sunset watch together
 - Private communication time daily
 - Sexual intimacy despite challenges (privacy, stress, children)
@@ -175,18 +188,21 @@ The adult partnership is the foundation of family stability.
 Children process crisis differently at different ages. Tailor approach accordingly.
 
 **Young children (0-7 years):**
+
 - **Needs**: Security, routine, parental calm
 - **Strengths**: Adaptability, accept new normals quickly, limited fear of unknown
 - **Vulnerabilities**: Complete dependence, can't understand abstract threats
 - **Approach**: Maintain routines, provide honest but simple explanations, lots of physical comfort
 
 **Middle childhood (8-12 years):**
+
 - **Needs**: Information, participation, competence
 - **Strengths**: Can learn real skills, understand cause-effect, help with tasks
 - **Vulnerabilities**: Anxiety about family safety, fear of abandonment
 - **Approach**: Age-appropriate honesty, meaningful responsibilities, skill-building, reassurance of safety plans
 
 **Adolescents (13-18 years):**
+
 - **Needs**: Autonomy, peer connection (challenging in isolation), purpose
 - **Strengths**: Adult-level skills, abstract thinking, can fully participate
 - **Vulnerabilities**: Identity formation disrupted, grief for lost future, resentment of situation
@@ -195,6 +211,7 @@ Children process crisis differently at different ages. Tailor approach according
 ### How Much to Tell Children
 
 **Guiding principles:**
+
 - **Don't lie**, but control detail level and timing
 - **Answer questions honestly** using age-appropriate language
 - **Let children's questions guide** what information they need
@@ -213,6 +230,7 @@ Children process crisis differently at different ages. Tailor approach according
 ### Children's Resilience
 
 Children are remarkably resilient when:
+
 - They feel safe with their attachment figures (parents)
 - They have some control/agency
 - They understand what's happening at their developmental level
@@ -220,6 +238,7 @@ Children are remarkably resilient when:
 - They have meaningful roles
 
 **Building resilience:**
+
 - Skills mastery (sailing, fishing, navigation, etc.)
 - Age-appropriate challenges they can overcome
 - Recognition and praise for competence
@@ -233,6 +252,7 @@ Children are remarkably resilient when:
 ### Psychological Effects of Isolation
 
 Extended isolation can cause:
+
 - Depression and anxiety
 - Cognitive changes (slower processing, difficulty with complex thoughts)
 - Emotional dysregulation
@@ -243,6 +263,7 @@ Extended isolation can cause:
 ### Mitigation Strategies
 
 **Maintain social connection:**
+
 - Radio nets with other cruisers
 - Written correspondence
 - Careful, selective integration with local communities
@@ -250,6 +271,7 @@ Extended isolation can cause:
 - Imaginary play and storytelling
 
 **Mental stimulation:**
+
 - Structured education program
 - Reading, discussions, debates
 - Games and puzzles
@@ -258,6 +280,7 @@ Extended isolation can cause:
 - Music and art
 
 **Physical health:**
+
 - Regular exercise
 - Adequate sleep (challenging on a boat)
 - Proper nutrition
@@ -265,12 +288,14 @@ Extended isolation can cause:
 - Varied physical activities
 
 **Routine and structure:**
+
 - Daily schedule
 - Weekly rhythms
 - Monthly goals
 - Annual celebrations and milestones
 
 **Individual identity:**
+
 - Private time and space (even minimal)
 - Personal projects and interests
 - Journal keeping
@@ -285,6 +310,7 @@ Extended isolation can cause:
 Stress, fear, fatigue, and hunger all impair decision-making. Recognize signs:
 
 **Individual signs:**
+
 - Tunnel vision (seeing only one option)
 - All-or-nothing thinking
 - Inability to weigh tradeoffs
@@ -293,6 +319,7 @@ Stress, fear, fatigue, and hunger all impair decision-making. Recognize signs:
 - Physical stress symptoms (tension, rapid heartbeat, etc.)
 
 **Group signs:**
+
 - Groupthink (false consensus without real discussion)
 - Scapegoating one member
 - Revisiting already-made decisions repeatedly
@@ -324,6 +351,7 @@ Stress, fear, fatigue, and hunger all impair decision-making. Recognize signs:
 Viktor Frankl's research on concentration camp survival showed that those with a sense of purpose and meaning survived better than those without, regardless of physical condition.
 
 **Your family's "why":**
+
 - Why survive? (Beyond just not dying)
 - What are you preserving?
 - What future are you working toward?
@@ -334,6 +362,7 @@ Viktor Frankl's research on concentration camp survival showed that those with a
 ### Rituals and Ceremonies
 
 Maintain humanity and normalcy through rituals:
+
 - **Daily**: Morning assembly, sunset watch, meal times, bedtime routines
 - **Weekly**: Family meeting, special meal, education presentations, game night
 - **Monthly**: Goal review, full inventory check, celebration of accomplishments
@@ -342,6 +371,7 @@ Maintain humanity and normalcy through rituals:
 ### Legacy and Record-Keeping
 
 You are living through history. Document it:
+
 - **Ship's log**: Navigation, weather, events
 - **Personal journals**: Thoughts, feelings, observations
 - **Children's work**: Schoolwork, art, writing
@@ -349,6 +379,7 @@ You are living through history. Document it:
 - **Stories**: Oral history, family stories, lessons learned
 
 This serves multiple purposes:
+
 - Processing experiences
 - Preserving family history
 - Potential value to others if shared later
@@ -361,12 +392,14 @@ This serves multiple purposes:
 ### Recognizing Mental Health Issues
 
 Watch for:
+
 - **Depression**: Withdrawal, loss of interest, hopelessness, sleep changes
 - **Anxiety**: Excessive worry, physical symptoms, avoidance, hypervigilance
 - **PTSD**: Flashbacks, nightmares, hyperarousal, avoidance
 - **Acute stress**: Overwhelm, dissociation, inability to function
 
 **In children also watch for:**
+
 - Regression (loss of skills, bedwetting, baby talk)
 - Clinginess or opposition
 - Aggressive play
@@ -377,6 +410,7 @@ Watch for:
 **Without professional help available:**
 
 **For depression:**
+
 - Maintain routine and structure
 - Physical exercise daily
 - Sunlight exposure
@@ -385,6 +419,7 @@ Watch for:
 - Talk therapy within family (within appropriate bounds)
 
 **For anxiety:**
+
 - Breathing and relaxation techniques
 - Gradual exposure to feared situations (when safe)
 - Cognitive reframing
@@ -392,6 +427,7 @@ Watch for:
 - Limited information intake (if news/monitoring fuels anxiety)
 
 **For children:**
+
 - Play therapy (use toys to act out scenarios)
 - Art therapy (drawing, painting emotions)
 - Storytelling
@@ -399,6 +435,7 @@ Watch for:
 - Age-appropriate explanation and control
 
 **Crisis intervention:**
+
 - Safety first (suicide/violence risk)
 - Immediate support and supervision
 - Physical care (sleep, food, hydration)
@@ -408,6 +445,7 @@ Watch for:
 ### Medications
 
 **Planning considerations:**
+
 - Stock psychiatric medications if family members already taking them
 - Research natural alternatives (e.g., St. John's Wort for mild depression, though interactions and side effects must be understood)
 - Understand withdrawal protocols if medications run out
@@ -438,6 +476,7 @@ Watch for:
 ### Regular Mental Fitness
 
 **Ongoing practices:**
+
 - Daily gratitude practice
 - Regular physical exercise
 - Adequate sleep hygiene
@@ -482,4 +521,4 @@ Watch for:
 
 ---
 
-[← Part I Overview](README.md) | [Next: Threat Assessment →](02-threat-assessment-triggers.md)
+[<- Part I Overview](README.md) | [Next: Threat Assessment ->](02-threat-assessment-triggers.md)

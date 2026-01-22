@@ -2,7 +2,7 @@
 
 **Status:** COMPLETE
 
-[← Resource Lists](C-resource-lists.md) | [Appendices Overview](README.md) | [Next: Quick Reference Cards →](E-quick-reference.md)
+[<- Resource Lists](C-resource-lists.md) | [Appendices Overview](README.md) | [Next: Quick Reference Cards ->](E-quick-reference.md)
 
 ---
 
@@ -408,20 +408,20 @@ They have been adapted specifically for families living aboard vessels in long-t
 
 **I need to...**
 
-- **Track daily operations** → Daily Log Template
-- **Plan a passage** → Passage Planning Template
-- **Research a destination** → Destination Dossier Template
-- **Organize watch rotations** → Watch Schedule Template
-- **Document a drill** → Drill Report Template
-- **Assess current threats** → Threat Assessment Worksheet
-- **Plan for a specific scenario** → Scenario Response Worksheet
-- **Create system redundancy** → P.A.C.E. Planning Template
-- **Track inventory** → Inventory Tracking
-- **Schedule maintenance** → Maintenance Schedule Template
-- **Document medical care** → Medical Record Template
-- **Inspect all systems** → System Audit Checklist
-- **Coordinate family response** → Family Emergency Plan Template
+- **Track daily operations** -> Daily Log Template
+- **Plan a passage** -> Passage Planning Template
+- **Research a destination** -> Destination Dossier Template
+- **Organize watch rotations** -> Watch Schedule Template
+- **Document a drill** -> Drill Report Template
+- **Assess current threats** -> Threat Assessment Worksheet
+- **Plan for a specific scenario** -> Scenario Response Worksheet
+- **Create system redundancy** -> P.A.C.E. Planning Template
+- **Track inventory** -> Inventory Tracking
+- **Schedule maintenance** -> Maintenance Schedule Template
+- **Document medical care** -> Medical Record Template
+- **Inspect all systems** -> System Audit Checklist
+- **Coordinate family response** -> Family Emergency Plan Template
 
 ---
 
-[← Resource Lists](C-resource-lists.md) | [Appendices Overview](README.md) | [Next: Quick Reference Cards →](E-quick-reference.md)
+[<- Resource Lists](C-resource-lists.md) | [Appendices Overview](README.md) | [Next: Quick Reference Cards ->](E-quick-reference.md)

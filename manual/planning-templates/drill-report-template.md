@@ -20,14 +20,14 @@ Drill Officer: ____________________    Weather: ________________
 
 DRILL TYPE (Check One)
 
-☐Fire (Engine Room)           ☐Navigation (Lost Position)
-☐Fire (Galley)                ☐Navigation (Equipment Failure)
-☐Flooding (Hull Breach)       ☐Medical (Trauma)
-☐Man Overboard                ☐Medical (Illness)
-☐Abandon Ship                 ☐Security (Boarding)
-☐Storm Preparation            ☐Security (Threat)
-☐Communication Emergency      ☐System Failure (Specify): _____
-☐Water Emergency              ☐Other: _____________________
+[ ]Fire (Engine Room)           [ ]Navigation (Lost Position)
+[ ]Fire (Galley)                [ ]Navigation (Equipment Failure)
+[ ]Flooding (Hull Breach)       [ ]Medical (Trauma)
+[ ]Man Overboard                [ ]Medical (Illness)
+[ ]Abandon Ship                 [ ]Security (Boarding)
+[ ]Storm Preparation            [ ]Security (Threat)
+[ ]Communication Emergency      [ ]System Failure (Specify): _____
+[ ]Water Emergency              [ ]Other: _____________________
 
 DRILL SCENARIO
 
@@ -44,10 +44,10 @@ CREW PARTICIPATION
 
 Name                | Role | Present? | Performance
 
-                   |      | ☐Yes ☐No | ☐Excellent ☐Good ☐Needs Improvement
-                   |      | ☐Yes ☐No | ☐Excellent ☐Good ☐Needs Improvement
-                   |      | ☐Yes ☐No | ☐Excellent ☐Good ☐Needs Improvement
-                   |      | ☐Yes ☐No | ☐Excellent ☐Good ☐Needs Improvement
+                   |      | [ ]Yes [ ]No | [ ]Excellent [ ]Good [ ]Needs Improvement
+                   |      | [ ]Yes [ ]No | [ ]Excellent [ ]Good [ ]Needs Improvement
+                   |      | [ ]Yes [ ]No | [ ]Excellent [ ]Good [ ]Needs Improvement
+                   |      | [ ]Yes [ ]No | [ ]Excellent [ ]Good [ ]Needs Improvement
 
 DRILL TIMELINE
 
@@ -65,30 +65,30 @@ Total Time: ________    Target Time: ________    Variance: ________
 
 OBJECTIVES ASSESSMENT
 
-Objective 1: ☐Met  ☐Partially Met  ☐Not Met
+Objective 1: [ ]Met  [ ]Partially Met  [ ]Not Met
 Notes: _____________________________________________________
 
-Objective 2: ☐Met  ☐Partially Met  ☐Not Met
+Objective 2: [ ]Met  [ ]Partially Met  [ ]Not Met
 Notes: _____________________________________________________
 
-Objective 3: ☐Met  ☐Partially Met  ☐Not Met
+Objective 3: [ ]Met  [ ]Partially Met  [ ]Not Met
 Notes: _____________________________________________________
 
 PERFORMANCE EVALUATION
 
-Communication: ☐Excellent  ☐Good  ☐Adequate  ☐Poor
+Communication: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor
 Comments: __________________________________________________
 ____________________________________________________________
 
-Coordination: ☐Excellent  ☐Good  ☐Adequate  ☐Poor
+Coordination: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor
 Comments: __________________________________________________
 ____________________________________________________________
 
-Speed/Efficiency: ☐Excellent  ☐Good  ☐Adequate  ☐Poor
+Speed/Efficiency: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor
 Comments: __________________________________________________
 ____________________________________________________________
 
-Equipment Readiness: ☐Excellent  ☐Good  ☐Adequate  ☐Poor
+Equipment Readiness: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor
 Comments: __________________________________________________
 ____________________________________________________________
 
@@ -102,9 +102,9 @@ ISSUES IDENTIFIED
 
 Issue                        | Severity | Responsible | Due Date
 
-                            | ☐H ☐M ☐L |         |
-                            | ☐H ☐M ☐L |         |
-                            | ☐H ☐M ☐L |         |
+                            | [ ]H [ ]M [ ]L |         |
+                            | [ ]H [ ]M [ ]L |         |
+                            | [ ]H [ ]M [ ]L |         |
 
 LESSONS LEARNED
 
@@ -117,9 +117,9 @@ ACTION ITEMS
 
 Priority | Action | Assigned To | Target Date | Status
 
-☐U ☐H ☐M ☐L |   |             |             | ☐Open ☐Complete
-☐U ☐H ☐M ☐L |   |             |             | ☐Open ☐Complete
-☐U ☐H ☐M ☐L |   |             |             | ☐Open ☐Complete
+[ ]U [ ]H [ ]M [ ]L |   |             |             | [ ]Open [ ]Complete
+[ ]U [ ]H [ ]M [ ]L |   |             |             | [ ]Open [ ]Complete
+[ ]U [ ]H [ ]M [ ]L |   |             |             | [ ]Open [ ]Complete
 
 TRAINING RECOMMENDATIONS
 
@@ -137,7 +137,7 @@ SIGN-OFF
 Drill Officer: ____________________    Date: ______________
 Reviewed By: ______________________    Date: ______________
 
-Overall Assessment: ☐Excellent  ☐Good  ☐Adequate  ☐Needs Improvement
+Overall Assessment: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Needs Improvement
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 ```
 

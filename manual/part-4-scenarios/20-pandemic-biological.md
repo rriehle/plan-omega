@@ -1,14 +1,14 @@
 # 20. Pandemic/Biological Crisis Response
 
-**Status:** 🔄 IN PROGRESS
+**Status:** [REFRESH] IN PROGRESS
 
-[← Part IV Overview](README.md) | [Main Manual](../README.md) | [Previous: War Response](19-war.md)
+[<- Part IV Overview](README.md) | [Main Manual](../README.md) | [Previous: War Response](19-war.md)
 
 ---
 
 ## Overview
 
-A pandemic or biological crisis represents a unique survival scenario where the primary threat is invisible, infectious disease rather than human violence, resource scarcity, or environmental collapse. Unlike other scenarios where maritime vessels provide advantages of mobility and self-sufficiency, in a pandemic scenario the boat becomes a **natural quarantine platform**—offering the ultimate social distancing capability.
+A pandemic or biological crisis represents a unique survival scenario where the primary threat is invisible, infectious disease rather than human violence, resource scarcity, or environmental collapse. Unlike other scenarios where maritime vessels provide advantages of mobility and self-sufficiency, in a pandemic scenario the boat becomes a **natural quarantine platform**--offering the ultimate social distancing capability.
 
 ### Historical Context
 
@@ -228,7 +228,7 @@ The fundamental pandemic strategy is **maximum isolation combined with self-suff
 4. **Maintain crew health** through isolation, hygiene, and preventive care
 5. **Be prepared for medical emergencies** without evacuation option
 
-The boat's greatest advantage is providing a sterile environment—once you've isolated for the full incubation period (14-21 days), you can be confident no one aboard is infected. Maintaining this disease-free status becomes the primary goal.
+The boat's greatest advantage is providing a sterile environment--once you've isolated for the full incubation period (14-21 days), you can be confident no one aboard is infected. Maintaining this disease-free status becomes the primary goal.
 
 ### Primary Strategy: Offshore/Remote Anchorage Quarantine
 
@@ -405,27 +405,27 @@ If a crew member becomes seriously ill or injured and requires medical intervent
 **IF condition is:**
 
 - **Life-threatening within hours** (severe trauma, heart attack, stroke, severe allergic reaction)
-  - → **Evacuate immediately** despite pandemic risk
-  - → Call emergency services, provide location
-  - → Accept exposure risk to save life
+  - -> **Evacuate immediately** despite pandemic risk
+  - -> Call emergency services, provide location
+  - -> Accept exposure risk to save life
 
 - **Life-threatening within days** (appendicitis, severe infection, childbirth complications)
-  - → **Attempt telemedicine consultation** via satellite/phone
-  - → Attempt onboard treatment per remote medical guidance
-  - → Evacuate if telemedicine indicates no alternative
-  - → Weigh exposure risk vs. likelihood of survival with/without intervention
+  - -> **Attempt telemedicine consultation** via satellite/phone
+  - -> Attempt onboard treatment per remote medical guidance
+  - -> Evacuate if telemedicine indicates no alternative
+  - -> Weigh exposure risk vs. likelihood of survival with/without intervention
 
 - **Serious but not immediately life-threatening** (broken bone, moderate infection, dental emergency)
-  - → **Treat aboard** using medical supplies and telemedicine
-  - → Monitor closely, escalate to evacuation only if deteriorating
-  - → Accept higher risk of complications to avoid disease exposure
+  - -> **Treat aboard** using medical supplies and telemedicine
+  - -> Monitor closely, escalate to evacuation only if deteriorating
+  - -> Accept higher risk of complications to avoid disease exposure
 
 - **Pandemic disease symptoms**
-  - → **Isolate aboard, do NOT evacuate**
-  - → Assume healthcare system overwhelmed and cannot help
-  - → Provide supportive care (hydration, fever reduction, rest)
-  - → Prepare for death as possible outcome
-  - → Protect non-infected crew (separate isolation if possible)
+  - -> **Isolate aboard, do NOT evacuate**
+  - -> Assume healthcare system overwhelmed and cannot help
+  - -> Provide supportive care (hydration, fever reduction, rest)
+  - -> Prepare for death as possible outcome
+  - -> Protect non-infected crew (separate isolation if possible)
 
 **Advance directives:**
 
@@ -720,7 +720,7 @@ The family must accept before entering pandemic isolation:
 **Specific areas:**
 
 - Chilean Channels (Puerto Natales to Cape Horn)
-- Aysén region - pristine, virtually uninhabited
+- Aysen region - pristine, virtually uninhabited
 - Tierra del Fuego - end of the world isolation
 
 **Considerations:**
@@ -990,13 +990,13 @@ The family must accept before entering pandemic isolation:
 
 **Absolute no-port conditions:**
 
-☑ Active community transmission in port area
-☑ Healthcare system overwhelmed
-☑ Lockdowns/curfews in effect
-☑ Reports of civil unrest or violence
-☑ Ports requiring quarantine or health inspections
-☑ Government confiscating supplies or vessels
-☑ No critical need (provisions adequate for continued isolation)
+[x] Active community transmission in port area
+[x] Healthcare system overwhelmed
+[x] Lockdowns/curfews in effect
+[x] Reports of civil unrest or violence
+[x] Ports requiring quarantine or health inspections
+[x] Government confiscating supplies or vessels
+[x] No critical need (provisions adequate for continued isolation)
 
 **Risk tolerance guideline**: If there is ANY doubt, do not enter port. The risk of disease exposure or other harm almost always exceeds the benefit of supplies.
 
@@ -1444,7 +1444,7 @@ The pandemic scenario requires constant risk assessment:
 
 - **Daily decisions**: Assigned to responsible party (meal prep to cook, navigation to navigator)
 - **Major decisions**: Family discussion, consensus if possible (where to go, when to resupply)
-- **Emergency decisions**: Pre-designated authority (medical emergency → medic decides, immediate threat → captain decides)
+- **Emergency decisions**: Pre-designated authority (medical emergency -> medic decides, immediate threat -> captain decides)
 - **Children's input**: Age-appropriate involvement (what to eat, what to learn, how to spend free time)
 
 **Maintain partnership:**
@@ -1466,7 +1466,7 @@ The pandemic scenario requires constant risk assessment:
 
 | Item | Purpose | Quantity | Est. Cost | Priority |
 |------|---------|----------|-----------|----------|
-| N95 respirators | Personal protection from airborne disease | 400+ (100 per person × 4) | $200-400 | HIGH |
+| N95 respirators | Personal protection from airborne disease | 400+ (100 per person x 4) | $200-400 | HIGH |
 | Nitrile gloves | Contact protection | 2,000 pairs | $100-200 | HIGH |
 | Disinfectants (bleach, alcohol) | Surface decontamination | 10 gal bleach, 5 gal alcohol | $100-150 | HIGH |
 | Pulse oximeter | Monitor blood oxygen (respiratory disease) | 2 (backup) | $40-80 | HIGH |
@@ -1646,29 +1646,29 @@ IF pandemic officially declared over by WHO/CDC
   AND borders/ports reopened without quarantine
   AND supply chains restored
   THEN begin gradual re-entry
-    → Visit remote ports first (assess safety)
-    → Maintain ability to return to isolation if needed
-    → Continue health monitoring
+    -> Visit remote ports first (assess safety)
+    -> Maintain ability to return to isolation if needed
+    -> Continue health monitoring
 
 ELSE IF vaccine/effective treatment widely available
   AND case rates declining for 60+ days
   AND ports accessible
   THEN consider limited contact
-    → Obtain vaccine/treatment if possible
-    → Gradual increase in contact (low-risk first)
-    → Maintain isolation capability
+    -> Obtain vaccine/treatment if possible
+    -> Gradual increase in contact (low-risk first)
+    -> Maintain isolation capability
 
 ELSE IF supplies critically depleted AND no resupply alternatives
   THEN end isolation by necessity (not choice)
-    → Accept exposure risk
-    → Full PPE protocols
-    → Minimize contact to absolute essentials
-    → Attempt to re-isolate after resupply
+    -> Accept exposure risk
+    -> Full PPE protocols
+    -> Minimize contact to absolute essentials
+    -> Attempt to re-isolate after resupply
 
 ELSE continue isolation
-  → Provisions adequate
-  → Pandemic still active
-  → Safest option is continued isolation
+  -> Provisions adequate
+  -> Pandemic still active
+  -> Safest option is continued isolation
 ```
 
 **Key principle:** Isolation is safe. Don't end it prematurely. Wait for clear, sustained indicators that pandemic is truly over. When in doubt, stay isolated.
@@ -1683,7 +1683,7 @@ ELSE continue isolation
 
 **How they interact:**
 
-- Pandemic disrupts economy (lockdowns, supply chains, business closures) → Economic collapse
+- Pandemic disrupts economy (lockdowns, supply chains, business closures) -> Economic collapse
 - Economic collapse reduces pandemic response capability (healthcare funding, vaccine development)
 - Both create supply chain disruptions (compounding effect)
 
@@ -1701,9 +1701,9 @@ ELSE continue isolation
 
 **How they interact:**
 
-- Pandemic creates fear, scarcity → Social breakdown → Civil unrest
-- Civil unrest disrupts healthcare, supply chains → Worse pandemic outcomes
-- Government response to pandemic (lockdowns, enforcement) → Resistance → Unrest
+- Pandemic creates fear, scarcity -> Social breakdown -> Civil unrest
+- Civil unrest disrupts healthcare, supply chains -> Worse pandemic outcomes
+- Government response to pandemic (lockdowns, enforcement) -> Resistance -> Unrest
 
 **Implications for planning:**
 
@@ -1721,7 +1721,7 @@ ELSE continue isolation
 
 - Climate events (hurricanes, heat waves) during pandemic overwhelm response systems
 - Pandemic reduces climate adaptation capability (economic impact, infrastructure neglect)
-- Both cause migration → Spread of disease
+- Both cause migration -> Spread of disease
 
 **Implications for planning:**
 
@@ -1737,7 +1737,7 @@ ELSE continue isolation
 **How they interact:**
 
 - War disrupts pandemic response (healthcare, vaccines, supplies)
-- Pandemic weakens nations → War becomes more likely
+- Pandemic weakens nations -> War becomes more likely
 - Biological weapons (intentional pandemic)
 
 **Implications for planning:**
@@ -1753,7 +1753,7 @@ ELSE continue isolation
 
 **Common progression:**
 
-**Pandemic → Economic Collapse → Civil Unrest**
+**Pandemic -> Economic Collapse -> Civil Unrest**
 
 - Pandemic disrupts economy
 - Economic collapse creates scarcity, unemployment
@@ -1763,9 +1763,9 @@ ELSE continue isolation
 
 **Less common but possible:**
 
-**War → Pandemic** (biological weapons, breakdown of public health)
+**War -> Pandemic** (biological weapons, breakdown of public health)
 
-**Climate → Pandemic** (climate migration spreads disease, extreme weather overwhelms healthcare)
+**Climate -> Pandemic** (climate migration spreads disease, extreme weather overwhelms healthcare)
 
 ### Priority in Multi-Scenario Events
 
@@ -1773,11 +1773,11 @@ ELSE continue isolation
 
 **Priority hierarchy:**
 
-1. **Immediate violence** (being attacked) → Defense/evasion (most urgent)
-2. **Pandemic disease** → Isolation (prevents inevitable death)
-3. **Climate event** (hurricane, etc.) → Safety at sea/relocation (immediate threat)
-4. **Economic collapse** → Adaptation (survivable with preparation)
-5. **Civil unrest** (distant) → Avoidance (monitor, stay clear)
+1. **Immediate violence** (being attacked) -> Defense/evasion (most urgent)
+2. **Pandemic disease** -> Isolation (prevents inevitable death)
+3. **Climate event** (hurricane, etc.) -> Safety at sea/relocation (immediate threat)
+4. **Economic collapse** -> Adaptation (survivable with preparation)
+5. **Civil unrest** (distant) -> Avoidance (monitor, stay clear)
 
 **Practical example:**
 
@@ -1810,7 +1810,7 @@ ELSE continue isolation
 
 2. "If we were isolated for 6 months and ran out of medications for [family member's chronic condition], what would we do?"
 
-3. "If one of us got sick while we were isolated—high fever, trouble breathing—would we risk going to a hospital during a pandemic? What would we decide?"
+3. "If one of us got sick while we were isolated--high fever, trouble breathing--would we risk going to a hospital during a pandemic? What would we decide?"
 
 4. "If we'd been isolated for 3 months and you (children) were really missing friends, but the disease was still spreading, how would we handle that?"
 
@@ -1885,7 +1885,7 @@ ELSE continue isolation
 7. Remove outer packaging and discard
 8. Disinfect inner items
 9. Transfer to clean containers
-10. Remove and dispose of PPE (practice safe removal—most contamination occurs here)
+10. Remove and dispose of PPE (practice safe removal--most contamination occurs here)
 11. Hand washing/decontamination of self
 12. Quarantine supplies for 72 hours (mark with date/time)
 
@@ -2041,7 +2041,7 @@ The 1918 influenza pandemic killed 50-100 million people (3-5% of world populati
 - Samoa (not American Samoa): Did not close borders, 20% of population died
 - Cities: High density = high mortality (Philadelphia, Boston)
 
-**Key lesson:** Even in 1918 (no modern medicine), isolation worked. Islands and remote communities that cut off contact survived. The 1918 flu demonstrates that high-mortality pandemics ARE possible and can devastate civilization. A sailboat is essentially a movable island—ultimate isolation platform.
+**Key lesson:** Even in 1918 (no modern medicine), isolation worked. Islands and remote communities that cut off contact survived. The 1918 flu demonstrates that high-mortality pandemics ARE possible and can devastate civilization. A sailboat is essentially a movable island--ultimate isolation platform.
 
 ### Contemporary Example: Cruisers in New Zealand during COVID-19
 
@@ -2156,4 +2156,4 @@ In March 2020, New Zealand closed borders to prevent COVID entry. ~300 cruising 
 
 ---
 
-[← Part IV Overview](README.md) | [Main Manual](../README.md) | [Previous: War Response](19-war.md)
+[<- Part IV Overview](README.md) | [Main Manual](../README.md) | [Previous: War Response](19-war.md)

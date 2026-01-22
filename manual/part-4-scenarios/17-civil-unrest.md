@@ -2,7 +2,7 @@
 
 **Status:**  IN PROGRESS
 
-[�← Previous: Economic Collapse Response](16-economic-collapse.md) | [Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Climate Collapse Response �→](18-climate-collapse.md)
+[<- Previous: Economic Collapse Response](16-economic-collapse.md) | [Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Climate Collapse Response ->](18-climate-collapse.md)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Civil unrest encompasses a spectrum of social breakdown ranging from organized protests and strikes to widespread violence, looting, government collapse, and civil war. Unlike economic collapse (which develops over months), civil unrest can escalate from peaceful protests to deadly violence within days or hours. The unpredictability and rapid acceleration of civil unrest make early departure critical once violence begins, escape routes close quickly.
 
-**Historical precedent** shows civil unrest follows predictable escalation patterns: Economic stress or political repression → peaceful protests → government crackdown → violence escalates → widespread looting/fighting → government collapse or brutal suppression → mass exodus of refugees. Syria (2011-present, 6+ million refugees), Venezuela (2014-present, protests → violent suppression → 8 million fled), Arab Spring (2010-2012, multiple governments toppled), Rwandan genocide (1994, 800,000 killed, 2 million fled), Yugoslav Wars (1991-2001, 2.4 million displaced), and Somalia (1991-present, ongoing collapse) all demonstrate this progression.
+**Historical precedent** shows civil unrest follows predictable escalation patterns: Economic stress or political repression -> peaceful protests -> government crackdown -> violence escalates -> widespread looting/fighting -> government collapse or brutal suppression -> mass exodus of refugees. Syria (2011-present, 6+ million refugees), Venezuela (2014-present, protests -> violent suppression -> 8 million fled), Arab Spring (2010-2012, multiple governments toppled), Rwandan genocide (1994, 800,000 killed, 2 million fled), Yugoslav Wars (1991-2001, 2.4 million displaced), and Somalia (1991-present, ongoing collapse) all demonstrate this progression.
 
 **Maritime families possess critical advantages** during civil unrest: **Mobility to escape before borders close**, physical separation from violence (anchored offshore), ability to monitor situation without direct exposure, hard-to-target (compared to fixed addresses), and international waters as refuge. However, civil unrest creates unique maritime risks: ports become dangerous (violence, official harassment, exit restrictions), coastal areas may have naval blockades or patrols, marinas are targets for looting, and desperate refugees may attempt to board vessels.
 
@@ -19,7 +19,7 @@ Civil unrest encompasses a spectrum of social breakdown ranging from organized p
 **Key characteristics:**
 
 - **Primary threat mechanisms:** Violence (riots, armed conflict, genocide), government repression (arrests, disappearances, martial law), infrastructure breakdown (no police, no utilities), maritime restrictions (closed ports, exit prohibitions), targeted attacks (ethnic, political, religious, class-based)
-- **Cascading effects:** Economic stress → protests → government crackdown → escalating violence → infrastructure collapse → refugee crisis → regional instability → piracy/lawlessness
+- **Cascading effects:** Economic stress -> protests -> government crackdown -> escalating violence -> infrastructure collapse -> refugee crisis -> regional instability -> piracy/lawlessness
 - **Likely duration:** Protests/strikes 1-6 months; violent phase days to years; government collapse immediate or drawn-out; recovery years to decades
 - **Geographic variations:** Urban areas most affected (concentration of people, infrastructure); rural/remote areas often safer initially; coastal cities vulnerable to naval restrictions; island nations may avoid worst (geographic isolation)
 
@@ -597,4 +597,4 @@ Shore power unavailable (infrastructure collapse). Fuel scarce or unavailable (s
 
 ---
 
-[�← Previous: Economic Collapse Response](16-economic-collapse.md) | [Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Climate Collapse Response �→](18-climate-collapse.md)
+[<- Previous: Economic Collapse Response](16-economic-collapse.md) | [Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Climate Collapse Response ->](18-climate-collapse.md)

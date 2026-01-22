@@ -36,12 +36,12 @@ Navigator: __________________
 Crew 1: _____________________    Role: _____________________
 Crew 2: _____________________    Role: _____________________
 
-Experience Level: ☐All Experienced  ☐Mixed  ☐Mostly Inexperienced
-Previous Ocean Passages: ☐Yes  ☐No  ☐Some Crew
+Experience Level: [ ]All Experienced  [ ]Mixed  [ ]Mostly Inexperienced
+Previous Ocean Passages: [ ]Yes  [ ]No  [ ]Some Crew
 
 ROUTE PLANNING
 
-Route Type: ☐Great Circle  ☐Rhumb Line  ☐Waypoint Route
+Route Type: [ ]Great Circle  [ ]Rhumb Line  [ ]Waypoint Route
 
 Primary Route: _____________________________________________
 Alternate Route: ___________________________________________
@@ -58,45 +58,45 @@ WP  | Lat/Lon | Description | Distance | Bearing | Notes
 HAZARDS & CONSIDERATIONS
 
 Navigation Hazards:
-☐Reefs            ☐Rocks           ☐Shoals
-☐Shipping Lanes   ☐Fishing Areas   ☐Military Zones
-☐Restricted Areas ☐Other: _______________________
+[ ]Reefs            [ ]Rocks           [ ]Shoals
+[ ]Shipping Lanes   [ ]Fishing Areas   [ ]Military Zones
+[ ]Restricted Areas [ ]Other: _______________________
 
 Details: ___________________________________________________
 ____________________________________________________________
 
 Weather Concerns:
-☐Tropical Cyclones (Season: ________)
-☐Gales/Storms Expected
-☐Fog
-☐Prevailing Conditions Unfavorable
-☐Other: _______________
+[ ]Tropical Cyclones (Season: ________)
+[ ]Gales/Storms Expected
+[ ]Fog
+[ ]Prevailing Conditions Unfavorable
+[ ]Other: _______________
 
-Weather Window Required: ☐Yes  ☐No
+Weather Window Required: [ ]Yes  [ ]No
 Forecast Sources: __________________________________________
 
 Ocean Currents:
-Expected: _____ kts from _____☐   Impact: ________________
+Expected: _____ kts from _____[ ]   Impact: ________________
 ____________________________________________________________
 
 Sea State Forecast: ________________________________________
 
 COMMUNICATIONS
 
-Primary: ☐SSB  ☐Satellite Phone  ☐Starlink  ☐Ham Radio
+Primary: [ ]SSB  [ ]Satellite Phone  [ ]Starlink  [ ]Ham Radio
 Frequency/Contact: _________________________________________
 
-Alternate: ☐SSB  ☐Satellite Phone  ☐Ham Radio  ☐VHF
+Alternate: [ ]SSB  [ ]Satellite Phone  [ ]Ham Radio  [ ]VHF
 Frequency/Contact: _________________________________________
 
-Emergency: ☐EPIRB  ☐PLB  ☐Satellite SOS
+Emergency: [ ]EPIRB  [ ]PLB  [ ]Satellite SOS
 MMSI: _____________    EPIRB HEX ID: ____________________
 
 Check-in Schedule:
-☐Daily at ________ UTC with _______________________________
-☐Every _____ hours
-☐On arrival/departure
-☐Other: _______________
+[ ]Daily at ________ UTC with _______________________________
+[ ]Every _____ hours
+[ ]On arrival/departure
+[ ]Other: _______________
 
 Shore Contact: Name: ________________    Phone: ____________
                Email: __________________    Skype: ____________
@@ -108,21 +108,21 @@ Passage Duration: _____ days    + Reserve: _____ days = _____ total
 Water:
 Capacity: _____ gal/L    Consumption Rate: _____ gal/L per day
 Required: _____ gal/L    On board: _____ gal/L
-Status: ☐Adequate  ☐Need More
+Status: [ ]Adequate  [ ]Need More
 
-Watermaker: ☐Functional  ☐Not Available
+Watermaker: [ ]Functional  [ ]Not Available
 Capacity: _____ gal/day
 
 Fuel:
 Capacity: _____ gal/L    Consumption Rate: _____ gal/hr
 Expected Usage: _____ hours    Required: _____ gal/L
-On board: _____ gal/L    Status: ☐Adequate  ☐Need More
+On board: _____ gal/L    Status: [ ]Adequate  [ ]Need More
 
 Food:
-☐Fresh Provisions for _____ days
-☐Canned/Preserved for _____ days
-☐Emergency Rations for _____ days
-Status: ☐Adequate  ☐Need More
+[ ]Fresh Provisions for _____ days
+[ ]Canned/Preserved for _____ days
+[ ]Emergency Rations for _____ days
+Status: [ ]Adequate  [ ]Need More
 
 Special Dietary Needs: _____________________________________
 
@@ -131,72 +131,72 @@ VESSEL PREPARATION
 Pre-Departure Checklist:
 
 DECK & RIGGING:
-☐Rigging inspected (all standing rigging, turnbuckles)
-☐Running rigging inspected
-☐Sails inspected (main, jib, storm sails)
-☐Lifelines secure
-☐Jack lines rigged
-☐Deck gear secured
-☐Anchor(s) ready
-☐Storm anchor prepared
-☐Sail repair kit aboard
+[ ]Rigging inspected (all standing rigging, turnbuckles)
+[ ]Running rigging inspected
+[ ]Sails inspected (main, jib, storm sails)
+[ ]Lifelines secure
+[ ]Jack lines rigged
+[ ]Deck gear secured
+[ ]Anchor(s) ready
+[ ]Storm anchor prepared
+[ ]Sail repair kit aboard
 
 ENGINE & MECHANICAL:
-☐Engine serviced (oil, filters, belts)
-☐Fuel filters changed
-☐Raw water system checked
-☐Spare parts aboard
-☐Tools inventory complete
-☐Engine hours: ________
+[ ]Engine serviced (oil, filters, belts)
+[ ]Fuel filters changed
+[ ]Raw water system checked
+[ ]Spare parts aboard
+[ ]Tools inventory complete
+[ ]Engine hours: ________
 
 ELECTRICAL & ELECTRONICS:
-☐Batteries fully charged
-☐Solar panels functional
-☐Wind generator functional
-☐GPS functional (+ backup)
-☐Chartplotter functional
-☐Autopilot functional (+ backup/windvane)
-☐Radar functional
-☐AIS functional
-☐Navigation lights functional
-☐Spare electronics/bulbs aboard
+[ ]Batteries fully charged
+[ ]Solar panels functional
+[ ]Wind generator functional
+[ ]GPS functional (+ backup)
+[ ]Chartplotter functional
+[ ]Autopilot functional (+ backup/windvane)
+[ ]Radar functional
+[ ]AIS functional
+[ ]Navigation lights functional
+[ ]Spare electronics/bulbs aboard
 
 SAFETY EQUIPMENT:
-☐Life raft inspected (Exp: ________)
-☐EPIRB tested (Exp: ________)
-☐Flares current (Exp: ________)
-☐Fire extinguishers charged
-☐Life jackets for all
-☐Harnesses for all
-☐MOB equipment ready
-☐Ditch bag prepared
-☐First aid kit complete
-☐Medical supplies adequate
+[ ]Life raft inspected (Exp: ________)
+[ ]EPIRB tested (Exp: ________)
+[ ]Flares current (Exp: ________)
+[ ]Fire extinguishers charged
+[ ]Life jackets for all
+[ ]Harnesses for all
+[ ]MOB equipment ready
+[ ]Ditch bag prepared
+[ ]First aid kit complete
+[ ]Medical supplies adequate
 
 NAVIGATION:
-☐Charts aboard (paper + electronic)
-☐Pilot books/cruising guides
-☐Current publications (Notices to Mariners)
-☐Binoculars
-☐Handheld GPS (backup)
-☐Handheld compass (backup)
-☐Sextant + tables (if capable)
-☐Flashlights + batteries
-☐Navigation tools
+[ ]Charts aboard (paper + electronic)
+[ ]Pilot books/cruising guides
+[ ]Current publications (Notices to Mariners)
+[ ]Binoculars
+[ ]Handheld GPS (backup)
+[ ]Handheld compass (backup)
+[ ]Sextant + tables (if capable)
+[ ]Flashlights + batteries
+[ ]Navigation tools
 
 BELOW DECKS:
-☐Bilges clean and dry
-☐Bilge pumps functional (manual + electric)
-☐Seacocks checked
-☐Thru-hulls inspected
-☐Heavy items secured
-☐Galley secured
-☐Sharp objects secured
-☐Books/items secured for sea
+[ ]Bilges clean and dry
+[ ]Bilge pumps functional (manual + electric)
+[ ]Seacocks checked
+[ ]Thru-hulls inspected
+[ ]Heavy items secured
+[ ]Galley secured
+[ ]Sharp objects secured
+[ ]Books/items secured for sea
 
 WATCH SYSTEM
 
-Watch Schedule: ☐3-hour  ☐4-hour  ☐6-hour  ☐Other: ____
+Watch Schedule: [ ]3-hour  [ ]4-hour  [ ]6-hour  [ ]Other: ____
 
 Watch  | Time | Primary | Backup
 
@@ -206,13 +206,13 @@ Watch  | Time | Primary | Backup
 4      |      |         |
 
 Watch Duties:
-☐Helm/Monitor autopilot
-☐Log position, heading, speed every hour
-☐Weather observation
-☐Look out for traffic, hazards
-☐Sail trim as needed
-☐Wake off-watch for weather/traffic
-☐Report any issues immediately
+[ ]Helm/Monitor autopilot
+[ ]Log position, heading, speed every hour
+[ ]Weather observation
+[ ]Look out for traffic, hazards
+[ ]Sail trim as needed
+[ ]Wake off-watch for weather/traffic
+[ ]Report any issues immediately
 
 Night Orders: ______________________________________________
 ____________________________________________________________
@@ -220,10 +220,10 @@ ____________________________________________________________
 CONTINGENCY PLANS
 
 If weather deteriorates:
-☐Heave to
-☐Divert to: _______________
-☐Return to departure port
-☐Other: _______________
+[ ]Heave to
+[ ]Divert to: _______________
+[ ]Return to departure port
+[ ]Other: _______________
 
 If major equipment failure (specify):
 ____________________________________________________________
@@ -244,24 +244,24 @@ Nearest Ports of Refuge en route:
 
 DOCUMENTATION
 
-☐Ship's papers
-☐Passports (all crew)
-☐Visas (if required)
-☐Insurance papers
-☐Medical records
-☐Vaccination records
-☐Radio licenses
-☐Fishing licenses (if applicable)
+[ ]Ship's papers
+[ ]Passports (all crew)
+[ ]Visas (if required)
+[ ]Insurance papers
+[ ]Medical records
+[ ]Vaccination records
+[ ]Radio licenses
+[ ]Fishing licenses (if applicable)
 
 DEPARTURE
 
-☐Weather forecast reviewed
-☐Final weather window confirmed
-☐Crew briefing completed
-☐Float plan filed with: ___________________________________
-☐Check-in schedule confirmed
-☐Port clearance (if required)
-☐Final walkthrough complete
+[ ]Weather forecast reviewed
+[ ]Final weather window confirmed
+[ ]Crew briefing completed
+[ ]Float plan filed with: ___________________________________
+[ ]Check-in schedule confirmed
+[ ]Port clearance (if required)
+[ ]Final walkthrough complete
 
 Target Departure: Date ____________    Time ____________
 Tides: HW ________ at ________    LW ________ at ________
@@ -273,7 +273,7 @@ ARRIVAL
 
 Entry Requirements: ________________________________________
 Port of Entry: _____________    VHF Channel: ______________
-Quarantine Flag: ☐Required
+Quarantine Flag: [ ]Required
 Customs/Immigration Procedures: ____________________________
 ____________________________________________________________
 

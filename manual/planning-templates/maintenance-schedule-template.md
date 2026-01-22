@@ -15,8 +15,8 @@ PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
                     MAINTENANCE SCHEDULE TEMPLATE
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 
-System: ☐Engine  ☐Rigging  ☐Electrical  ☐Plumbing  ☐Sails
-        ☐Safety Equipment  ☐Electronics  ☐Other: ___________
+System: [ ]Engine  [ ]Rigging  [ ]Electrical  [ ]Plumbing  [ ]Sails
+        [ ]Safety Equipment  [ ]Electronics  [ ]Other: ___________
 
 Vessel: _____________________    Month/Year: ______________
 
@@ -53,10 +53,10 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Follow-up Required: ☐No  ☐Yes: _________________________
+Follow-up Required: [ ]No  [ ]Yes: _________________________
 ____________________________________________________________
 
-Status: ☐Complete  ☐Incomplete  ☐Needs Professional Service
+Status: [ ]Complete  [ ]Incomplete  [ ]Needs Professional Service
 
 
 Date: ______________    Performed By: ________________________
@@ -71,10 +71,10 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Follow-up Required: ☐No  ☐Yes: _________________________
+Follow-up Required: [ ]No  [ ]Yes: _________________________
 ____________________________________________________________
 
-Status: ☐Complete  ☐Incomplete  ☐Needs Professional Service
+Status: [ ]Complete  [ ]Incomplete  [ ]Needs Professional Service
 
 
 
@@ -82,10 +82,10 @@ UPCOMING MAINTENANCE (Next 30 Days)
 
 Due Date | Task | Priority | Parts Needed | Est. Time
 
-         |      | ☐U ☐H ☐M ☐L |         |
-         |      | ☐U ☐H ☐M ☐L |         |
-         |      | ☐U ☐H ☐M ☐L |         |
-         |      | ☐U ☐H ☐M ☐L |         |
+         |      | [ ]U [ ]H [ ]M [ ]L |         |
+         |      | [ ]U [ ]H [ ]M [ ]L |         |
+         |      | [ ]U [ ]H [ ]M [ ]L |         |
+         |      | [ ]U [ ]H [ ]M [ ]L |         |
 
 Priority: U=Urgent  H=High  M=Medium  L=Low
 
@@ -93,9 +93,9 @@ PARTS INVENTORY NEEDED
 
 Part Description              | Qty On Hand | Qty Needed | Order?
 
-                             |             |            | ☐Yes
-                             |             |            | ☐Yes
-                             |             |            | ☐Yes
+                             |             |            | [ ]Yes
+                             |             |            | [ ]Yes
+                             |             |            | [ ]Yes
 
 NOTES & OBSERVATIONS
 

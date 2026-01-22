@@ -6,7 +6,7 @@ This section provides ready-reference materials, checklists, tables, and resourc
 
 ## Appendix Contents
 
-### [A. Essential Equipment Checklists](A-equipment-checklists.md) ⚠️ DRAFT
+### [A. Essential Equipment Checklists](A-equipment-checklists.md) **WARNING:** DRAFT
 
 Comprehensive checklists for outfitting your vessel for long-term autonomy.
 
@@ -24,7 +24,7 @@ Comprehensive checklists for outfitting your vessel for long-term autonomy.
 
 ---
 
-### [B. Reference Tables](B-reference-tables.md) ⚠️ DRAFT
+### [B. Reference Tables](B-reference-tables.md) **WARNING:** DRAFT
 
 Quick-reference data for common calculations and conversions.
 
@@ -42,7 +42,7 @@ Quick-reference data for common calculations and conversions.
 
 ---
 
-### [B2. Rope and Knot Research](B2-rope-knot-research.md) ⚠️ DRAFT
+### [B2. Rope and Knot Research](B2-rope-knot-research.md) **WARNING:** DRAFT
 
 Comprehensive research summary and decision framework for rope selection and knot use.
 
@@ -63,7 +63,7 @@ Comprehensive research summary and decision framework for rope selection and kno
 
 ---
 
-### [C. Resource Lists](C-resource-lists.md) ⚠️ DRAFT
+### [C. Resource Lists](C-resource-lists.md) **WARNING:** DRAFT
 
 Books, websites, contacts, and information sources.
 
@@ -80,7 +80,7 @@ Books, websites, contacts, and information sources.
 
 ---
 
-### [D. Document Templates](D-document-templates.md) ⚠️ DRAFT
+### [D. Document Templates](D-document-templates.md) **WARNING:** DRAFT
 
 Forms and templates for recording and planning.
 
@@ -98,7 +98,7 @@ Forms and templates for recording and planning.
 
 ---
 
-### [E. Quick Reference Cards](E-quick-reference.md) ⚠️ DRAFT
+### [E. Quick Reference Cards](E-quick-reference.md) **WARNING:** DRAFT
 
 One-page summaries for emergency situations.
 
@@ -115,4 +115,4 @@ One-page summaries for emergency situations.
 
 ---
 
-[← Part V: Protocols](../part-5-protocols/README.md) | [Main Manual](../README.md) | [Next: Templates →](../planning-templates/README.md)
+[<- Part V: Protocols](../part-5-protocols/README.md) | [Main Manual](../README.md) | [Next: Templates ->](../planning-templates/README.md)

@@ -24,25 +24,25 @@ Position: ___°___.___' N/S    ___°___.___' E/W
 Nearest Major Port: _________________________________________
 Distance from Current Position: __________ nm
 
-Region: ☐Caribbean  ☐Pacific  ☐Mediterranean  ☐Indian Ocean
-        ☐Atlantic  ☐Red Sea  ☐Other: ___________________
+Region: [ ]Caribbean  [ ]Pacific  [ ]Mediterranean  [ ]Indian Ocean
+        [ ]Atlantic  [ ]Red Sea  [ ]Other: ___________________
 
 NAVIGATION & ACCESS
 
-Approach Difficulty: ☐Easy  ☐Moderate  ☐Difficult  ☐Dangerous
+Approach Difficulty: [ ]Easy  [ ]Moderate  [ ]Difficult  [ ]Dangerous
 
-Hazards: ☐Reefs  ☐Rocks  ☐Shoals  ☐Strong Currents
-         ☐Heavy Traffic  ☐Other: _______________________
+Hazards: [ ]Reefs  [ ]Rocks  [ ]Shoals  [ ]Strong Currents
+         [ ]Heavy Traffic  [ ]Other: _______________________
 
-Anchorage Type: ☐Bay  ☐Harbor  ☐Lagoon  ☐Roadstead  ☐Marina
-Holding: ☐Excellent  ☐Good  ☐Fair  ☐Poor
-Bottom: ☐Sand  ☐Mud  ☐Rock  ☐Coral  ☐Mixed
+Anchorage Type: [ ]Bay  [ ]Harbor  [ ]Lagoon  [ ]Roadstead  [ ]Marina
+Holding: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
+Bottom: [ ]Sand  [ ]Mud  [ ]Rock  [ ]Coral  [ ]Mixed
 
-Depth: _____ - _____ ft/m    Swinging Room: ☐Ample  ☐Limited
-Protection from: ☐N  ☐NE  ☐E  ☐SE  ☐S  ☐SW  ☐W  ☐NW
+Depth: _____ - _____ ft/m    Swinging Room: [ ]Ample  [ ]Limited
+Protection from: [ ]N  [ ]NE  [ ]E  [ ]SE  [ ]S  [ ]SW  [ ]W  [ ]NW
 
 Best Season: _______________    Avoid: ___________________
-Cyclone/Hurricane Risk: ☐None  ☐Low  ☐Moderate  ☐High
+Cyclone/Hurricane Risk: [ ]None  [ ]Low  [ ]Moderate  [ ]High
 Season: _______________
 
 Charts Required: ___________________________________________
@@ -51,143 +51,143 @@ Pilots/Guides: ____________________________________________
 INFRASTRUCTURE & SERVICES
 
 Available Services:
-☐Fuel (Diesel)            ☐Water (Potable)
-☐Fuel (Gasoline)          ☐Provisions
-☐Marine Supplies          ☐Chandlery
-☐Haul-out/Repairs         ☐Sailmaker
-☐Medical Facilities       ☐Pharmacy
-☐Internet/Wifi            ☐Laundry
-☐Garbage Disposal         ☐Dinghy Dock
+[ ]Fuel (Diesel)            [ ]Water (Potable)
+[ ]Fuel (Gasoline)          [ ]Provisions
+[ ]Marine Supplies          [ ]Chandlery
+[ ]Haul-out/Repairs         [ ]Sailmaker
+[ ]Medical Facilities       [ ]Pharmacy
+[ ]Internet/Wifi            [ ]Laundry
+[ ]Garbage Disposal         [ ]Dinghy Dock
 
-Service Quality: ☐Excellent  ☐Good  ☐Basic  ☐Limited  ☐None
+Service Quality: [ ]Excellent  [ ]Good  [ ]Basic  [ ]Limited  [ ]None
 
-Marina: ☐Available  ☐Full-service  ☐Basic  ☐None
+Marina: [ ]Available  [ ]Full-service  [ ]Basic  [ ]None
 Cost: _________/day or _________/month
 
-Haul-out Facilities: ☐Yes  ☐No    Max LOA: _____ ft
+Haul-out Facilities: [ ]Yes  [ ]No    Max LOA: _____ ft
 Cost: _________    Availability: _________________________
 
 POLITICAL & LEGAL
 
 Government Type: ___________________________________________
-Political Stability: ☐Very Stable  ☐Stable  ☐Unstable  ☐Volatile
+Political Stability: [ ]Very Stable  [ ]Stable  [ ]Unstable  [ ]Volatile
 
-Cruiser-Friendly: ☐Very  ☐Moderately  ☐Neutral  ☐Difficult
+Cruiser-Friendly: [ ]Very  [ ]Moderately  [ ]Neutral  [ ]Difficult
 
-Visa Requirements: ☐None  ☐On Arrival  ☐In Advance
-Duration: _________    Cost: _________    Extensible: ☐Yes  ☐No
+Visa Requirements: [ ]None  [ ]On Arrival  [ ]In Advance
+Duration: _________    Cost: _________    Extensible: [ ]Yes  [ ]No
 
 Entry Requirements:
-☐Passport            ☐Cruising Permit
-☐Zarpe               ☐Ship's Papers
-☐Vaccinations        ☐Other: _________________________
+[ ]Passport            [ ]Cruising Permit
+[ ]Zarpe               [ ]Ship's Papers
+[ ]Vaccinations        [ ]Other: _________________________
 
 Fees/Costs: ________________________________________________
 
 Restrictions:
-☐Firearms restrictions (Describe): _______________________
-☐Movement restrictions
-☐Reporting requirements
-☐Other: __________________________________________________
+[ ]Firearms restrictions (Describe): _______________________
+[ ]Movement restrictions
+[ ]Reporting requirements
+[ ]Other: __________________________________________________
 
-Corruption Level: ☐Low  ☐Moderate  ☐High
-Official Attitude: ☐Helpful  ☐Neutral  ☐Obstructive
+Corruption Level: [ ]Low  [ ]Moderate  [ ]High
+Official Attitude: [ ]Helpful  [ ]Neutral  [ ]Obstructive
 
 RESOURCES & SUSTAINABILITY
 
 Fresh Water:
-☐Municipal supply  ☐Well  ☐Rainwater  ☐Limited  ☐Scarce
-Quality: ☐Potable  ☐Needs Treatment    Cost: ____________
+[ ]Municipal supply  [ ]Well  [ ]Rainwater  [ ]Limited  [ ]Scarce
+Quality: [ ]Potable  [ ]Needs Treatment    Cost: ____________
 
 Food Availability:
-☐Markets/Stores  ☐Fishing  ☐Agriculture  ☐Limited
-Variety: ☐Excellent  ☐Good  ☐Basic  ☐Poor
-Cost: ☐Cheap  ☐Moderate  ☐Expensive  ☐Very Expensive
+[ ]Markets/Stores  [ ]Fishing  [ ]Agriculture  [ ]Limited
+Variety: [ ]Excellent  [ ]Good  [ ]Basic  [ ]Poor
+Cost: [ ]Cheap  [ ]Moderate  [ ]Expensive  [ ]Very Expensive
 
-Local Economy: ☐Cash  ☐Credit Cards  ☐Barter  ☐Mixed
-Currency: _________    Exchange Rate: _________    Stable: ☐Yes  ☐No
+Local Economy: [ ]Cash  [ ]Credit Cards  [ ]Barter  [ ]Mixed
+Currency: _________    Exchange Rate: _________    Stable: [ ]Yes  [ ]No
 
-Agricultural Potential: ☐Excellent  ☐Good  ☐Limited  ☐None
+Agricultural Potential: [ ]Excellent  [ ]Good  [ ]Limited  [ ]None
 Growing Season: ___________________________________________
 Suitable Crops: ___________________________________________
 
-Fishing: ☐Excellent  ☐Good  ☐Fair  ☐Poor  ☐Restricted
+Fishing: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor  [ ]Restricted
 Species: __________________________________________________
 
 Renewable Energy Potential:
-☐Solar (_____ hrs/day avg)    ☐Wind (_____ kts avg)
-☐Hydro                        ☐Other: ________________
+[ ]Solar (_____ hrs/day avg)    [ ]Wind (_____ kts avg)
+[ ]Hydro                        [ ]Other: ________________
 
 CLIMATE & ENVIRONMENT
 
-Climate Type: ☐Tropical  ☐Subtropical  ☐Temperate  ☐Other
+Climate Type: [ ]Tropical  [ ]Subtropical  [ ]Temperate  [ ]Other
 Average Temp: High _____ °F/C    Low _____ °F/C
 
-Rainfall: _____ inches/year    Distribution: ☐Year-round  ☐Seasonal
+Rainfall: _____ inches/year    Distribution: [ ]Year-round  [ ]Seasonal
 Dry Season: _________    Wet Season: _________
 
 Environmental Concerns:
-☐Mosquitoes/Disease Vectors    ☐Jellyfish
-☐Sharks                        ☐Crocodiles
-☐Poisonous Flora/Fauna         ☐Pollution
-☐Other: ______________
+[ ]Mosquitoes/Disease Vectors    [ ]Jellyfish
+[ ]Sharks                        [ ]Crocodiles
+[ ]Poisonous Flora/Fauna         [ ]Pollution
+[ ]Other: ______________
 
 Diseases Present: __________________________________________
-Malaria Risk: ☐None  ☐Low  ☐Moderate  ☐High
+Malaria Risk: [ ]None  [ ]Low  [ ]Moderate  [ ]High
 Other Disease Risks: _______________________________________
 
 SECURITY
 
-Overall Safety: ☐Very Safe  ☐Safe  ☐Moderate  ☐Unsafe  ☐Dangerous
+Overall Safety: [ ]Very Safe  [ ]Safe  [ ]Moderate  [ ]Unsafe  [ ]Dangerous
 
-Crime Level: ☐Low  ☐Moderate  ☐High
-Types: ☐Theft  ☐Burglary  ☐Assault  ☐Piracy  ☐Other: ____
+Crime Level: [ ]Low  [ ]Moderate  [ ]High
+Types: [ ]Theft  [ ]Burglary  [ ]Assault  [ ]Piracy  [ ]Other: ____
 
-Piracy Risk: ☐None  ☐Low  ☐Moderate  ☐High  ☐Critical
+Piracy Risk: [ ]None  [ ]Low  [ ]Moderate  [ ]High  [ ]Critical
 Recent Incidents: __________________________________________
 
-Local Population: ☐Very Friendly  ☐Friendly  ☐Neutral  ☐Unfriendly
-Attitude to Cruisers: ☐Welcoming  ☐Neutral  ☐Suspicious  ☐Hostile
+Local Population: [ ]Very Friendly  [ ]Friendly  [ ]Neutral  [ ]Unfriendly
+Attitude to Cruisers: [ ]Welcoming  [ ]Neutral  [ ]Suspicious  [ ]Hostile
 
-Military Presence: ☐None  ☐Minimal  ☐Moderate  ☐Heavy
-Police Presence: ☐None  ☐Minimal  ☐Moderate  ☐Heavy
+Military Presence: [ ]None  [ ]Minimal  [ ]Moderate  [ ]Heavy
+Police Presence: [ ]None  [ ]Minimal  [ ]Moderate  [ ]Heavy
 
 Recommended Security Measures:
-☐Standard precautions only      ☐Enhanced vigilance
-☐24-hour watch                  ☐Hide valuables
-☐Avoid after dark               ☐Limited shore access
-☐Other: ______________________________________________
+[ ]Standard precautions only      [ ]Enhanced vigilance
+[ ]24-hour watch                  [ ]Hide valuables
+[ ]Avoid after dark               [ ]Limited shore access
+[ ]Other: ______________________________________________
 
 COMMUNICATION
 
-Cell Coverage: ☐Excellent  ☐Good  ☐Limited  ☐None
+Cell Coverage: [ ]Excellent  [ ]Good  [ ]Limited  [ ]None
 Carrier: _________    Cost: _________
 
-Internet: ☐Excellent  ☐Good  ☐Limited  ☐None
+Internet: [ ]Excellent  [ ]Good  [ ]Limited  [ ]None
 Speed: _________    Cost: _________
 
-VHF Coverage: ☐Good  ☐Limited  ☐None
+VHF Coverage: [ ]Good  [ ]Limited  [ ]None
 Channels in Use: __________________________________________
 
-Cruiser Net: ☐Yes - Frequency: _________  Time: _________
-            ☐No
+Cruiser Net: [ ]Yes - Frequency: _________  Time: _________
+            [ ]No
 
-SSB Coverage: ☐Good  ☐Limited  ☐None
+SSB Coverage: [ ]Good  [ ]Limited  [ ]None
 
-Language Spoken: ___________    English Proficiency: ☐High  ☐Low
+Language Spoken: ___________    English Proficiency: [ ]High  [ ]Low
 
 COMMUNITY
 
-Cruising Community: ☐Large  ☐Moderate  ☐Small  ☐None
+Cruising Community: [ ]Large  [ ]Moderate  [ ]Small  [ ]None
 Season: _________
 
 Local Community:
-Size: ☐Large City  ☐Town  ☐Village  ☐Remote
-Friendliness: ☐Very Welcoming  ☐Friendly  ☐Neutral  ☐Reserved
+Size: [ ]Large City  [ ]Town  [ ]Village  [ ]Remote
+Friendliness: [ ]Very Welcoming  [ ]Friendly  [ ]Neutral  [ ]Reserved
 
 Facilities for Families:
-☐Schools                ☐Playgrounds
-☐Medical for Children   ☐Other Children Present
+[ ]Schools                [ ]Playgrounds
+[ ]Medical for Children   [ ]Other Children Present
 
 Educational Opportunities: _________________________________
 
@@ -195,28 +195,28 @@ Social Activities: _________________________________________
 
 SCENARIO-SPECIFIC EVALUATION
 
-Economic Collapse Suitability: ☐Excellent  ☐Good  ☐Fair  ☐Poor
+Economic Collapse Suitability: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
 Reasoning: _________________________________________________
 ____________________________________________________________
 
-Civil Unrest Suitability: ☐Excellent  ☐Good  ☐Fair  ☐Poor
+Civil Unrest Suitability: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
 Reasoning: _________________________________________________
 ____________________________________________________________
 
-Climate Collapse Suitability: ☐Excellent  ☐Good  ☐Fair  ☐Poor
+Climate Collapse Suitability: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
 Reasoning: _________________________________________________
 ____________________________________________________________
 
-War Refuge Suitability: ☐Excellent  ☐Good  ☐Fair  ☐Poor
+War Refuge Suitability: [ ]Excellent  [ ]Good  [ ]Fair  [ ]Poor
 Reasoning: _________________________________________________
 ____________________________________________________________
 
 OVERALL ASSESSMENT
 
-Overall Rating: ☐Excellent  ☐Good  ☐Adequate  ☐Poor  ☐Avoid
+Overall Rating: [ ]Excellent  [ ]Good  [ ]Adequate  [ ]Poor  [ ]Avoid
 
-Best Use Case: ☐Long-term refuge  ☐Temporary stop
-               ☐Resupply only  ☐Emergency only
+Best Use Case: [ ]Long-term refuge  [ ]Temporary stop
+               [ ]Resupply only  [ ]Emergency only
 
 Recommended Duration: _______________________________________
 
@@ -245,7 +245,7 @@ INFORMATION SOURCES
 Cruising Guides: ___________________________________________
 Online Resources: __________________________________________
 Personal Contacts: _________________________________________
-Visited: ☐Yes - Date: _________  ☐No
+Visited: [ ]Yes - Date: _________  [ ]No
 
 LAST UPDATE
 

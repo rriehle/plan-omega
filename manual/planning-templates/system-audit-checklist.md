@@ -16,230 +16,230 @@ PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 
 Audit Date: ______________    Auditor: __________________
-Audit Type: ☐ Weekly  ☐ Monthly  ☐ Quarterly  ☐ Pre-Departure
+Audit Type: [ ] Weekly  [ ] Monthly  [ ] Quarterly  [ ] Pre-Departure
 Last Audit: ______________    Next Due: __________________
 Weather Conditions: _______________________________________
 
 HULL & STRUCTURE
-════════════════════════════════════════════════════════════
-☐ Hull integrity - no cracks, delamination, or damage
-☐ Through-hulls and seacocks - operate freely, no corrosion
-☐ Rudder and steering - smooth operation, no play
-☐ Keel and keel bolts - secure, no movement or corrosion
-☐ Chain plates - no cracks, proper tension
-☐ Deck hardware - secure mounting, no cracks
-☐ Hatches and ports - seal properly, dogs operate smoothly
-☐ Stanchions and lifelines - secure, proper tension
-☐ Bilge - clean, dry, pumps operational
+============================================================
+[ ] Hull integrity - no cracks, delamination, or damage
+[ ] Through-hulls and seacocks - operate freely, no corrosion
+[ ] Rudder and steering - smooth operation, no play
+[ ] Keel and keel bolts - secure, no movement or corrosion
+[ ] Chain plates - no cracks, proper tension
+[ ] Deck hardware - secure mounting, no cracks
+[ ] Hatches and ports - seal properly, dogs operate smoothly
+[ ] Stanchions and lifelines - secure, proper tension
+[ ] Bilge - clean, dry, pumps operational
 Notes: _____________________________________________________
 ___________________________________________________________
 
 RIGGING & SAILS
-════════════════════════════════════════════════════════════
+============================================================
 Standing Rigging:
-☐ Shrouds - proper tension, no broken strands
-☐ Stays - no excessive wear at terminals
-☐ Turnbuckles - secured, no cracks
-☐ Spreaders - aligned, secure attachment
-☐ Mast - straight, no cracks or corrosion
+[ ] Shrouds - proper tension, no broken strands
+[ ] Stays - no excessive wear at terminals
+[ ] Turnbuckles - secured, no cracks
+[ ] Spreaders - aligned, secure attachment
+[ ] Mast - straight, no cracks or corrosion
 
 Running Rigging:
-☐ Halyards - no chafe, proper lead
-☐ Sheets - good condition, no UV damage
-☐ Control lines - reefing, outhaul, vang operational
-☐ Winches - smooth operation, properly serviced
-☐ Blocks and shackles - free movement, secure
+[ ] Halyards - no chafe, proper lead
+[ ] Sheets - good condition, no UV damage
+[ ] Control lines - reefing, outhaul, vang operational
+[ ] Winches - smooth operation, properly serviced
+[ ] Blocks and shackles - free movement, secure
 
 Sails:
-☐ Mainsail - no tears, chafe, or UV damage
-☐ Headsails - hanks/furler operational
-☐ Storm sails - accessible, good condition
-☐ Sail covers - secure, providing protection
+[ ] Mainsail - no tears, chafe, or UV damage
+[ ] Headsails - hanks/furler operational
+[ ] Storm sails - accessible, good condition
+[ ] Sail covers - secure, providing protection
 Notes: _____________________________________________________
 ___________________________________________________________
 
 ENGINE & MECHANICAL
-════════════════════════════════════════════════════════════
+============================================================
 Engine:
-☐ Oil level and condition - within specs
-☐ Coolant level and condition - proper mix
-☐ Belts - proper tension, no cracks
-☐ Hoses - no leaks, soft spots, or cracks
-☐ Raw water strainer - clean
-☐ Fuel filters - clean, water separator empty
-☐ Engine mounts - secure, proper alignment
-☐ Exhaust system - no leaks or corrosion
-☐ Transmission fluid - proper level and color
-☐ Prop shaft and cutlass bearing - no excessive play
-☐ Engine hours: __________ Next service: __________
+[ ] Oil level and condition - within specs
+[ ] Coolant level and condition - proper mix
+[ ] Belts - proper tension, no cracks
+[ ] Hoses - no leaks, soft spots, or cracks
+[ ] Raw water strainer - clean
+[ ] Fuel filters - clean, water separator empty
+[ ] Engine mounts - secure, proper alignment
+[ ] Exhaust system - no leaks or corrosion
+[ ] Transmission fluid - proper level and color
+[ ] Prop shaft and cutlass bearing - no excessive play
+[ ] Engine hours: __________ Next service: __________
 
 Fuel System:
-☐ Tanks - secure, no leaks
-☐ Fuel lines - no cracks or leaks
-☐ Shut-off valves - operate freely
-☐ Vents - clear, no blockage
-☐ Current fuel level: __________ gallons/liters
+[ ] Tanks - secure, no leaks
+[ ] Fuel lines - no cracks or leaks
+[ ] Shut-off valves - operate freely
+[ ] Vents - clear, no blockage
+[ ] Current fuel level: __________ gallons/liters
 Notes: _____________________________________________________
 ___________________________________________________________
 
 ELECTRICAL SYSTEMS
-════════════════════════════════════════════════════════════
+============================================================
 Batteries:
-☐ House bank voltage: __________ V
-☐ Starting battery voltage: __________ V
-☐ Water levels (if applicable) - topped up
-☐ Terminals - clean, no corrosion
-☐ Securing - batteries properly secured
+[ ] House bank voltage: __________ V
+[ ] Starting battery voltage: __________ V
+[ ] Water levels (if applicable) - topped up
+[ ] Terminals - clean, no corrosion
+[ ] Securing - batteries properly secured
 
 Charging:
-☐ Alternator - charging properly
-☐ Shore power - connection secure, no corrosion
-☐ Solar panels - clean, producing expected output
-☐ Wind generator - operational (if applicable)
-☐ Battery monitor - functioning correctly
+[ ] Alternator - charging properly
+[ ] Shore power - connection secure, no corrosion
+[ ] Solar panels - clean, producing expected output
+[ ] Wind generator - operational (if applicable)
+[ ] Battery monitor - functioning correctly
 
 Distribution:
-☐ Main panel - breakers labeled and operational
-☐ Ground fault protection - tests correctly
-☐ Navigation lights - all functioning
-☐ Interior lights - all functioning
-☐ Bilge pump wiring - secure, no corrosion
+[ ] Main panel - breakers labeled and operational
+[ ] Ground fault protection - tests correctly
+[ ] Navigation lights - all functioning
+[ ] Interior lights - all functioning
+[ ] Bilge pump wiring - secure, no corrosion
 Notes: _____________________________________________________
 ___________________________________________________________
 
 PLUMBING & WATER SYSTEMS
-════════════════════════════════════════════════════════════
+============================================================
 Fresh Water:
-☐ Tanks - clean, no leaks or odor
-☐ Water level: __________ gallons/liters
-☐ Pumps - operate properly
-☐ Hot water heater - functioning
-☐ Faucets and fixtures - no leaks
+[ ] Tanks - clean, no leaks or odor
+[ ] Water level: __________ gallons/liters
+[ ] Pumps - operate properly
+[ ] Hot water heater - functioning
+[ ] Faucets and fixtures - no leaks
 
 Waste Systems:
-☐ Head - operates properly
-☐ Holding tank - level checked, no leaks
-☐ Through-hulls - operate freely
-☐ Hoses - no odor or deterioration
-☐ Y-valve - proper position for location
+[ ] Head - operates properly
+[ ] Holding tank - level checked, no leaks
+[ ] Through-hulls - operate freely
+[ ] Hoses - no odor or deterioration
+[ ] Y-valve - proper position for location
 
 Bilge:
-☐ Manual pump - operates freely
-☐ Electric pump - automatic function works
-☐ Float switch - clean and operational
-☐ High water alarm - tests properly
+[ ] Manual pump - operates freely
+[ ] Electric pump - automatic function works
+[ ] Float switch - clean and operational
+[ ] High water alarm - tests properly
 Notes: _____________________________________________________
 ___________________________________________________________
 
 NAVIGATION EQUIPMENT
-════════════════════════════════════════════════════════════
-☐ GPS/Chart plotter - current updates
-☐ Depth sounder - accurate readings
-☐ Wind instruments - calibrated
-☐ Autopilot - responsive and accurate
-☐ Radar - operational (if equipped)
-☐ AIS - transmitting and receiving
-☐ Compass - deviation card current
-☐ Paper charts - appropriate for area
-☐ Binoculars - clean, properly stowed
-☐ Navigation lights - visibility checked
+============================================================
+[ ] GPS/Chart plotter - current updates
+[ ] Depth sounder - accurate readings
+[ ] Wind instruments - calibrated
+[ ] Autopilot - responsive and accurate
+[ ] Radar - operational (if equipped)
+[ ] AIS - transmitting and receiving
+[ ] Compass - deviation card current
+[ ] Paper charts - appropriate for area
+[ ] Binoculars - clean, properly stowed
+[ ] Navigation lights - visibility checked
 Notes: _____________________________________________________
 ___________________________________________________________
 
 COMMUNICATION EQUIPMENT
-════════════════════════════════════════════════════════════
-☐ VHF radio - transmission check
-☐ VHF antenna - connections secure
-☐ SSB/Ham radio - operational (if equipped)
-☐ Satellite phone - charged, minutes available
-☐ EPIRB - registration current, battery valid
-☐ Emergency antenna - accessible
-☐ Handheld VHF - charged, waterproof
+============================================================
+[ ] VHF radio - transmission check
+[ ] VHF antenna - connections secure
+[ ] SSB/Ham radio - operational (if equipped)
+[ ] Satellite phone - charged, minutes available
+[ ] EPIRB - registration current, battery valid
+[ ] Emergency antenna - accessible
+[ ] Handheld VHF - charged, waterproof
 Notes: _____________________________________________________
 ___________________________________________________________
 
 SAFETY EQUIPMENT
-════════════════════════════════════════════════════════════
+============================================================
 Life-saving:
-☐ Life jackets - one per crew, good condition
-☐ Harnesses and tethers - no damage
-☐ Jacklines - properly rigged
-☐ Life raft - service current, hydrostatic release OK
-☐ Throwable devices - accessible
-☐ MOB equipment - pole, horseshoe, light ready
+[ ] Life jackets - one per crew, good condition
+[ ] Harnesses and tethers - no damage
+[ ] Jacklines - properly rigged
+[ ] Life raft - service current, hydrostatic release OK
+[ ] Throwable devices - accessible
+[ ] MOB equipment - pole, horseshoe, light ready
 
 Fire Safety:
-☐ Fire extinguishers - charged, accessible
-☐ Fire blanket - accessible in galley
-☐ Smoke/CO detectors - tested
-☐ Engine room suppression - armed (if equipped)
+[ ] Fire extinguishers - charged, accessible
+[ ] Fire blanket - accessible in galley
+[ ] Smoke/CO detectors - tested
+[ ] Engine room suppression - armed (if equipped)
 
 Signaling:
-☐ Flares - within date, properly stowed
-☐ Horn/whistle - operational
-☐ Signal flags - complete set
-☐ Flashlight/strobe - batteries good
+[ ] Flares - within date, properly stowed
+[ ] Horn/whistle - operational
+[ ] Signal flags - complete set
+[ ] Flashlight/strobe - batteries good
 
 Medical:
-☐ First aid kit - stocked, medications in date
-☐ Medical oxygen - pressure OK (if carried)
-☐ Emergency contact info - posted
+[ ] First aid kit - stocked, medications in date
+[ ] Medical oxygen - pressure OK (if carried)
+[ ] Emergency contact info - posted
 Notes: _____________________________________________________
 ___________________________________________________________
 
 GROUND TACKLE
-════════════════════════════════════════════════════════════
-☐ Primary anchor - secure, properly sized
-☐ Secondary anchor - accessible
-☐ Chain/rode - marked, no excessive wear
-☐ Windlass - operates smoothly
-☐ Chain stopper/snubber - good condition
-☐ Anchor light - functioning
+============================================================
+[ ] Primary anchor - secure, properly sized
+[ ] Secondary anchor - accessible
+[ ] Chain/rode - marked, no excessive wear
+[ ] Windlass - operates smoothly
+[ ] Chain stopper/snubber - good condition
+[ ] Anchor light - functioning
 Notes: _____________________________________________________
 ___________________________________________________________
 
 TENDER & OUTBOARD
-════════════════════════════════════════════════════════════
-☐ Dinghy - holds air, no damage
-☐ Outboard - starts easily
-☐ Fuel - fresh, proper mix
-☐ Oars/paddles - present and secure
-☐ Painter - good condition
-☐ Anchor and rode - present
-☐ Bailer - present
-☐ Registration/numbers - current
+============================================================
+[ ] Dinghy - holds air, no damage
+[ ] Outboard - starts easily
+[ ] Fuel - fresh, proper mix
+[ ] Oars/paddles - present and secure
+[ ] Painter - good condition
+[ ] Anchor and rode - present
+[ ] Bailer - present
+[ ] Registration/numbers - current
 Notes: _____________________________________________________
 ___________________________________________________________
 
 PROVISIONS & SUPPLIES
-════════════════════════════════════════════════════════════
-☐ Food - 30+ days supply maintained
-☐ Water - 1 gal/person/day for 30+ days
-☐ Fuel - tanks topped when possible
-☐ Propane - spare cylinder full
-☐ Medications - 90+ day supply
-☐ Spare parts - critical spares aboard
-☐ Tools - complete set, good condition
-☐ Emergency cash - accessible
+============================================================
+[ ] Food - 30+ days supply maintained
+[ ] Water - 1 gal/person/day for 30+ days
+[ ] Fuel - tanks topped when possible
+[ ] Propane - spare cylinder full
+[ ] Medications - 90+ day supply
+[ ] Spare parts - critical spares aboard
+[ ] Tools - complete set, good condition
+[ ] Emergency cash - accessible
 Notes: _____________________________________________________
 ___________________________________________________________
 
 DOCUMENTATION
-════════════════════════════════════════════════════════════
-☐ Ship's papers - current and accessible
-☐ Insurance - current, contact info available
-☐ Crew documentation - passports, licenses
-☐ Float plan - filed with trusted contact
-☐ Maintenance log - up to date
-☐ Emergency contacts - posted
+============================================================
+[ ] Ship's papers - current and accessible
+[ ] Insurance - current, contact info available
+[ ] Crew documentation - passports, licenses
+[ ] Float plan - filed with trusted contact
+[ ] Maintenance log - up to date
+[ ] Emergency contacts - posted
 Notes: _____________________________________________________
 ___________________________________________________________
 
 OVERALL VESSEL READINESS
-════════════════════════════════════════════════════════════
+============================================================
 
-Seaworthiness Rating: ☐ Excellent  ☐ Good  ☐ Fair  ☐ Poor
-Ready for Immediate Departure: ☐ Yes  ☐ No
+Seaworthiness Rating: [ ] Excellent  [ ] Good  [ ] Fair  [ ] Poor
+Ready for Immediate Departure: [ ] Yes  [ ] No
 If No, estimated time to ready: __________ hours/days
 
 Critical Issues Requiring Immediate Attention:

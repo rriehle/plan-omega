@@ -1,8 +1,8 @@
 # Chapter 2: Threat Assessment & Triggers
 
-**Status:** ⚠️ DRAFT
+**Status:** **WARNING:** DRAFT
 
-[← Psychology & Mindset](01-psychology-mindset.md) | [Part I Overview](README.md) | [Next: Strategic Planning →](03-strategic-planning.md)
+[<- Psychology & Mindset](01-psychology-mindset.md) | [Part I Overview](README.md) | [Next: Strategic Planning ->](03-strategic-planning.md)
 
 ---
 
@@ -19,12 +19,14 @@ Your family operates at one of four threat levels at all times:
 **Definition**: Normal life with enhanced awareness and ongoing preparation.
 
 **Characteristics:**
+
 - Systems functioning normally
 - Indicators at baseline or improving
 - Time available for systematic preparation
 - Standard cruising and lifestyle
 
 **Activities:**
+
 - Continuous learning and skills development
 - Gradual stockpiling and equipment acquisition
 - Monitoring information sources
@@ -41,12 +43,14 @@ Your family operates at one of four threat levels at all times:
 **Definition**: Early warning signs detected; increase preparedness pace without major lifestyle changes.
 
 **Characteristics:**
+
 - Some indicators deteriorating
 - Trends concerning but not yet critical
 - Reversible situation possible
 - 3-12 months to potential crisis
 
 **Activities:**
+
 - Accelerate stockpiling
 - Top off critical supplies (fuel, food, water, medical)
 - Position vessel strategically
@@ -65,12 +69,14 @@ Your family operates at one of four threat levels at all times:
 **Definition**: Imminent threat; execute departure protocols and relocate to safe harbor.
 
 **Characteristics:**
+
 - Multiple indicators critical
 - Situation deteriorating rapidly
 - Window for action closing
 - Days to weeks before crisis
 
 **Activities:**
+
 - Depart primary location
 - Sail to predetermined safe harbor
 - Minimize exposure to threats
@@ -88,12 +94,14 @@ Your family operates at one of four threat levels at all times:
 **Definition**: Crisis in full effect; long-term autonomous operations.
 
 **Characteristics:**
+
 - Collapse scenario underway
 - External systems unreliable or hostile
 - Self-sufficiency essential
 - Duration unknown
 
 **Activities:**
+
 - Full autonomy protocols
 - Minimal communication (security risk)
 - Careful resource management
@@ -115,7 +123,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 
 ### Primary Indicators
 
-**Early Warning (Level 1 → Level 2):**
+**Early Warning (Level 1 -> Level 2):**
+
 - Unemployment rising above 10%
 - Multiple bank failures
 - Currency devaluation >20% annually
@@ -125,7 +134,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - Inflation >10% annually
 - Government policy extremes (price controls, capital controls)
 
-**Critical Threshold (Level 2 → Level 3):**
+**Critical Threshold (Level 2 -> Level 3):**
+
 - Unemployment >25%
 - Bank runs or bank holidays
 - Currency hyperinflation (>50% monthly)
@@ -135,7 +145,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - Social unrest over economic conditions
 - Pension/welfare payment failures
 
-**Collapse in Progress (Level 3 → Level 4):**
+**Collapse in Progress (Level 3 -> Level 4):**
+
 - Unemployment >50%
 - Currency worthless or completely replaced
 - Barter economy emerging
@@ -161,7 +172,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 
 ### Primary Indicators
 
-**Early Warning (Level 1 → Level 2):**
+**Early Warning (Level 1 -> Level 2):**
+
 - Protests becoming regular (weekly) in major cities
 - Property damage during protests
 - Police/military deployed to civilian areas
@@ -171,7 +183,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - Hate crimes rising
 - Militia/activist group growth
 
-**Critical Threshold (Level 2 → Level 3):**
+**Critical Threshold (Level 2 -> Level 3):**
+
 - Daily protests in multiple cities
 - Significant violence (deaths, arson, looting)
 - Curfews imposed
@@ -181,7 +194,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - Mass evacuations from cities
 - Counter-protests turning violent
 
-**Collapse in Progress (Level 3 → Level 4):**
+**Collapse in Progress (Level 3 -> Level 4):**
+
 - Sustained urban warfare
 - Government loss of control over regions
 - Vigilante/militia control of areas
@@ -206,7 +220,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 
 ### Primary Indicators
 
-**Early Warning (Level 1 → Level 2):**
+**Early Warning (Level 1 -> Level 2):**
+
 - Temperature records broken regularly
 - Extreme weather frequency increasing
 - Crop failures in major breadbaskets
@@ -216,7 +231,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - Insurance withdrawals from vulnerable areas
 - Fresh water scarcity emerging
 
-**Critical Threshold (Level 2 → Level 3):**
+**Critical Threshold (Level 2 -> Level 3):**
+
 - Multiple simultaneous crop failures
 - Major ecosystem collapse (e.g., Amazon, coral reefs)
 - Uninhabitable zones expanding (wet bulb temperature >35°C)
@@ -226,7 +242,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - Coastal city abandonment starting
 - Blue ocean event (ice-free Arctic summer)
 
-**Collapse in Progress (Level 3 → Level 4):**
+**Collapse in Progress (Level 3 -> Level 4):**
+
 - Global food production declining year-over-year
 - Famine in developed nations
 - Mass migration overwhelming nations
@@ -252,7 +269,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 
 ### Primary Indicators
 
-**Early Warning (Level 1 → Level 2):**
+**Early Warning (Level 1 -> Level 2):**
+
 - Diplomatic relations severing
 - Military buildups
 - Cyber attacks escalating
@@ -263,7 +281,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - Mass mobilizations
 - Military exercises near borders
 
-**Critical Threshold (Level 2 → Level 3):**
+**Critical Threshold (Level 2 -> Level 3):**
+
 - Mobilization of reserves
 - Evacuation of embassies
 - Airspace closures
@@ -273,7 +292,8 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - Nuclear forces on alert
 - Civilian evacuations ordered
 
-**Collapse in Progress (Level 3 → Level 4):**
+**Collapse in Progress (Level 3 -> Level 4):**
+
 - Widespread conventional warfare
 - Multiple fronts/theaters
 - Infrastructure targeted
@@ -301,6 +321,7 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 ### Establishing Reliable Sources
 
 **Principles:**
+
 - **Diversity**: Multiple perspectives prevent bias and blind spots
 - **Primary sources**: Government data, scientific publications, firsthand accounts
 - **Track record**: Favor sources with good historical accuracy
@@ -334,6 +355,7 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 **Distinguishing meaningful indicators from random variation:**
 
 **Signal characteristics:**
+
 - **Persistence**: Pattern continues over weeks/months
 - **Breadth**: Multiple indicators showing same trend
 - **Magnitude**: Changes beyond normal variation
@@ -341,6 +363,7 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - **Expert consensus**: Independent analysts reaching similar conclusions
 
 **Noise characteristics:**
+
 - **Isolated**: One indicator, others normal
 - **Temporary**: Spike then return to baseline
 - **Explainable**: Clear one-off cause (storm, election, etc.)
@@ -348,6 +371,7 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 - **Outlier**: Far from expert consensus
 
 **Techniques:**
+
 - **Baseline establishment**: Know normal ranges for each indicator
 - **Trend analysis**: Track over time, look for directional change
 - **Multiple indicators**: Require 3+ indicators to shift threat level
@@ -359,17 +383,20 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 **Avoiding information overload and psychological burnout:**
 
 **Structured monitoring:**
+
 - **Daily**: Check 2-3 key indicators (15 minutes max)
 - **Weekly**: Deep dive on threat assessment (1-2 hours)
 - **Monthly**: Comprehensive review and threat level reassessment
 - **As needed**: Alerts for critical events
 
 **Delegation:**
+
 - Adults split monitoring duties
 - Each person owns certain sources/indicators
 - Regular briefings to share information
 
 **Boundaries:**
+
 - No doom-scrolling
 - Limit news consumption
 - No news before bed
@@ -381,7 +408,7 @@ For each collapse scenario, monitor specific indicators and know your trigger th
 
 Pre-commitment to action at specific thresholds prevents decision paralysis in crisis.
 
-### Level 1 → Level 2 Triggers
+### Level 1 -> Level 2 Triggers
 
 **Economic**: Unemployment >10% OR inflation >10% OR major bank failure
 **Civil**: Weekly protests with violence in multiple cities
@@ -390,7 +417,7 @@ Pre-commitment to action at specific thresholds prevents decision paralysis in c
 
 **Action**: Shift to enhanced readiness protocols (see Level 2 above)
 
-### Level 2 → Level 3 Triggers
+### Level 2 -> Level 3 Triggers
 
 **Economic**: Unemployment >25% OR bank runs OR currency hyperinflation
 **Civil**: Daily violent protests in 10+ cities OR government control failing
@@ -399,7 +426,7 @@ Pre-commitment to action at specific thresholds prevents decision paralysis in c
 
 **Action**: Execute departure to safe harbor immediately
 
-### Level 3 → Level 4 Triggers
+### Level 3 -> Level 4 Triggers
 
 **Economic**: Government collapse OR total currency failure OR widespread famine
 **Civil**: Sustained urban warfare OR regional breakaway regions
@@ -417,12 +444,14 @@ Not all threats are global. Map threats geographically to inform positioning.
 ### Creating Your Threat Map
 
 **Layer 1: Natural hazards**
+
 - Hurricane/typhoon zones
 - Earthquake/tsunami risk
 - Volcano proximity
 - Climate change vulnerability (sea level rise, drought, heat)
 
 **Layer 2: Political stability**
+
 - Governance quality (Fragile States Index)
 - Corruption levels
 - Rule of law
@@ -430,6 +459,7 @@ Not all threats are global. Map threats geographically to inform positioning.
 - Recent coups or instability
 
 **Layer 3: Economic resilience**
+
 - GDP per capita
 - Economic diversity
 - Debt levels
@@ -437,12 +467,14 @@ Not all threats are global. Map threats geographically to inform positioning.
 - Agricultural self-sufficiency
 
 **Layer 4: Social factors**
+
 - Inequality (Gini coefficient)
 - Ethnic/religious tensions
 - Crime rates
 - Social cohesion indicators
 
 **Layer 5: Strategic factors**
+
 - Military targets
 - Resource richness (inviting conflict)
 - Chokepoints (Suez, Malacca, Panama, etc.)
@@ -460,26 +492,27 @@ Rarely does a single scenario unfold in isolation. Model combined scenarios.
 
 **Common cascades:**
 
-1. **Climate → Food → Economic → Unrest → War**
+1. **Climate -> Food -> Economic -> Unrest -> War**
    - Climate failures cause crop failures
    - Food scarcity causes economic crisis
    - Economic crisis causes unrest
    - Unrest causes government instability
    - Instability causes regional conflicts
 
-2. **Economic → Unrest → War**
+2. **Economic -> Unrest -> War**
    - Economic crisis causes unemployment and poverty
    - Poverty causes protests and violence
    - Violence causes government crackdown or failure
    - Instability creates vacuum filled by extremists or foreign powers
 
-3. **War → Economic → Climate neglect → Faster collapse**
+3. **War -> Economic -> Climate neglect -> Faster collapse**
    - War disrupts global economy
    - Economic focus shifts from climate action to survival
    - Climate continues worsening without mitigation
    - Climate impacts worsen conflict
 
 **Planning implications:**
+
 - Safe harbor must address multiple scenarios
 - Trigger for action may be early indicator of cascade
 - Positioning strategy must consider which scenarios likely to unfold together
@@ -491,29 +524,34 @@ Rarely does a single scenario unfold in isolation. Model combined scenarios.
 **Monthly review cycle:**
 
 ### Week 1: Information Gathering
+
 - Each adult reviews assigned sources
 - Children (age-appropriate) report observations from their networks
 - Compile data on all indicators
 
 ### Week 2: Analysis
+
 - Compare current indicators to baselines
 - Identify trends (improving, stable, deteriorating)
 - Check for signals vs. noise
 - Note any expert consensus changes
 
 ### Week 3: Discussion
+
 - Family meeting to discuss findings
 - Adults present analysis
 - Open discussion of concerns and observations
 - Consensus on threat level assessment
 
 ### Week 4: Decision and Action
+
 - Confirm or change threat level
 - Execute appropriate protocols for level
 - Update plans as needed
 - Document decisions and rationale
 
 ### Continuous
+
 - Monitor for critical events requiring immediate reassessment
 - Maintain information sources
 - Adjust monitoring approach based on feedback
@@ -525,21 +563,25 @@ Rarely does a single scenario unfold in isolation. Model combined scenarios.
 Learn from past crises:
 
 ### Weimar Germany (1921-1923)
+
 **Indicators**: Reparations debt, money printing, inflation accelerating, political extremism, failed putsch attempts
 **Missed opportunities**: Many saw signs but didn't believe collapse possible in advanced nation
 **Lessons**: Hyperinflation can happen fast; political extremism follows economic collapse
 
 ### Yugoslavia (1990-1995)
+
 **Indicators**: Economic decline, rising nationalism, ethnic rhetoric, political fragmentation, militia formation
 **Missed opportunities**: Multi-ethnic populations didn't believe neighbors would turn violent
 **Lessons**: Civil wars can erupt quickly; ethnic/religious tensions are dangerous when economy fails
 
 ### Syrian Civil War (2011-)
+
 **Indicators**: Drought and crop failures, rural-to-urban migration, unemployment, authoritarian crackdown, regional instability
 **Missed opportunities**: Few anticipated peaceful protests would become devastating war
 **Lessons**: Climate factors contribute to unrest; refugee crises destabilize regions
 
 ### Venezuela (2013-present)
+
 **Indicators**: Oil dependency, price controls, hyperinflation, shortages, brain drain, authoritarian consolidation
 **Missed opportunities**: Economic warning signs ignored; many thought "it can't happen here"
 **Lessons**: Modern nations can collapse; resource wealth doesn't prevent crisis
@@ -553,21 +595,27 @@ Learn from past crises:
 ### Cognitive Biases to Guard Against
 
 **Normalcy bias**: "Things have always been fine, they'll continue to be fine"
+
 - **Counter**: Study history; crises do happen, including to advanced nations
 
 **Optimism bias**: "It won't be as bad as they say"
+
 - **Counter**: Plan for worst, hope for best; overpreparation is low-cost insurance
 
 **Confirmation bias**: Seeking only information that confirms existing beliefs
+
 - **Counter**: Deliberately seek disconfirming information; devil's advocate role
 
 **Availability heuristic**: Overweighting recent or vivid events
+
 - **Counter**: Use base rates and historical data, not just recent news
 
 **Analysis paralysis**: Overthinking prevents action
+
 - **Counter**: Pre-established triggers remove need to decide in crisis
 
 **Catastrophizing**: Every bad news story is the beginning of collapse
+
 - **Counter**: Signal vs. noise discipline; require multiple indicators
 
 ### Balancing Vigilance and Sanity
@@ -575,6 +623,7 @@ Learn from past crises:
 **The challenge**: Stay alert without becoming paranoid or burned out.
 
 **Strategies:**
+
 - Structured, limited monitoring (not constant news)
 - Trust in indicators, not gut feelings
 - Maintain normal life at Levels 1-2
@@ -600,4 +649,4 @@ Learn from past crises:
 
 ---
 
-[← Psychology & Mindset](01-psychology-mindset.md) | [Part I Overview](README.md) | [Next: Strategic Planning →](03-strategic-planning.md)
+[<- Psychology & Mindset](01-psychology-mindset.md) | [Part I Overview](README.md) | [Next: Strategic Planning ->](03-strategic-planning.md)

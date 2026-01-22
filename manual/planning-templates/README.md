@@ -6,13 +6,13 @@ These templates provide structured formats for planning, tracking, and documenti
 
 ## Template Status
 
-✅ **All 13 templates are now READY TO USE** (as of November 2025)
+[x] **All 13 templates are now READY TO USE** (as of November 2025)
 
 ## Template Library
 
 ### Operational Templates
 
-#### [Daily Log Template](daily-log-template.md) ✅ READY
+#### [Daily Log Template](daily-log-template.md) [x] READY
 
 Comprehensive daily operational record for the vessel.
 
@@ -27,7 +27,7 @@ Comprehensive daily operational record for the vessel.
 
 ---
 
-#### [Watch Schedule Template](watch-schedule-template.md) ✅ READY
+#### [Watch Schedule Template](watch-schedule-template.md) [x] READY
 
 Organizes crew watch rotations for passages.
 
@@ -41,7 +41,7 @@ Organizes crew watch rotations for passages.
 
 ---
 
-#### [Inventory Tracking](inventory-tracking.md) ✅ READY
+#### [Inventory Tracking](inventory-tracking.md) [x] READY
 
 Track quantities, expiration dates, and consumption rates of critical supplies.
 
@@ -57,7 +57,7 @@ Track quantities, expiration dates, and consumption rates of critical supplies.
 
 ---
 
-#### [Maintenance Schedule Template](maintenance-schedule-template.md) ✅ READY
+#### [Maintenance Schedule Template](maintenance-schedule-template.md) [x] READY
 
 Track preventive maintenance, service intervals, and completed work.
 
@@ -73,7 +73,7 @@ Track preventive maintenance, service intervals, and completed work.
 
 ### Planning Templates
 
-#### [P.A.C.E. Planning Template](pace-planning-template.md) ✅ READY
+#### [P.A.C.E. Planning Template](pace-planning-template.md) [x] READY
 
 Structured format for creating P.A.C.E. plans for any system. Use this to develop Primary, Alternate, Contingency, and Emergency solutions for all critical needs.
 
@@ -89,7 +89,7 @@ Structured format for creating P.A.C.E. plans for any system. Use this to develo
 
 ---
 
-#### [Passage Planning Template](passage-planning-template.md) ✅ READY
+#### [Passage Planning Template](passage-planning-template.md) [x] READY
 
 Complete passage planning from departure to destination.
 
@@ -105,7 +105,7 @@ Complete passage planning from departure to destination.
 
 ---
 
-#### [Destination Dossier Template](destination-dossier-template.md) ✅ READY
+#### [Destination Dossier Template](destination-dossier-template.md) [x] READY
 
 Comprehensive research format for potential safe harbors.
 
@@ -120,7 +120,7 @@ Comprehensive research format for potential safe harbors.
 
 ---
 
-#### [Scenario Response Worksheet](scenario-response-worksheet.md) ✅ READY
+#### [Scenario Response Worksheet](scenario-response-worksheet.md) [x] READY
 
 Comprehensive planning worksheet for each collapse scenario (economic, civil unrest, climate, war, pandemic, etc.).
 
@@ -136,7 +136,7 @@ Comprehensive planning worksheet for each collapse scenario (economic, civil unr
 
 ### Safety Templates
 
-#### [System Audit Checklist](system-audit-checklist.md) ✅ READY
+#### [System Audit Checklist](system-audit-checklist.md) [x] READY
 
 Comprehensive checklist for regular system inspections.
 
@@ -151,7 +151,7 @@ Comprehensive checklist for regular system inspections.
 
 ---
 
-#### [Drill Report Template](drill-report-template.md) ✅ READY
+#### [Drill Report Template](drill-report-template.md) [x] READY
 
 Standard format for documenting drills and training exercises.
 
@@ -167,7 +167,7 @@ Standard format for documenting drills and training exercises.
 
 ---
 
-#### [Threat Assessment Worksheet](threat-assessment-worksheet.md) ✅ READY
+#### [Threat Assessment Worksheet](threat-assessment-worksheet.md) [x] READY
 
 Systematic evaluation of potential threats across all scenarios.
 
@@ -184,7 +184,7 @@ Systematic evaluation of potential threats across all scenarios.
 
 ### Medical Templates
 
-#### [Medical Record Template](medical-record-template.md) ✅ READY
+#### [Medical Record Template](medical-record-template.md) [x] READY
 
 Document medical events, treatments, and health status.
 
@@ -202,7 +202,7 @@ Document medical events, treatments, and health status.
 
 ### Administrative Templates
 
-#### [Family Emergency Plan Template](family-emergency-plan-template.md) ✅ READY
+#### [Family Emergency Plan Template](family-emergency-plan-template.md) [x] READY
 
 Document roles, responsibilities, and procedures for family members during emergencies.
 
@@ -292,4 +292,4 @@ These templates support and implement the concepts from:
 
 ---
 
-[← Appendices](../appendices/README.md) | [Main Manual](../README.md) | [Template Index (Appendix D)](../appendices/D-document-templates.md)
+[<- Appendices](../appendices/README.md) | [Main Manual](../README.md) | [Template Index (Appendix D)](../appendices/D-document-templates.md)

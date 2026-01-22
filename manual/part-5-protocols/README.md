@@ -24,23 +24,25 @@ This section transforms all previous planning into actionable protocols. It prov
 
 ## Chapters in This Part
 
-### [21. Trigger-Action Matrix](21-trigger-action-matrix.md) ⚠️ DRAFT
+### [21. Trigger-Action Matrix](21-trigger-action-matrix.md) **WARNING:** DRAFT
 
 Specific triggers and corresponding actions for each threat level and scenario.
 
 **Contents:**
-- Threat level transitions (Level 1→2→3→4)
+
+- Threat level transitions (Level 1->2->3->4)
 - Scenario-specific triggers
 - Family action protocols
 - Decision flowcharts
 - Departure checklists
 - Communication protocols
 
-### [22. Drills & Training Programs](22-drills-training.md) ⚠️ DRAFT
+### [22. Drills & Training Programs](22-drills-training.md) **WARNING:** DRAFT
 
 Systematic practice schedule for all survival skills.
 
 **Contents:**
+
 - Daily drills (navigation checks, system monitoring)
 - Weekly drills (alternating skills)
 - Monthly drills (major system practice)
@@ -48,11 +50,12 @@ Systematic practice schedule for all survival skills.
 - Annual drills (multi-day survival simulation)
 - Skill assessment and certification tracking
 
-### [23. Continuous Improvement](23-continuous-improvement.md) ⚠️ DRAFT
+### [23. Continuous Improvement](23-continuous-improvement.md) **WARNING:** DRAFT
 
 Review, adapt, and improve survival plans over time.
 
 **Contents:**
+
 - After-action reviews (post-drill analysis)
 - Quarterly plan reviews
 - Annual threat reassessment
@@ -76,4 +79,4 @@ Part V integrates all previous parts:
 
 ---
 
-[← Part IV: Scenarios](../part-4-scenarios/README.md) | [Main Manual](../README.md) | [Next: Appendices →](../appendices/README.md)
+[<- Part IV: Scenarios](../part-4-scenarios/README.md) | [Main Manual](../README.md) | [Next: Appendices ->](../appendices/README.md)

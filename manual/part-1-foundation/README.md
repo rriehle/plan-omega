@@ -6,11 +6,11 @@ Before developing specific survival skills and systems, you must establish the m
 
 ## Why Foundation Matters
 
-History shows that physical resources alone don't ensure survival—mental preparation and strategic thinking are paramount. The psychology of survival often determines outcomes more than equipment or supplies. A family with strong mental resilience, clear plans, and good decision-making processes will outperform a better-equipped family in chaos and panic.
+History shows that physical resources alone don't ensure survival--mental preparation and strategic thinking are paramount. The psychology of survival often determines outcomes more than equipment or supplies. A family with strong mental resilience, clear plans, and good decision-making processes will outperform a better-equipped family in chaos and panic.
 
 ## Chapters in This Part
 
-### [01. Psychology & Mindset](01-psychology-mindset.md) ⚠️ DRAFT
+### [01. Psychology & Mindset](01-psychology-mindset.md) **WARNING:** DRAFT
 
 **Topics Covered:**
 
@@ -30,7 +30,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 
 ---
 
-### [02. Threat Assessment & Triggers](02-threat-assessment-triggers.md) ⚠️ DRAFT
+### [02. Threat Assessment & Triggers](02-threat-assessment-triggers.md) **WARNING:** DRAFT
 
 **Topics Covered:**
 
@@ -51,7 +51,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 
 ---
 
-### [03. Strategic Planning (P.A.C.E. Framework)](03-strategic-planning.md) ⚠️ DRAFT
+### [03. Strategic Planning (P.A.C.E. Framework)](03-strategic-planning.md) **WARNING:** DRAFT
 
 **Topics Covered:**
 
@@ -72,7 +72,7 @@ History shows that physical resources alone don't ensure survival—mental prepa
 
 ---
 
-### [04. Navigation & Destination Analysis](04-destinations-analysis.md) ⚠️ DRAFT
+### [04. Navigation & Destination Analysis](04-destinations-analysis.md) **WARNING:** DRAFT
 
 **Topics Covered:**
 
@@ -105,13 +105,13 @@ History shows that physical resources alone don't ensure survival—mental prepa
 
 ## Integration with Other Parts
 
-**Part I → Part II**: Strategic planning informs which survival systems need the most redundancy.
+**Part I -> Part II**: Strategic planning informs which survival systems need the most redundancy.
 
-**Part I → Part III**: Destination analysis determines which skills and knowledge are most critical.
+**Part I -> Part III**: Destination analysis determines which skills and knowledge are most critical.
 
-**Part I → Part IV**: Threat assessment directly feeds into scenario-specific responses.
+**Part I -> Part IV**: Threat assessment directly feeds into scenario-specific responses.
 
-**Part I → Part V**: The trigger framework from Part I becomes the action matrix in Part V.
+**Part I -> Part V**: The trigger framework from Part I becomes the action matrix in Part V.
 
 ## Development Priorities
 
@@ -133,4 +133,4 @@ When building out Part I, prioritize:
 
 ---
 
-[← Back to Main Manual](../README.md) | [Next: Part II - Core Survival Systems →](../part-2-core-systems/README.md)
+[<- Back to Main Manual](../README.md) | [Next: Part II - Core Survival Systems ->](../part-2-core-systems/README.md)

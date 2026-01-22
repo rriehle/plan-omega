@@ -20,7 +20,7 @@ Date Created: ______________    Last Updated: ______________
 Next Review: ______________     Next Drill: ______________
 
 FAMILY ROSTER
-════════════════════════════════════════════════════════════
+============================================================
 Name | Age | Blood Type | Medications | Allergies | Special Needs
 _____________________________________________________________
      |     |            |             |           |
@@ -35,48 +35,48 @@ Secondary Decision Maker: __________________________________
 Disagreement Resolution: ___________________________________
 
 INDIVIDUAL CAPABILITIES & LIMITATIONS
-════════════════════════════════════════════════════════════
+============================================================
 Name: _____________________
-Skills: ☐First Aid  ☐Navigation  ☐Radio  ☐Swimming
-        ☐Mechanical  ☐Language: _________  ☐Other: _______
+Skills: [ ]First Aid  [ ]Navigation  [ ]Radio  [ ]Swimming
+        [ ]Mechanical  [ ]Language: _________  [ ]Other: _______
 Physical Limitations: ______________________________________
-Swim Ability: ☐Strong  ☐Moderate  ☐Weak  ☐Non-swimmer
-Can Handle Night Watch: ☐Yes  ☐No  ☐With partner
+Swim Ability: [ ]Strong  [ ]Moderate  [ ]Weak  [ ]Non-swimmer
+Can Handle Night Watch: [ ]Yes  [ ]No  [ ]With partner
 
 Name: _____________________
-Skills: ☐First Aid  ☐Navigation  ☐Radio  ☐Swimming
-        ☐Mechanical  ☐Language: _________  ☐Other: _______
+Skills: [ ]First Aid  [ ]Navigation  [ ]Radio  [ ]Swimming
+        [ ]Mechanical  [ ]Language: _________  [ ]Other: _______
 Physical Limitations: ______________________________________
-Swim Ability: ☐Strong  ☐Moderate  ☐Weak  ☐Non-swimmer
-Can Handle Night Watch: ☐Yes  ☐No  ☐With partner
+Swim Ability: [ ]Strong  [ ]Moderate  [ ]Weak  [ ]Non-swimmer
+Can Handle Night Watch: [ ]Yes  [ ]No  [ ]With partner
 
 [Repeat for each family member]
 
 EMERGENCY ACTIVATION CRITERIA
-════════════════════════════════════════════════════════════
+============================================================
 Immediate Departure Triggers:
-☐ Government evacuation order
-☐ Infrastructure failure (power/water > 72 hours)
-☐ Civil unrest within 10 miles
-☐ Supply chain breakdown evident
-☐ Threat assessment reaches Level 4
-☐ Other: __________________________________________________
+[ ] Government evacuation order
+[ ] Infrastructure failure (power/water > 72 hours)
+[ ] Civil unrest within 10 miles
+[ ] Supply chain breakdown evident
+[ ] Threat assessment reaches Level 4
+[ ] Other: __________________________________________________
 
 24-Hour Readiness Triggers:
-☐ Threat assessment reaches Level 3
-☐ Regional instability increasing
-☐ Weather event approaching
-☐ Disease outbreak in region
-☐ Other: __________________________________________________
+[ ] Threat assessment reaches Level 3
+[ ] Regional instability increasing
+[ ] Weather event approaching
+[ ] Disease outbreak in region
+[ ] Other: __________________________________________________
 
 72-Hour Readiness Triggers:
-☐ Threat assessment reaches Level 2
-☐ Economic indicators deteriorating
-☐ International tensions escalating
-☐ Other: __________________________________________________
+[ ] Threat assessment reaches Level 2
+[ ] Economic indicators deteriorating
+[ ] International tensions escalating
+[ ] Other: __________________________________________________
 
 COMMUNICATION PLAN
-════════════════════════════════════════════════════════════
+============================================================
 Internal Family Communications:
 Primary Method: ____________________________________________
 Backup Method: _____________________________________________
@@ -102,7 +102,7 @@ Embassy/Consulate: _________________________________________
 Marine Emergency: __________________________________________
 
 RALLY POINTS & EVACUATION
-════════════════════════════════════════════════════════════
+============================================================
 Primary Rally Point:
 Location: __________________________________________________
 Address/Coordinates: _______________________________________
@@ -132,7 +132,7 @@ Route C (Marine): _________________________________________
 ___________________________________________________________
 
 SCENARIO-SPECIFIC ROLES
-════════════════════════════════════════════════════════════
+============================================================
 
 ECONOMIC COLLAPSE SCENARIO
 Person | Primary Role | Secondary Role | Special Tasks
@@ -200,7 +200,7 @@ Actions:
 3. ________________________________________________________
 
 CHILDREN-SPECIFIC PLANNING
-════════════════════════════════════════════════════════════
+============================================================
 Child: _____________________    Age: _______
 
 Comfort Items: _____________________________________________
@@ -214,10 +214,10 @@ ___________________________________________________________
 ___________________________________________________________
 
 Tasks They Can Help With:
-☐ Inventory counting      ☐ Weather observation
-☐ Radio listening         ☐ Log keeping
-☐ Meal preparation        ☐ First aid helper
-☐ Other: _________________________________________________
+[ ] Inventory counting      [ ] Weather observation
+[ ] Radio listening         [ ] Log keeping
+[ ] Meal preparation        [ ] First aid helper
+[ ] Other: _________________________________________________
 
 Child: _____________________    Age: _______
 
@@ -232,13 +232,13 @@ ___________________________________________________________
 ___________________________________________________________
 
 Tasks They Can Help With:
-☐ Inventory counting      ☐ Weather observation
-☐ Radio listening         ☐ Log keeping
-☐ Meal preparation        ☐ First aid helper
-☐ Other: _________________________________________________
+[ ] Inventory counting      [ ] Weather observation
+[ ] Radio listening         [ ] Log keeping
+[ ] Meal preparation        [ ] First aid helper
+[ ] Other: _________________________________________________
 
 PETS & ANIMALS
-════════════════════════════════════════════════════════════
+============================================================
 Pet Name | Type | Special Needs | Evacuation Plan
 _____________________________________________________________
          |      |              |
@@ -250,57 +250,57 @@ Food Supply: ______________________________________________
 Carrier/Leash Location: ___________________________________
 
 IMPORTANT DOCUMENTS
-════════════════════════════════════════════════════════════
+============================================================
 Document | Location | Copies Made | Digital Backup
 _____________________________________________________________
-Passports           |           | ☐Yes ☐No  | ☐Yes ☐No
-Birth Certificates  |           | ☐Yes ☐No  | ☐Yes ☐No
-Marriage License    |           | ☐Yes ☐No  | ☐Yes ☐No
-Insurance Policies  |           | ☐Yes ☐No  | ☐Yes ☐No
-Medical Records     |           | ☐Yes ☐No  | ☐Yes ☐No
-Vaccination Records |           | ☐Yes ☐No  | ☐Yes ☐No
-Financial Records   |           | ☐Yes ☐No  | ☐Yes ☐No
-Property Deeds      |           | ☐Yes ☐No  | ☐Yes ☐No
-Vessel Documents    |           | ☐Yes ☐No  | ☐Yes ☐No
+Passports           |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Birth Certificates  |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Marriage License    |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Insurance Policies  |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Medical Records     |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Vaccination Records |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Financial Records   |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Property Deeds      |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Vessel Documents    |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
 Emergency Cash      |           |            |
-Contact Lists       |           | ☐Yes ☐No  | ☐Yes ☐No
-Photos (ID purposes)|           | ☐Yes ☐No  | ☐Yes ☐No
-Power of Attorney   |           | ☐Yes ☐No  | ☐Yes ☐No
-Wills               |           | ☐Yes ☐No  | ☐Yes ☐No
-Other: ________     |           | ☐Yes ☐No  | ☐Yes ☐No
+Contact Lists       |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Photos (ID purposes)|           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Power of Attorney   |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Wills               |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
+Other: ________     |           | [ ]Yes [ ]No  | [ ]Yes [ ]No
 
 Digital Backup Location: __________________________________
 Access Credentials: _______________________________________
 
 GO-BAGS & EMERGENCY KITS
-════════════════════════════════════════════════════════════
+============================================================
 Location of Go-Bags: ______________________________________
 
 Adult Go-Bag Contents:
-☐ 3 days clothing          ☐ Medications (90 days)
-☐ Water (3L minimum)       ☐ Food (72 hours)
-☐ First aid supplies       ☐ Flashlight & batteries
-☐ Radio                    ☐ Phone charger
-☐ Cash                     ☐ Documents (copies)
-☐ Toiletries              ☐ Multi-tool
-☐ Weather appropriate gear ☐ Personal protection
-☐ Maps                     ☐ Whistle
-☐ Other: _________________________________________________
+[ ] 3 days clothing          [ ] Medications (90 days)
+[ ] Water (3L minimum)       [ ] Food (72 hours)
+[ ] First aid supplies       [ ] Flashlight & batteries
+[ ] Radio                    [ ] Phone charger
+[ ] Cash                     [ ] Documents (copies)
+[ ] Toiletries              [ ] Multi-tool
+[ ] Weather appropriate gear [ ] Personal protection
+[ ] Maps                     [ ] Whistle
+[ ] Other: _________________________________________________
 
 Child Go-Bag Contents:
-☐ 3 days clothing          ☐ Medications
-☐ Formula/special food     ☐ Diapers (if needed)
-☐ Comfort items           ☐ Entertainment
-☐ School supplies         ☐ ID bracelet
-☐ Photos of family        ☐ Contact information
-☐ Other: _________________________________________________
+[ ] 3 days clothing          [ ] Medications
+[ ] Formula/special food     [ ] Diapers (if needed)
+[ ] Comfort items           [ ] Entertainment
+[ ] School supplies         [ ] ID bracelet
+[ ] Photos of family        [ ] Contact information
+[ ] Other: _________________________________________________
 
 Vehicle Emergency Kit Location: ____________________________
 Marine Emergency Kit Location: _____________________________
 Home Emergency Kit Location: _______________________________
 
 FINANCIAL PREPARATIONS
-════════════════════════════════════════════════════════════
+============================================================
 Emergency Cash on Hand: $ _________________________________
 Location: _________________________________________________
 Denominations: ____________________________________________
@@ -320,15 +320,15 @@ Cryptocurrency/Digital:
 Type: _____________ Access: _________ Backup: _____________
 
 TRAINING & DRILLS
-════════════════════════════════════════════════════════════
+============================================================
 Required Training for Each Member:
 
 Name: _____________________
-☐ First Aid/CPR     Date: _______ Next Due: _______
-☐ Swimming          Date: _______ Next Due: _______
-☐ Fire Extinguisher Date: _______ Next Due: _______
-☐ Radio Operation   Date: _______ Next Due: _______
-☐ Other: ________   Date: _______ Next Due: _______
+[ ] First Aid/CPR     Date: _______ Next Due: _______
+[ ] Swimming          Date: _______ Next Due: _______
+[ ] Fire Extinguisher Date: _______ Next Due: _______
+[ ] Radio Operation   Date: _______ Next Due: _______
+[ ] Other: ________   Date: _______ Next Due: _______
 
 [Repeat for each family member]
 
@@ -348,7 +348,7 @@ Next Scheduled Drill: _____________________________________
 Type: _____________________________________________________
 
 SPECIAL CONSIDERATIONS
-════════════════════════════════════════════════════════════
+============================================================
 Elderly Family Members:
 Name: _____________ Special Needs: ________________________
 Medications: ______________________________________________
@@ -368,30 +368,30 @@ Medical Provider: _________________________________________
 Backup Delivery Plan: _____________________________________
 
 PLAN MAINTENANCE
-════════════════════════════════════════════════════════════
+============================================================
 Review Schedule:
-☐ Monthly: Review activation criteria and threat levels
-☐ Quarterly: Update contact information and documents
-☐ Bi-annually: Full plan review and revision
-☐ Annually: Complete overhaul and reassignment of roles
+[ ] Monthly: Review activation criteria and threat levels
+[ ] Quarterly: Update contact information and documents
+[ ] Bi-annually: Full plan review and revision
+[ ] Annually: Complete overhaul and reassignment of roles
 
 Change Triggers Requiring Immediate Update:
-☐ Family composition change (birth, death, marriage, divorce)
-☐ Relocation
-☐ Health status change
-☐ Job change affecting availability
-☐ New threat identification
-☐ Lessons learned from drill or actual event
+[ ] Family composition change (birth, death, marriage, divorce)
+[ ] Relocation
+[ ] Health status change
+[ ] Job change affecting availability
+[ ] New threat identification
+[ ] Lessons learned from drill or actual event
 
 Distribution:
-Each adult family member has copy: ☐Yes  ☐No
-Trusted contact has copy: ☐Yes  ☐No
-Digital backup created: ☐Yes  ☐No
-Cloud storage updated: ☐Yes  ☐No
+Each adult family member has copy: [ ]Yes  [ ]No
+Trusted contact has copy: [ ]Yes  [ ]No
+Digital backup created: [ ]Yes  [ ]No
+Cloud storage updated: [ ]Yes  [ ]No
 
 Plan Author: ______________________________________________
 Plan Approved By: _________________________________________
-All Members Briefed: ☐Yes  Date: _________________________
+All Members Briefed: [ ]Yes  Date: _________________________
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 ```
 

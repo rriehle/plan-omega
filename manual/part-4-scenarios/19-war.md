@@ -2,7 +2,7 @@
 
 **Status:** = IN PROGRESS
 
-[� Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Pandemic Response �](20-pandemic-biological.md)
+[Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Pandemic Response](20-pandemic-biological.md)
 
 ---
 
@@ -377,9 +377,9 @@ Nuclear war in Northern Hemisphere would:
    - Maximum speed, don't stop for anything
 
 2. **Routes:**
-   - Atlantic: Caribbean � South America � Cape Horn
-   - Pacific: Mexico/Hawaii � French Polynesia � New Zealand/Australia
-   - Indian: Red Sea � Africa � Cape of Good Hope � Southern Ocean
+   - Atlantic: Caribbean  South America  Cape Horn
+   - Pacific: Mexico/Hawaii  French Polynesia  New Zealand/Australia
+   - Indian: Red Sea  Africa  Cape of Good Hope  Southern Ocean
 
 3. **Destinations:**
    - New Zealand (politically stable, English-speaking, far south)
@@ -458,7 +458,7 @@ Nuclear war is a distinct sub-scenario within the War scenario. It requires spec
 
 - Thousands of warheads
 - All major cities targeted
-- Massive nuclear winter (global temperature drop 5-15�C)
+- Massive nuclear winter (global temperature drop 5-15C)
 - Civilizational collapse
 - This is the worst-case scenario
 
@@ -591,7 +591,7 @@ Nuclear war is a distinct sub-scenario within the War scenario. It requires spec
 **Long-term (years to decades):**
 
 1. **Survival during nuclear winter**
-   - Global temperature drops 5-15�C
+   - Global temperature drops 5-15C
    - Crops fail for 2-5 years
    - Ocean productivity drops but doesn't cease
    - Fish, even in reduced numbers, are best food source
@@ -646,9 +646,9 @@ Nuclear war is a distinct sub-scenario within the War scenario. It requires spec
 **Prevailing wind patterns:**
 
 - Northern Hemisphere: West to East (jet stream)
-- Fallout from US blast � Atlantic � Europe
-- Fallout from Europe blast � Western Asia
-- Fallout from Russia blast � Arctic, Pacific
+- Fallout from US blast  Atlantic  Europe
+- Fallout from Europe blast  Western Asia
+- Fallout from Russia blast  Arctic, Pacific
 
 **Safe zones from fallout:**
 
@@ -1627,8 +1627,8 @@ AND ONLY if:
 
 **How they interact:**
 
-- War disrupts global trade � Economic collapse
-- Economic collapse � Resource wars
+- War disrupts global trade  Economic collapse
+- Economic collapse  Resource wars
 - Both together = supply chains destroyed, currency worthless
 
 **Implications:**
@@ -1644,9 +1644,9 @@ AND ONLY if:
 
 **How they interact:**
 
-- War � Public health breakdown � Pandemic spreads
-- Biological weapons � Intentional pandemic
-- Refugee flows � Spread disease
+- War  Public health breakdown  Pandemic spreads
+- Biological weapons  Intentional pandemic
+- Refugee flows  Spread disease
 
 **Implications:**
 
@@ -1661,9 +1661,9 @@ AND ONLY if:
 
 **How they interact:**
 
-- Climate � Resource scarcity � War over resources
-- War � Environmental neglect � Climate worsens
-- Nuclear war � Nuclear winter (climate catastrophe)
+- Climate  Resource scarcity  War over resources
+- War  Environmental neglect  Climate worsens
+- Nuclear war  Nuclear winter (climate catastrophe)
 
 **Implications:**
 
@@ -1690,11 +1690,11 @@ AND ONLY if:
 
 **Priority hierarchy:**
 
-1. **Nuclear weapons used** � FLEE TO SOUTHERN HEMISPHERE (nothing else matters)
-2. **Conventional war in your area** � FLEE TO NEUTRAL NATION (immediate physical danger)
-3. **War distant + pandemic** � ISOLATE in remote area (avoid both war and disease)
-4. **War + economic collapse** � FLEE TO NEUTRAL NATION (war first, then adapt economically)
-5. **War + climate** � FLEE TO SOUTHERN HEMISPHERE (addresses both)
+1. **Nuclear weapons used**  FLEE TO SOUTHERN HEMISPHERE (nothing else matters)
+2. **Conventional war in your area**  FLEE TO NEUTRAL NATION (immediate physical danger)
+3. **War distant + pandemic**  ISOLATE in remote area (avoid both war and disease)
+4. **War + economic collapse**  FLEE TO NEUTRAL NATION (war first, then adapt economically)
+5. **War + climate**  FLEE TO SOUTHERN HEMISPHERE (addresses both)
 
 **Practical example:**
 
@@ -1997,4 +1997,4 @@ When Russia invaded Ukraine (February 2022), some foreign yachts were in Ukraini
 
 ---
 
-[� Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Pandemic Response �](20-pandemic-biological.md)
+[Part IV Overview](README.md) | [Main Manual](../README.md) | [Next: Pandemic Response](20-pandemic-biological.md)

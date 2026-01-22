@@ -322,7 +322,7 @@ This comprehensive research report examines major economic collapses throughout 
   - Decreased spending (waiting for lower prices)
   - Rising inventories, job losses, decreasing GDP
   - Increases real value of debt
-  - Feedback loop: Prices fall → people don't buy → prices fall more
+  - Feedback loop: Prices fall -> people don't buy -> prices fall more
   - Creates economic paralysis
 - **Historical impact:** Great Depression - sustained deflation deepened collapse and prolonged recovery
 - **Note:** Economists attribute Hitler's rise to 1929 deflation/Depression, not 1923 hyperinflation
@@ -652,7 +652,7 @@ This comprehensive research report examines major economic collapses throughout 
 - Nominal South Pacific cyclone season: November-April
 - Safe cruising: May-October
 - Riskiest months: January-March
-- Risk extremely low in French Polynesia, particularly in non-El Niño years
+- Risk extremely low in French Polynesia, particularly in non-El Nino years
 
 **Pacific vs. Caribbean for Self-Sufficiency:**
 
@@ -1212,8 +1212,8 @@ This comprehensive research report examines major economic collapses throughout 
 **Argentina:**
 
 - Peso lost 70% value in months
-- $1,000 in pesos → $300 value
-- Life savings wiped out (example: $77,000 → $37,000)
+- $1,000 in pesos -> $300 value
+- Life savings wiped out (example: $77,000 -> $37,000)
 - Corralito prevented access to remaining funds
 
 #### Maritime Family Protection
@@ -1276,15 +1276,15 @@ This comprehensive research report examines major economic collapses throughout 
 
 - Research shows no definitive order (depends on crisis type)
 - Typically affected early: Fuel/energy, utilities
-- **Lebanon example:** Fuel shortages → electricity only few hours/day
-- **Colonial Pipeline:** 50% of US East Coast fuel disrupted → panic buying
+- **Lebanon example:** Fuel shortages -> electricity only few hours/day
+- **Colonial Pipeline:** 50% of US East Coast fuel disrupted -> panic buying
 
 **Cascading Failures:**
 
-- Fuel shortage → transportation stops
-- Transportation stops → food deliveries stop
-- Power shortages → refrigeration fails → food spoils
-- Imports require foreign currency → local currency rejected → no imports
+- Fuel shortage -> transportation stops
+- Transportation stops -> food deliveries stop
+- Power shortages -> refrigeration fails -> food spoils
+- Imports require foreign currency -> local currency rejected -> no imports
 
 #### Maritime Family Solutions
 
@@ -1717,7 +1717,7 @@ This comprehensive research report examines major economic collapses throughout 
    - WLRN - "Inflation, currency woes worsen Venezuela's complex crisis"
 
 5. **Argentina Crisis (2001-2002):**
-   - Wikipedia - "1998–2002 Argentine great depression"
+   - Wikipedia - "1998-2002 Argentine great depression"
    - Brookings Institution - "Argentina's 2001 economic and Financial Crisis"
    - NACLA - "Argentina 20 Years After La Crisis del 2001"
    - CIGI Papers No. 110 - "An Analysis of Argentina's 2001"
@@ -1730,68 +1730,68 @@ This comprehensive research report examines major economic collapses throughout 
 
 ### Economic Collapse Theory
 
-7. **Warning Signs and Indicators:**
+1. **Warning Signs and Indicators:**
    - Focus Economics - "The Top Economic Signs and Indicators of a Recession"
    - Discovery Alert - "5 Warning Signs of an Imminent Global Economic Collapse 2025"
    - The Hedge Fund Journal - "Critical Recession Warning Signs"
    - Penpoin - "Economic Collapse: Warning Signs and Triggers"
    - Morningstar - "The Advisor's Cheat Sheet to Recession Indicators"
 
-8. **Currency Dynamics:**
+2. **Currency Dynamics:**
    - Wikipedia - "Hyperinflation"
    - Britannica Money - "Inflation vs. Deflation"
    - Tendercapital - "What is the difference between inflation, hyperinflation and deflation?"
    - Brookings - "Currency Crises and Collapses"
 
-9. **Supply Chain Disruptions:**
+3. **Supply Chain Disruptions:**
    - PMC - "Supply chain management in times of crisis: a systematic review"
    - American Prospect - "How We Broke the Supply Chain"
-   - Wikipedia - "2021–2023 global supply chain crisis"
+   - Wikipedia - "2021-2023 global supply chain crisis"
    - European Central Bank - "Supply chain disruptions and the effects on the global economy"
 
 ### Maritime-Specific Research
 
-10. **Living Aboard Advantages:**
+1. **Living Aboard Advantages:**
     - Nautical Channel - "Living on a Boat: Tips, Advantages and Disadvantages"
     - Travel Sketch Sailing - "Life Afloat: Pros & Cons of Living on a Boat"
     - Life of Sailing - "Living On A Sailboat - Pros & Cons"
     - Mariners General Insurance - "Pros & Cons of Living on Your Boat"
 
-11. **Cruising and Fishing:**
+2. **Cruising and Fishing:**
     - Yachting World - "From the ocean to the plate: the art of foraging and fishing in the South Pacific Islands"
     - Budget Marine - "Top 10 differences between cruising the Caribbean vs. the Pacific"
     - Cruising World - "What are the Best Anchorages in the Caribbean?"
     - All At Sea - "Comparing Cruising Ground Vibes: Pacific Versus the Caribbean"
 
-12. **Cyclone Safety and Safe Havens:**
+3. **Cyclone Safety and Safe Havens:**
     - Cruising World - "Cyclone-Ready Cruising: Lessons from the Pacific Islands"
     - SAIL Magazine - "Cyclone Season in Polynesia"
     - Sail Tahiti - "Where to keep your boat during the cyclone season"
     - Sail South Pacific - "French Polynesia Cyclone outlook"
 
-13. **Maritime Security:**
+4. **Maritime Security:**
     - HSToday - "New Pirates of the Caribbean Driven by Venezuela Crisis"
     - The War Zone - "Venezuelan Patrol Ship Sunk Itself After Ramming A Cruise Liner"
 
-14. **Boat Repair Skills:**
+5. **Boat Repair Skills:**
     - BoatUS - "The Boat Lovers Guide to Marine Trade Schools"
     - Marine B2B Marketing - "Boat & Yacht Repair Industry Trends, Challenges, & Opportunities"
     - Marine Depot Direct - "Boat Repair and Restoration Skills Worth Learning"
 
 ### Wealth Preservation
 
-15. **Gold and Silver:**
+1. **Gold and Silver:**
     - Metals Edge - "Gold Protection during Hyperinflation"
     - APMEX - "Utilizing Gold as a Hedge Against Hyperinflation"
     - Gold Silver - "How Gold and Silver Help Protect Your Portfolio from Inflation"
     - American Bullion - "Protecting Your Wealth with Gold in a Hyperinflationary Economy"
     - Discovery Alert - "Protecting Wealth with Gold and Silver During the Currency Reset"
 
-16. **Cryptocurrency:**
+2. **Cryptocurrency:**
     - Coinmonks (Medium) - "Hyperinflation: Preserving Wealth With Crypto"
     - LinkedIn - "From Hyperinflation to Crypto: The Search for Wealth Preservation"
 
-17. **Government Confiscation:**
+3. **Government Confiscation:**
     - The Conversation - "How the US government seized all citizens' gold in 1930s"
     - Wikipedia - "Executive Order 6102"
     - CMI Gold & Silver - "Can the Government Take Your Gold?"
@@ -1800,13 +1800,13 @@ This comprehensive research report examines major economic collapses throughout 
 
 ### Economic Stability and Safe Havens
 
-18. **Dollarized Economies:**
+1. **Dollarized Economies:**
     - PIIE - "Dollarization in Emerging-Market Economies"
     - Atlantic Financial Group - "Which Safe-Haven Currency to Consider in a Crisis"
     - IMF - "Economic Issues No. 24 -- Full Dollarization"
     - YaleGlobal - "US Dollar Reigns Supreme for Developing World"
 
-19. **Countries and Crisis Response:**
+2. **Countries and Crisis Response:**
     - IMF - "The Global Economic Recovery 10 Years After the 2008 Financial Crisis"
     - World Bank - "A Decade After the Global Recession"
     - CEPR - "The global financial crisis: Why were some countries hit harder?"
@@ -1814,17 +1814,17 @@ This comprehensive research report examines major economic collapses throughout 
 
 ### Barter and Skills
 
-20. **Barter Economy:**
+1. **Barter Economy:**
     - The Prepping Guide - "The 30 Most Valuable Items To Store and Trade in a Collapsed Economy"
     - Backwoods Home Magazine - "Bartering for bad times"
     - SHTF School - "The Reality of Barter and Trade in an SHTF Economy"
     - Off Grid Survival - "Bartering to Survive: Top Supplies for a Post-Collapse Trading Economy"
     - Emergency Zone - "In an economic collapse, trade your skills for supplies"
 
-21. **Recession Duration:**
+2. **Recession Duration:**
     - Wikipedia - "List of recessions in the United States"
     - Statista - "United States: duration of recessions 1854-2024"
-    - CNBC - "A recession may be coming — here's how long it could last"
+    - CNBC - "A recession may be coming -- here's how long it could last"
     - HISTORY - "Great Recession Timeline"
     - Chicago Booth Review - "How Fast Does the Economy Recover from a Recession?"
 

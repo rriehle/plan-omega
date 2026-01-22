@@ -31,29 +31,29 @@ ____________________________________________________________
 
 HISTORY OF PRESENT ILLNESS
 
-Onset: ☐Sudden  ☐Gradual    When: _______________________
+Onset: [ ]Sudden  [ ]Gradual    When: _______________________
 Duration: _______________
 Symptoms: __________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Previous Episodes: ☐No  ☐Yes - When: ____________________
+Previous Episodes: [ ]No  [ ]Yes - When: ____________________
 Describe: __________________________________________________
 
 SYMPTOMS CHECKLIST
 
-General:  ☐Fever  ☐Chills  ☐Fatigue  ☐Weight Loss
-Head:     ☐Headache  ☐Dizziness  ☐Vision Changes
-Resp:     ☐Cough  ☐SOB  ☐Chest Pain  ☐Wheezing
-GI:       ☐Nausea  ☐Vomiting  ☐Diarrhea  ☐Abdominal Pain
-GU:       ☐Dysuria  ☐Frequency  ☐Blood in Urine
-MSK:      ☐Joint Pain  ☐Muscle Pain  ☐Swelling  ☐Limited ROM
-Skin:     ☐Rash  ☐Itching  ☐Wounds  ☐Bruising
-Neuro:    ☐Numbness  ☐Tingling  ☐Weakness  ☐Confusion
+General:  [ ]Fever  [ ]Chills  [ ]Fatigue  [ ]Weight Loss
+Head:     [ ]Headache  [ ]Dizziness  [ ]Vision Changes
+Resp:     [ ]Cough  [ ]SOB  [ ]Chest Pain  [ ]Wheezing
+GI:       [ ]Nausea  [ ]Vomiting  [ ]Diarrhea  [ ]Abdominal Pain
+GU:       [ ]Dysuria  [ ]Frequency  [ ]Blood in Urine
+MSK:      [ ]Joint Pain  [ ]Muscle Pain  [ ]Swelling  [ ]Limited ROM
+Skin:     [ ]Rash  [ ]Itching  [ ]Wounds  [ ]Bruising
+Neuro:    [ ]Numbness  [ ]Tingling  [ ]Weakness  [ ]Confusion
 
 PHYSICAL EXAMINATION
 
-General Appearance: ☐Well  ☐Ill-appearing  ☐In Distress
+General Appearance: [ ]Well  [ ]Ill-appearing  [ ]In Distress
 HEENT: _____________________________________________________
 Chest/Lungs: _______________________________________________
 Heart: _____________________________________________________
@@ -68,15 +68,15 @@ ____________________________________________________________
 PAST MEDICAL HISTORY
 
 Known Conditions:
-☐Diabetes            ☐Hypertension        ☐Asthma
-☐Heart Disease       ☐Allergies           ☐Other: ________
+[ ]Diabetes            [ ]Hypertension        [ ]Asthma
+[ ]Heart Disease       [ ]Allergies           [ ]Other: ________
 
 Medications Currently Taking:
 1. ________________________    Dose: __________    Frequency: ____
 2. ________________________    Dose: __________    Frequency: ____
 3. ________________________    Dose: __________    Frequency: ____
 
-Allergies: ☐None Known  ☐NKDA
+Allergies: [ ]None Known  [ ]NKDA
 Drug: ____________    Reaction: _____________________________
 Drug: ____________    Reaction: _____________________________
 
@@ -95,7 +95,7 @@ Differential Diagnoses:
 1. ________________________________________________________
 2. ________________________________________________________
 
-Severity: ☐Minor  ☐Moderate  ☐Serious  ☐Life-Threatening
+Severity: [ ]Minor  [ ]Moderate  [ ]Serious  [ ]Life-Threatening
 
 TREATMENT PLAN
 
@@ -115,27 +115,27 @@ ____________________________________________________________
 ____________________________________________________________
 
 Wound Care (if applicable):
-Type: ☐Laceration  ☐Abrasion  ☐Burn  ☐Puncture  ☐Other
+Type: [ ]Laceration  [ ]Abrasion  [ ]Burn  [ ]Puncture  [ ]Other
 Location: ________________    Size: ________ cm/inches
 Cleaned with: ______________    Closed with: ________________
 Bandaging: _________________________________________________
-Tetanus Status: ☐Up to date  ☐Booster given  ☐Unknown
+Tetanus Status: [ ]Up to date  [ ]Booster given  [ ]Unknown
 
 DISPOSITION
 
-☐Improved - Continue current treatment
-☐Stable - Monitor closely
-☐Not improving - Modify treatment plan
-☐Deteriorating - Consider evacuation
+[ ]Improved - Continue current treatment
+[ ]Stable - Monitor closely
+[ ]Not improving - Modify treatment plan
+[ ]Deteriorating - Consider evacuation
 
 Follow-up Care:
 ____________________________________________________________
 ____________________________________________________________
 
-Activity Restrictions: ☐None  ☐Light Duty  ☐Rest  ☐Other: ____
+Activity Restrictions: [ ]None  [ ]Light Duty  [ ]Rest  [ ]Other: ____
 Duration: ______________
 
-Diet Restrictions: ☐None  ☐Specify: _____________________
+Diet Restrictions: [ ]None  [ ]Specify: _____________________
 
 Medications Prescribed:
 Drug: __________________    Dose: ________    Frequency: ________
@@ -154,22 +154,22 @@ Symptoms to Monitor:
 ____________________________________________________________
 
 Warning Signs (Seek Immediate Attention):
-☐Fever >102°F/39°C
-☐Difficulty breathing
-☐Chest pain
-☐Severe pain
-☐Bleeding
-☐Other: _______________________________________________
+[ ]Fever >102°F/39°C
+[ ]Difficulty breathing
+[ ]Chest pain
+[ ]Severe pain
+[ ]Bleeding
+[ ]Other: _______________________________________________
 
 CONSULTATION/EVACUATION
 
-Telemedicine Consultation: ☐Not Needed  ☐Requested  ☐Completed
+Telemedicine Consultation: [ ]Not Needed  [ ]Requested  [ ]Completed
 Date/Time: ______________    Provider: ______________________
 Recommendations: ___________________________________________
 ____________________________________________________________
 
-Evacuation Status: ☐Not Required  ☐Consider  ☐Urgent  ☐Immediate
-Method: ☐Own Vessel  ☐Coast Guard  ☐Air Evac  ☐Rendezvous
+Evacuation Status: [ ]Not Required  [ ]Consider  [ ]Urgent  [ ]Immediate
+Method: [ ]Own Vessel  [ ]Coast Guard  [ ]Air Evac  [ ]Rendezvous
 Destination: _______________________________________________
 
 FOLLOW-UP NOTES
@@ -186,13 +186,13 @@ OUTCOME
 Date Resolved: ______________
 
 Final Status:
-☐Full Recovery
-☐Recovered with Limitations: ______________________________
-☐Ongoing Treatment Required
-☐Evacuated for Professional Care
-☐Other: _______________
+[ ]Full Recovery
+[ ]Recovered with Limitations: ______________________________
+[ ]Ongoing Treatment Required
+[ ]Evacuated for Professional Care
+[ ]Other: _______________
 
-Complications: ☐None  ☐Yes: _____________________________
+Complications: [ ]None  [ ]Yes: _____________________________
 ____________________________________________________________
 
 LESSONS LEARNED

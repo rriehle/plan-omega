@@ -20,95 +20,95 @@ Current Position: ______________    Region: ____________________
 
 CURRENT THREAT LEVEL
 
-Overall Assessment: ☐Level 1 (Normal)      ☐Level 2 (Enhanced)
-                   ☐Level 3 (Activation)  ☐Level 4 (Survival)
+Overall Assessment: [ ]Level 1 (Normal)      [ ]Level 2 (Enhanced)
+                   [ ]Level 3 (Activation)  [ ]Level 4 (Survival)
 
-Change from Last Assessment: ☐Increased  ☐Decreased  ☐Unchanged
+Change from Last Assessment: [ ]Increased  [ ]Decreased  [ ]Unchanged
 
 SCENARIO-SPECIFIC THREAT EVALUATION
 
 
 ECONOMIC COLLAPSE
-Current Status: ☐Green (Stable)  ☐Yellow (Concerning)
-                ☐Orange (Serious)  ☐Red (Critical)
+Current Status: [ ]Green (Stable)  [ ]Yellow (Concerning)
+                [ ]Orange (Serious)  [ ]Red (Critical)
 
 Indicators Present:
-☐Unemployment rising significantly
-☐Bank failures/runs
-☐Currency devaluation (>20%)
-☐Supply chain disruptions
-☐Price inflation (>50% annual)
-☐Government debt crisis
-☐Stock market crash (>40%)
-☐Credit markets frozen
+[ ]Unemployment rising significantly
+[ ]Bank failures/runs
+[ ]Currency devaluation (>20%)
+[ ]Supply chain disruptions
+[ ]Price inflation (>50% annual)
+[ ]Government debt crisis
+[ ]Stock market crash (>40%)
+[ ]Credit markets frozen
 
 Notes: _____________________________________________________
 ____________________________________________________________
 
-Confidence Level: ☐High  ☐Medium  ☐Low
+Confidence Level: [ ]High  [ ]Medium  [ ]Low
 Information Sources: _______________________________________
 
 
 CIVIL UNREST
-Current Status: ☐Green (Stable)  ☐Yellow (Concerning)
-                ☐Orange (Serious)  ☐Red (Critical)
+Current Status: [ ]Green (Stable)  [ ]Yellow (Concerning)
+                [ ]Orange (Serious)  [ ]Red (Critical)
 
 Indicators Present:
-☐Large-scale protests/riots
-☐Government instability
-☐Police/military conflicts
-☐Widespread violence
-☐Rule of law breakdown
-☐Refugee flows increasing
-☐Martial law declared
-☐Infrastructure attacks
+[ ]Large-scale protests/riots
+[ ]Government instability
+[ ]Police/military conflicts
+[ ]Widespread violence
+[ ]Rule of law breakdown
+[ ]Refugee flows increasing
+[ ]Martial law declared
+[ ]Infrastructure attacks
 
 Notes: _____________________________________________________
 ____________________________________________________________
 
-Confidence Level: ☐High  ☐Medium  ☐Low
+Confidence Level: [ ]High  [ ]Medium  [ ]Low
 Information Sources: _______________________________________
 
 
 CLIMATE COLLAPSE
-Current Status: ☐Green (Stable)  ☐Yellow (Concerning)
-                ☐Orange (Serious)  ☐Red (Critical)
+Current Status: [ ]Green (Stable)  [ ]Yellow (Concerning)
+                [ ]Orange (Serious)  [ ]Red (Critical)
 
 Indicators Present:
-☐Extreme weather events increasing
-☐Crop failures/food shortages
-☐Water scarcity
-☐Mass migration due to climate
-☐Ecosystem collapse indicators
-☐Sea level rise impacting populations
-☐Disease outbreaks
-☐Resource conflicts
+[ ]Extreme weather events increasing
+[ ]Crop failures/food shortages
+[ ]Water scarcity
+[ ]Mass migration due to climate
+[ ]Ecosystem collapse indicators
+[ ]Sea level rise impacting populations
+[ ]Disease outbreaks
+[ ]Resource conflicts
 
 Notes: _____________________________________________________
 ____________________________________________________________
 
-Confidence Level: ☐High  ☐Medium  ☐Low
+Confidence Level: [ ]High  [ ]Medium  [ ]Low
 Information Sources: _______________________________________
 
 
 WAR/CONFLICT
-Current Status: ☐Green (Stable)  ☐Yellow (Concerning)
-                ☐Orange (Serious)  ☐Red (Critical)
+Current Status: [ ]Green (Stable)  [ ]Yellow (Concerning)
+                [ ]Orange (Serious)  [ ]Red (Critical)
 
 Indicators Present:
-☐Diplomatic relations deteriorating
-☐Military mobilization
-☐Border incidents
-☐Proxy conflicts escalating
-☐Nuclear threats
-☐Trade embargoes/sanctions
-☐Cyberattacks increasing
-☐Regional conflict spillover
+[ ]Diplomatic relations deteriorating
+[ ]Military mobilization
+[ ]Border incidents
+[ ]Proxy conflicts escalating
+[ ]Nuclear threats
+[ ]Trade embargoes/sanctions
+[ ]Cyberattacks increasing
+[ ]Regional conflict spillover
 
 Notes: _____________________________________________________
 ____________________________________________________________
 
-Confidence Level: ☐High  ☐Medium  ☐Low
+Confidence Level: [ ]High  [ ]Medium  [ ]Low
 Information Sources: _______________________________________
 
 
@@ -117,36 +117,36 @@ LOCAL/REGIONAL THREATS
 Geographic Area: ___________________________________________
 
 Specific Threats:
-☐Piracy                    ☐Corrupt officials
-☐Criminal activity         ☐Political instability
-☐Natural disasters         ☐Disease outbreaks
-☐Resource scarcity         ☐Hostile populations
-☐Other: _______________
+[ ]Piracy                    [ ]Corrupt officials
+[ ]Criminal activity         [ ]Political instability
+[ ]Natural disasters         [ ]Disease outbreaks
+[ ]Resource scarcity         [ ]Hostile populations
+[ ]Other: _______________
 
 Threat Details:
 ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Risk Level: ☐Low  ☐Moderate  ☐High  ☐Critical
+Risk Level: [ ]Low  [ ]Moderate  [ ]High  [ ]Critical
 
 INFORMATION SOURCES ASSESSMENT
 
 Source                 | Type | Reliability | Last Update
 
-                      |      | ☐H ☐M ☐L |
-                      |      | ☐H ☐M ☐L |
-                      |      | ☐H ☐M ☐L |
-                      |      | ☐H ☐M ☐L |
+                      |      | [ ]H [ ]M [ ]L |
+                      |      | [ ]H [ ]M [ ]L |
+                      |      | [ ]H [ ]M [ ]L |
+                      |      | [ ]H [ ]M [ ]L |
 
 Type: N=News, O=Official, P=Personal Contact, R=Radio, S=Social Media
 
 TREND ANALYSIS
 
-Compared to 7 Days Ago: ☐Better  ☐Same  ☐Worse
-Compared to 30 Days Ago: ☐Better  ☐Same  ☐Worse
+Compared to 7 Days Ago: [ ]Better  [ ]Same  [ ]Worse
+Compared to 30 Days Ago: [ ]Better  [ ]Same  [ ]Worse
 
-Trend Direction: ☐Improving  ☐Stable  ☐Deteriorating  ☐Rapidly Deteriorating
+Trend Direction: [ ]Improving  [ ]Stable  [ ]Deteriorating  [ ]Rapidly Deteriorating
 
 RECOMMENDED ACTIONS
 
@@ -164,7 +164,7 @@ ____________________________________________________________
 
 READINESS STATUS
 
-Can execute departure within: ☐1 hour  ☐6 hours  ☐24 hours  ☐>24 hours
+Can execute departure within: [ ]1 hour  [ ]6 hours  [ ]24 hours  [ ]>24 hours
 
 Critical gaps/concerns: ____________________________________
 ____________________________________________________________
@@ -180,7 +180,7 @@ ____________________________________________________________
 ____________________________________________________________
 ____________________________________________________________
 
-Reviewed with crew: ☐Yes  ☐No    Date: ______________
+Reviewed with crew: [ ]Yes  [ ]No    Date: ______________
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 ```
 

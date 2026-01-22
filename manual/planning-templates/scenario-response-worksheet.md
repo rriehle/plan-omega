@@ -1,6 +1,6 @@
 # Scenario Response Worksheet
 
-**Status:** ✅ READY TO USE
+**Status:** [x] READY TO USE
 
 ---
 
@@ -12,14 +12,14 @@
 
 **Scenario Type:**
 
-☐ Economic Collapse
-☐ Civil Unrest
-☐ Climate Collapse
-☐ War
-☐ Pandemic/Biological
-☐ Nuclear Event
-☐ Infrastructure Collapse
-☐ Other: _______________
+[ ] Economic Collapse
+[ ] Civil Unrest
+[ ] Climate Collapse
+[ ] War
+[ ] Pandemic/Biological
+[ ] Nuclear Event
+[ ] Infrastructure Collapse
+[ ] Other: _______________
 
 **Primary Planner:** _______________
 
@@ -77,7 +77,7 @@ _________________________________________________________________________
 
 **Name/Location:** _________________________________________________________________________
 
-**Coordinates:** ___°___' ___″ N/S,___ ° ___'___ ″ E/W
+**Coordinates:** _**°**_' _**" N/S,**_ ° _**'**_ " E/W
 
 **Distance from current location:** _______________ nm
 
@@ -103,19 +103,19 @@ _________________________________________________________________________
 
 **Alternate 1:** _________________________________________________________________________
 
-**Coordinates:** ___°___' ___″ N/S,___ ° ___'___ ″ E/W
+**Coordinates:** _**°**_' _**" N/S,**_ ° _**'**_ " E/W
 
 **Why this is a good alternative:** _________________________________________________________________________
 
 **Alternate 2:** _________________________________________________________________________
 
-**Coordinates:** ___°___' ___″ N/S,___ ° ___'___ ″ E/W
+**Coordinates:** _**°**_' _**" N/S,**_ ° _**'**_ " E/W
 
 **Why this is a good alternative:** _________________________________________________________________________
 
 **Alternate 3:** _________________________________________________________________________
 
-**Coordinates:** ___°___' ___″ N/S,___ ° ___'___ ″ E/W
+**Coordinates:** _**°**_' _**" N/S,**_ ° _**'**_ " E/W
 
 **Why this is a good alternative:** _________________________________________________________________________
 
@@ -224,14 +224,14 @@ Hour 12-24:
 
 | Item | Quantity | Unit Cost | Total Cost | Priority | Acquired? |
 |------|----------|-----------|------------|----------|-----------|
-|      |          | $         | $          | ☐ H ☐ M ☐ L | ☐ |
-|      |          | $         | $          | ☐ H ☐ M ☐ L | ☐ |
-|      |          | $         | $          | ☐ H ☐ M ☐ L | ☐ |
-|      |          | $         | $          | ☐ H ☐ M ☐ L | ☐ |
-|      |          | $         | $          | ☐ H ☐ M ☐ L | ☐ |
-|      |          | $         | $          | ☐ H ☐ M ☐ L | ☐ |
-|      |          | $         | $          | ☐ H ☐ M ☐ L | ☐ |
-|      |          | $         | $          | ☐ H ☐ M ☐ L | ☐ |
+|      |          | $         | $          | [ ] H [ ] M [ ] L | [ ] |
+|      |          | $         | $          | [ ] H [ ] M [ ] L | [ ] |
+|      |          | $         | $          | [ ] H [ ] M [ ] L | [ ] |
+|      |          | $         | $          | [ ] H [ ] M [ ] L | [ ] |
+|      |          | $         | $          | [ ] H [ ] M [ ] L | [ ] |
+|      |          | $         | $          | [ ] H [ ] M [ ] L | [ ] |
+|      |          | $         | $          | [ ] H [ ] M [ ] L | [ ] |
+|      |          | $         | $          | [ ] H [ ] M [ ] L | [ ] |
 
 **Total additional investment required:** $_______________
 
@@ -245,10 +245,10 @@ Hour 12-24:
 
 | Skill | Who Needs It | Training Source | Completion Target | Status |
 |-------|--------------|-----------------|-------------------|--------|
-|       |              |                 |                   | ☐ Not started ☐ In progress ☐ Complete |
-|       |              |                 |                   | ☐ Not started ☐ In progress ☐ Complete |
-|       |              |                 |                   | ☐ Not started ☐ In progress ☐ Complete |
-|       |              |                 |                   | ☐ Not started ☐ In progress ☐ Complete |
+|       |              |                 |                   | [ ] Not started [ ] In progress [ ] Complete |
+|       |              |                 |                   | [ ] Not started [ ] In progress [ ] Complete |
+|       |              |                 |                   | [ ] Not started [ ] In progress [ ] Complete |
+|       |              |                 |                   | [ ] Not started [ ] In progress [ ] Complete |
 
 ---
 
@@ -449,19 +449,19 @@ Evening: _______________________________________________________________________
 
 **This scenario might occur simultaneously with:**
 
-☐ Economic Collapse - If yes, how does this change our plan? _________________________________________________________________________
+[ ] Economic Collapse - If yes, how does this change our plan? _________________________________________________________________________
 
-☐ Civil Unrest - If yes, how does this change our plan? _________________________________________________________________________
+[ ] Civil Unrest - If yes, how does this change our plan? _________________________________________________________________________
 
-☐ Climate Collapse - If yes, how does this change our plan? _________________________________________________________________________
+[ ] Climate Collapse - If yes, how does this change our plan? _________________________________________________________________________
 
-☐ War - If yes, how does this change our plan? _________________________________________________________________________
+[ ] War - If yes, how does this change our plan? _________________________________________________________________________
 
-☐ Pandemic - If yes, how does this change our plan? _________________________________________________________________________
+[ ] Pandemic - If yes, how does this change our plan? _________________________________________________________________________
 
-☐ Nuclear Event - If yes, how does this change our plan? _________________________________________________________________________
+[ ] Nuclear Event - If yes, how does this change our plan? _________________________________________________________________________
 
-☐ Infrastructure Collapse - If yes, how does this change our plan? _________________________________________________________________________
+[ ] Infrastructure Collapse - If yes, how does this change our plan? _________________________________________________________________________
 
 ### Priority in Multi-Scenario Events
 
@@ -497,7 +497,7 @@ _________________________________________________________________________
 
 ### Practical Drill
 
-**Type of drill:** ☐ Partial departure ☐ Full departure simulation ☐ System-specific test
+**Type of drill:** [ ] Partial departure [ ] Full departure simulation [ ] System-specific test
 
 **Date last conducted:** _______________
 
@@ -521,7 +521,7 @@ _________________________________________________________________________
 
 **How often will we drill this scenario?**
 
-☐ Quarterly ☐ Semi-annually ☐ Annually ☐ Other: _______________
+[ ] Quarterly [ ] Semi-annually [ ] Annually [ ] Other: _______________
 
 ---
 
@@ -529,11 +529,11 @@ _________________________________________________________________________
 
 | Date | Event Type | What Happened | What Worked | What Failed | Changes Made to Plan |
 |------|------------|---------------|-------------|-------------|---------------------|
-|      | ☐ Drill ☐ Real event | | | | |
-|      | ☐ Drill ☐ Real event | | | | |
-|      | ☐ Drill ☐ Real event | | | | |
-|      | ☐ Drill ☐ Real event | | | | |
-|      | ☐ Drill ☐ Real event | | | | |
+|      | [ ] Drill [ ] Real event | | | | |
+|      | [ ] Drill [ ] Real event | | | | |
+|      | [ ] Drill [ ] Real event | | | | |
+|      | [ ] Drill [ ] Real event | | | | |
+|      | [ ] Drill [ ] Real event | | | | |
 
 ---
 
@@ -543,12 +543,12 @@ _________________________________________________________________________
 
 **Overall plan readiness for this scenario:**
 
-☐ Not started (awareness only)
-☐ Basic plan documented
-☐ Supplies partially acquired
-☐ Supplies fully acquired
-☐ Plan tested via drill
-☐ Fully ready (tested and proven)
+[ ] Not started (awareness only)
+[ ] Basic plan documented
+[ ] Supplies partially acquired
+[ ] Supplies fully acquired
+[ ] Plan tested via drill
+[ ] Fully ready (tested and proven)
 
 ### Gaps and Next Steps
 
@@ -589,7 +589,7 @@ Other: $_______________
 
 **TOTAL:** $_______________
 
-**Budget status:** ☐ Funded ☐ Partially funded ☐ Not yet funded
+**Budget status:** [ ] Funded [ ] Partially funded [ ] Not yet funded
 
 **Funding plan:** _________________________________________________________________________
 
@@ -610,7 +610,7 @@ Other: $_______________
 
 **Next comprehensive review date:** _______________
 
-**Review frequency:** ☐ Quarterly ☐ Semi-annually ☐ Annually
+**Review frequency:** [ ] Quarterly [ ] Semi-annually [ ] Annually
 
 **Triggers for immediate plan review:**
 
@@ -620,7 +620,7 @@ Other: $_______________
 
 ---
 
-**Plan Status:** ☐ DRAFT ☐ ACTIVE ☐ ARCHIVED
+**Plan Status:** [ ] DRAFT [ ] ACTIVE [ ] ARCHIVED
 
 **Family Sign-off:**
 
@@ -630,4 +630,4 @@ _______________ (Name) _______________ (Date)
 
 ---
 
-[← Templates Index](README.md) | [Scenarios Part IV →](../part-4-scenarios/README.md) | [Main Manual](../README.md)
+[<- Templates Index](README.md) | [Scenarios Part IV ->](../part-4-scenarios/README.md) | [Main Manual](../README.md)

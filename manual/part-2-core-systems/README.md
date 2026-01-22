@@ -29,11 +29,11 @@ These six systems represent the fundamental requirements for survival:
 Many systems depend on each other. Understanding these dependencies is critical:
 
 ```
-POWER → Medical (sterilization), Water (desalination), Food (refrigeration), Navigation, Communication
-WATER → Medical (hygiene), Food (cooking, cleaning), Health
-SHELTER → Everything (boat is the platform for all systems)
-MEDICAL → Capability to maintain all other systems
-SECURITY → Ability to keep all resources and family safe
+POWER -> Medical (sterilization), Water (desalination), Food (refrigeration), Navigation, Communication
+WATER -> Medical (hygiene), Food (cooking, cleaning), Health
+SHELTER -> Everything (boat is the platform for all systems)
+MEDICAL -> Capability to maintain all other systems
+SECURITY -> Ability to keep all resources and family safe
 ```
 
 ## System Development Priority
@@ -41,27 +41,31 @@ SECURITY → Ability to keep all resources and family safe
 If you cannot develop all systems simultaneously, prioritize in this order:
 
 ### Phase 1: Immediate Survival (Can't live without)
+
 1. **Water** - Most urgent need
 2. **Shelter** - Vessel must be seaworthy
 3. **Medical** - Injuries/illness can't wait
 
 ### Phase 2: Short-term Sustainability (First months)
+
 4. **Food** - Stockpiles and procurement
-5. **Energy** - Powers other systems
-6. **Security** - Threat awareness and basic defense
+2. **Energy** - Powers other systems
+3. **Security** - Threat awareness and basic defense
 
 ### Phase 3: Long-term Resilience (Extended autonomy)
+
 - Advanced capabilities in all six systems
 - Full P.A.C.E. redundancy implemented
 - Regular testing and maintenance protocols
 
 ## Chapters in This Part
 
-### [05. Water Systems](05-water-systems.md) ⚠️ DRAFT
+### [05. Water Systems](05-water-systems.md) **WARNING:** DRAFT
 
 Complete P.A.C.E. plan for water procurement, storage, and purification.
 
 **Critical questions answered:**
+
 - How much water do we need to store?
 - What if our watermaker fails?
 - How do we ensure water safety in all conditions?
@@ -69,11 +73,12 @@ Complete P.A.C.E. plan for water procurement, storage, and purification.
 
 ---
 
-### [06. Food Systems](06-food-systems.md) ⚠️ DRAFT
+### [06. Food Systems](06-food-systems.md) **WARNING:** DRAFT
 
 Long-term food storage, fishing, preservation, and emergency rations.
 
 **Critical questions answered:**
+
 - How much food should we store?
 - What foods have the longest shelf life?
 - How do we preserve fresh-caught fish?
@@ -81,11 +86,12 @@ Long-term food storage, fishing, preservation, and emergency rations.
 
 ---
 
-### [07. Shelter & Vessel Maintenance](07-shelter-vessel.md) ⚠️ DRAFT
+### [07. Shelter & Vessel Maintenance](07-shelter-vessel.md) **WARNING:** DRAFT
 
 Boat maintenance, storm preparation, damage control, and repair capabilities.
 
 **Critical questions answered:**
+
 - How do we maintain the boat without shipyard access?
 - What are critical spare parts?
 - How do we prepare for heavy weather?
@@ -93,11 +99,12 @@ Boat maintenance, storm preparation, damage control, and repair capabilities.
 
 ---
 
-### [08. Energy & Power](08-energy-power.md) ⚠️ DRAFT
+### [08. Energy & Power](08-energy-power.md) **WARNING:** DRAFT
 
 Power generation, storage, management, and conservation.
 
 **Critical questions answered:**
+
 - How much power generation do we need?
 - What if solar panels fail?
 - How do we manage power in extended cloudy periods?
@@ -105,11 +112,12 @@ Power generation, storage, management, and conservation.
 
 ---
 
-### [09. Medical & Healthcare](09-medical-healthcare.md) ⚠️ DRAFT
+### [09. Medical & Healthcare](09-medical-healthcare.md) **WARNING:** DRAFT
 
 Medical supplies, training, remote diagnostics, chronic conditions, dental care.
 
 **Critical questions answered:**
+
 - What medical training do we need?
 - What supplies are essential?
 - How do we handle serious injuries without evacuation?
@@ -117,11 +125,12 @@ Medical supplies, training, remote diagnostics, chronic conditions, dental care.
 
 ---
 
-### [10. Defense & Security](10-defense-security.md) ⚠️ DRAFT
+### [10. Defense & Security](10-defense-security.md) **WARNING:** DRAFT
 
 Threat assessment, avoidance, deterrence, active defense, and evasion.
 
 **Critical questions answered:**
+
 - How do we avoid becoming a target?
 - What security measures are most effective?
 - What weapons/defense should we have?
@@ -131,7 +140,7 @@ Threat assessment, avoidance, deterrence, active defense, and evasion.
 
 ## Using These Chapters
 
-### For Each System:
+### For Each System
 
 1. **Read the full chapter** to understand the complete P.A.C.E. plan
 
@@ -151,14 +160,14 @@ Threat assessment, avoidance, deterrence, active defense, and evasion.
 
 7. **Document and update** based on testing results and changing circumstances
 
-### Integration Across Chapters:
+### Integration Across Chapters
 
 Don't develop systems in isolation:
 
 - **Cross-training**: All adults should understand all systems
 - **Dependency mapping**: Know which systems support which others
 - **Cascade failure planning**: What happens if multiple systems fail simultaneously?
-- **Resource sharing**: Some resources (power, space, funds) support multiple systems—allocate wisely
+- **Resource sharing**: Some resources (power, space, funds) support multiple systems--allocate wisely
 
 ## System Status Tracking
 
@@ -166,28 +175,31 @@ Track the development status of each system:
 
 | System | Primary | Alternate | Contingency | Emergency | Overall Status |
 |--------|---------|-----------|-------------|-----------|----------------|
-| Water | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Complete |
-| Food | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Complete |
-| Shelter | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Complete |
-| Energy | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Complete |
-| Medical | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Complete |
-| Security | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Ready | ☐ Complete |
+| Water | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Complete |
+| Food | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Complete |
+| Shelter | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Complete |
+| Energy | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Complete |
+| Medical | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Complete |
+| Security | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Ready | [ ] Complete |
 
 **Goal**: All systems at "Complete" (full P.A.C.E. implementation) before threat level reaches Level 3.
 
 ## Maintenance and Testing Schedule
 
 **Monthly:**
+
 - Test one alternate or contingency method for one system
 - Rotate through systems (6 systems = all tested every 6 months)
 - Document results and identify improvements
 
 **Quarterly:**
+
 - Full system audit: inventory, condition check, expirations
 - Update provisions and supplies
 - Review and update P.A.C.E. plans based on experience
 
 **Annually:**
+
 - Major drill: Multi-system failure scenario
 - Complete inventory and refresh
 - Skills training/refresher for all family members
@@ -198,6 +210,7 @@ Track the development status of each system:
 Typical resource distribution for full P.A.C.E. implementation:
 
 **Financial:**
+
 - Water: 10-15% (watermaker, storage, filtration)
 - Food: 20-25% (long-term provisions, fishing gear, preservation)
 - Shelter: 25-30% (maintenance, spares, safety gear)
@@ -206,6 +219,7 @@ Typical resource distribution for full P.A.C.E. implementation:
 - Security: 5-10% (varies greatly based on approach)
 
 **Space (storage):**
+
 - Water: 20% (largest single requirement)
 - Food: 35% (bulk provisions)
 - Spare parts/tools: 20%
@@ -213,6 +227,7 @@ Typical resource distribution for full P.A.C.E. implementation:
 - Other: 20%
 
 **Time/Training:**
+
 - Seamanship/vessel: 30%
 - Medical: 20%
 - Fishing/food: 15%
@@ -222,4 +237,4 @@ Typical resource distribution for full P.A.C.E. implementation:
 
 ---
 
-[← Part I: Foundation](../part-1-foundation/README.md) | [Main Manual](../README.md) | [Next: Part III - Knowledge & Skills →](../part-3-knowledge-skills/README.md)
+[<- Part I: Foundation](../part-1-foundation/README.md) | [Main Manual](../README.md) | [Next: Part III - Knowledge & Skills ->](../part-3-knowledge-skills/README.md)

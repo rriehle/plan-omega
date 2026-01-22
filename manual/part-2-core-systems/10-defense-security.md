@@ -1,22 +1,23 @@
 # Chapter 10: Defense & Security
 
-**Status:** ⚠️ DRAFT - Framework Only
+**Status:** **WARNING:** DRAFT - Framework Only
 
-[← Medical & Healthcare](09-medical-healthcare.md) | [Part II Overview](README.md) | [Next: Part III - Knowledge & Skills →](../part-3-knowledge-skills/README.md)
+[<- Medical & Healthcare](09-medical-healthcare.md) | [Part II Overview](README.md) | [Next: Part III - Knowledge & Skills ->](../part-3-knowledge-skills/README.md)
 
 ---
 
 ## Introduction
 
-Security threats—piracy, theft, boarding, violence—can end your survival instantly. This chapter addresses threat avoidance, deterrence, active defense, and evasion using a layered P.A.C.E. approach that prioritizes avoiding conflict while maintaining capability to defend if necessary.
+Security threats--piracy, theft, boarding, violence--can end your survival instantly. This chapter addresses threat avoidance, deterrence, active defense, and evasion using a layered P.A.C.E. approach that prioritizes avoiding conflict while maintaining capability to defend if necessary.
 
-**CRITICAL NOTE**: This chapter focuses on defensive security only—protecting your family from threats. Always comply with applicable laws regarding weapons, use of force, and self-defense.
+**CRITICAL NOTE**: This chapter focuses on defensive security only--protecting your family from threats. Always comply with applicable laws regarding weapons, use of force, and self-defense.
 
 ---
 
 ## Threat Assessment
 
 ### Types of Threats
+
 - **Piracy**: Armed boarding for theft or kidnapping (specific high-risk regions)
 - **Opportunistic theft**: Dinghy theft, stealing from boat, petty crime
 - **Robbery**: Confrontational theft (potentially violent)
@@ -26,6 +27,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - **Other cruisers**: In collapse scenario, even cruisers may become threats
 
 ### High-Risk Regions (current, subject to change)
+
 - Somali coast and Gulf of Aden
 - Parts of Southeast Asia (Malacca Strait, etc.)
 - West Africa (Nigeria, Cameroon)
@@ -43,6 +45,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 **Description:** Don't be where threats are; don't be a target
 
 **Avoidance strategies:**
+
 - **Intelligence**: Monitor security reports (noonsite, SSCA, cruiser forums, piracy maps)
 - **Route planning**: Avoid known high-risk areas
 - **Timing**: Transit risky areas during safe periods (convoys, naval escorts if available)
@@ -50,6 +53,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - **Low profile**: Don't appear wealthy, don't flash valuables, modest boat
 
 **Evasion tactics:**
+
 - **Speed**: Maintain ability to outrun threats (sailing fast, engine ready)
 - **Night passages**: Through risky areas (less visible, harder to approach)
 - **Radar watch**: Detect approaching vessels early
@@ -57,6 +61,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - **Maneuverability**: Ready to change course, flee
 
 **Operational security:**
+
 - Limit information sharing (don't broadcast plans widely)
 - VHF discipline (others listening)
 - Social media blackout (don't post real-time location)
@@ -71,6 +76,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 **Description:** Make your boat a hard target; discourage attempts
 
 **Visible deterrents:**
+
 - **Watch routine**: Always someone visible on deck at anchor
 - **Lights**: Bright cockpit/deck lights (show you're awake and alert)
 - **Radio communication**: Respond to hails, participate in nets (show you're connected)
@@ -78,6 +84,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - **Crew**: Multiple adults visible (strength in numbers)
 
 **Hardening measures:**
+
 - **Lockable companionway**: Strong hatch, inside lock/bar
 - **Reinforced hatches**: Prevent forced entry
 - **Secured dinghy**: Lock cable, lift at night, or bring aboard
@@ -85,12 +92,14 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - **Anchor alarm**: GPS-based alarm for dragging or movement (someone moving boat)
 
 **Communication:**
+
 - **VHF**: Channel 16 monitored, call for help
 - **SSB/Ham radio**: Long-range communication
 - **Satellite**: Inreach, Iridium (text for help)
 - **EPIRB**: Extreme emergency (life-threatening)
 
 **Passive resistance:**
+
 - **Delay**: Slow down intruder (locked hatches, obstacles)
 - **Alarm**: Loud noise (air horn, alarm) to attract attention and scare
 - **Surrender valuables**: Have decoy cash/electronics to hand over (avoid escalation)
@@ -106,6 +115,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 **IMPORTANT LEGAL NOTE**: Weapons laws vary by country. Research and comply with laws in every jurisdiction you visit. Illegal weapons can result in seizure, imprisonment, and boat confiscation. Many cruisers navigate without firearms successfully.
 
 **Non-lethal options:**
+
 - **Flare guns**: Handheld, 12-gauge, very effective deterrent (fire, noise, danger)
 - **Fire extinguisher**: Spray in face (disorienting, painful)
 - **Wasp spray**: Long range, painful, temporarily disabling
@@ -114,6 +124,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - **Physical barriers**: Gates, netting (prevent boarding)
 
 **Improvised weapons:**
+
 - **Boat hook**: Repel boarders
 - **Winch handle**: Impact weapon
 - **Flares**: Incendiary, intimidating
@@ -122,20 +133,24 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 **Firearms** (if legal and you choose to carry):
 
 **Handguns:**
+
 - Compact, maneuverable in close quarters
 - 9mm or .38 common
 - Training essential
 
 **Shotguns:**
+
 - 12-gauge, effective deterrent and defense
 - Less precision needed at close range
 - Intimidating sound
 
 **Rifles:**
+
 - Range (if defending against approach)
 - Hunting (food procurement dual-use)
 
 **Considerations:**
+
 - **Training**: Firearms without training are dangerous to user
 - **Storage**: Secure (children, thieves, corrosion)
 - **Legal**: Declare, or hide (risk of severe consequences)
@@ -143,6 +158,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - **Maintenance**: Prevent rust, function test regularly
 
 **Rules of engagement (personal decision):**
+
 - **Verbal warning**: If possible, warn intruders off
 - **Warning shots**: Fire away from threat (demonstration)
 - **Defensive force**: Only if life threatened, proportional response
@@ -157,23 +173,27 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 **Description:** When all else fails, flee the vessel
 
 **Scenarios for abandonment:**
+
 - Armed boarding imminent, family safety at risk
 - Fire or flooding uncontrollable (see Shelter chapter)
 - Vessel seizure by hostile forces
 
 **Escape options:**
+
 - **Dinghy**: Flee to shore or another vessel
 - **Liferaft**: Deploy if no better option
 - **Swim**: Last resort, only if close to safe shore
 - **Surrender**: Comply with demands, preserve life (things can be replaced, life cannot)
 
 **Escape preparation:**
+
 - **Abandon ship bag**: Always ready (documents, cash, water, comm device)
 - **Dinghy ready**: Fueled, operational, accessible
 - **Escape plan**: Practiced with family
 - **Rally point**: Pre-determined meeting point if separated
 
 **Prioritize:**
+
 1. Life (family safety above all)
 2. Documents (passports, papers)
 3. Communication (radio, phone, EPIRB)
@@ -187,11 +207,13 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 ## Security Protocols by Threat Level
 
 ### Level 1 (Monitoring): Standard Precautions
+
 - Research security situation in cruising area
 - Maintain awareness
 - Standard deterrents (watch, lights, locked boat)
 
 ### Level 2 (Enhanced Readiness): Heightened Security
+
 - Avoid high-risk anchorages
 - Enhanced watch (24/7 if in questionable area)
 - Weapons accessible (if carried)
@@ -199,6 +221,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - Plan for rapid departure
 
 ### Level 3 (Activation): Active Threat Avoidance
+
 - Depart high-risk area immediately
 - Avoid contact with unknown vessels
 - Night watch with weapons ready (if carried)
@@ -206,6 +229,7 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 - Full communication blackout (AIS off, no VHF)
 
 ### Level 4 (Survival): Extreme Security
+
 - Treat all unknowns as potential threats
 - Defensive measures continuously active
 - Weapons ready at all times (if carried)
@@ -217,18 +241,21 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 ## Family Security Training
 
 ### Drills and Scenarios
+
 - "Suspicious approach" drill (what to do when unknown vessel approaches)
 - Nighttime intruder drill
 - Rapid departure drill
 - Weapon handling (if applicable, adults only)
 
 ### Roles and Responsibilities
+
 - **Lookout**: Detect threats early
 - **Communication**: Radio for help, document situation
 - **Defense**: Primary defender (trained adult)
 - **Children**: Safety first (hide in designated safe space, follow adult directions)
 
 ### Children's Safety
+
 - Age-appropriate security briefings (avoid causing fear, provide empowerment)
 - Safe hiding spots aboard (rehearsed)
 - Emergency signals (code words for danger)
@@ -238,26 +265,30 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 
 ## System Readiness Checklist
 
-### Primary (Avoidance):
+### Primary (Avoidance)
+
 - [ ] Security intelligence sources identified
 - [ ] Route planning incorporates security risks
 - [ ] Low-profile approach (boat, behavior)
 - [ ] Operational security practiced
 
-### Alternate (Deterrence):
+### Alternate (Deterrence)
+
 - [ ] Visible deterrents in place (lights, watch, radio)
 - [ ] Boat hardened (locks, alarms, reinforced hatches)
 - [ ] Communication devices ready
 - [ ] Decoy valuables prepared
 
-### Contingency (Active Defense):
+### Contingency (Active Defense)
+
 - [ ] Non-lethal weapons aboard
 - [ ] Firearms (if legal and chosen) aboard, secured, maintained
 - [ ] Training completed (all armed adults)
 - [ ] Rules of engagement discussed
 - [ ] Legal compliance researched for cruising grounds
 
-### Emergency (Escape):
+### Emergency (Escape)
+
 - [ ] Abandon ship bag ready
 - [ ] Dinghy operational and accessible
 - [ ] Escape plan practiced
@@ -285,4 +316,4 @@ Security threats—piracy, theft, boarding, violence—can end your survival ins
 
 ---
 
-[← Medical & Healthcare](09-medical-healthcare.md) | [Part II Overview](README.md) | [Next: Part III - Knowledge & Skills →](../part-3-knowledge-skills/README.md)
+[<- Medical & Healthcare](09-medical-healthcare.md) | [Part II Overview](README.md) | [Next: Part III - Knowledge & Skills ->](../part-3-knowledge-skills/README.md)

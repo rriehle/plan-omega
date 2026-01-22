@@ -1,8 +1,8 @@
 # Chapter 5: Water Systems
 
-**Status:** ⚠️ DRAFT
+**Status:** **WARNING:** DRAFT
 
-[← Part II Overview](README.md) | [Next: Food Systems →](06-food-systems.md)
+[<- Part II Overview](README.md) | [Next: Food Systems ->](06-food-systems.md)
 
 ---
 
@@ -22,6 +22,7 @@ Water is the most critical survival resource. The human body can survive only 3 
 **Comfortable living:** 10-15 liters (2.5-4 gallons)
 
 **For family of four:**
+
 - Survival minimum: 8 L/day (2 gallons/day)
 - Basic comfort: 30 L/day (8 gallons/day)
 - Full comfort: 40-60 L/day (10-15 gallons/day)
@@ -29,12 +30,15 @@ Water is the most critical survival resource. The human body can survive only 3 
 ### Storage Targets
 
 **Minimum:** 30 days at survival rate
+
 - Family of 4: 240 L (60 gallons)
 
 **Recommended:** 60 days at basic comfort rate
+
 - Family of 4: 1,800 L (475 gallons)
 
 **Ideal:** 90 days at basic comfort + ability to produce water
+
 - Family of 4: 2,700 L (715 gallons) + watermaker/catchment
 
 ---
@@ -49,6 +53,7 @@ Water is the most critical survival resource. The human body can survive only 3 
 Electric or engine-driven reverse osmosis system that converts seawater to potable water.
 
 **Advantages:**
+
 - Unlimited source (seawater)
 - High production rate (20-60+ liters/hour typical)
 - Low effort (automated)
@@ -56,6 +61,7 @@ Electric or engine-driven reverse osmosis system that converts seawater to potab
 - Relatively efficient energy use
 
 **Disadvantages:**
+
 - Requires power (significant draw: 5-20A for DC systems, more for AC)
 - Mechanical complexity (pumps, membranes, controls)
 - Requires maintenance and spare parts
@@ -63,15 +69,17 @@ Electric or engine-driven reverse osmosis system that converts seawater to potab
 - Fails if electrical system fails
 - Requires clean seawater (not in harbors or polluted areas)
 
-#### Implementation:
+#### Implementation
 
 **System selection:**
+
 - Sized for family needs: 20+ gallons/hour minimum
 - DC system (12V/24V) preferred over AC (more versatile power sources)
 - Quality brands: Spectra, Katadyn, Sea Recovery, Village Marine
 - Consider manual backup capability (some Spectra models)
 
 **Installation requirements:**
+
 - Through-hull intake (with strainer)
 - Seawater pump (high pressure, 800+ PSI)
 - Pre-filters (sediment, carbon)
@@ -81,6 +89,7 @@ Electric or engine-driven reverse osmosis system that converts seawater to potab
 - Power supply (dedicated circuit)
 
 **Maintenance schedule:**
+
 - **Before each use**: Check intake strainer, run freshwater flush
 - **After each use**: Freshwater flush (critical for membrane preservation)
 - **Weekly** (if in regular use): Inspect connections, check pressures
@@ -88,14 +97,16 @@ Electric or engine-driven reverse osmosis system that converts seawater to potab
 - **Annually**: Full system service, membrane assessment, replace consumables
 
 **Spare parts to carry:**
+
 - Pre-filters (10+ sets)
-- Membrane (1-2 spares—expensive but critical)
+- Membrane (1-2 spares--expensive but critical)
 - Seawater pump rebuild kit
 - O-rings and gaskets
 - Pressure switch/sensors
 - Tubing and fittings
 
 **Failure modes:**
+
 - Membrane fouling (biological, chemical, particulate)
 - Pump failure (mechanical or electrical)
 - Electrical failure (controller, power supply)
@@ -104,12 +115,14 @@ Electric or engine-driven reverse osmosis system that converts seawater to potab
 - Contaminated product water (membrane breach)
 
 **Troubleshooting:**
-- Low production → Check filters, membrane condition, pressure
-- High pressure → Clogged filters or membrane fouling
-- Salty product water → Membrane failure, replace immediately
-- No power → Electrical system failure, revert to Alternate system
+
+- Low production -> Check filters, membrane condition, pressure
+- High pressure -> Clogged filters or membrane fouling
+- Salty product water -> Membrane failure, replace immediately
+- No power -> Electrical system failure, revert to Alternate system
 
 **Skills required:**
+
 - Basic maintenance (filter changes, pickling)
 - Troubleshooting (pressure testing, flow rate checks)
 - Membrane replacement
@@ -125,6 +138,7 @@ Electric or engine-driven reverse osmosis system that converts seawater to potab
 Collecting rainwater from sails, Bimini, deck, or dedicated catchment surfaces; filtering and storing for use.
 
 **Advantages:**
+
 - Free, renewable resource
 - No power required (passive collection)
 - High-quality water (low mineral content)
@@ -133,13 +147,14 @@ Collecting rainwater from sails, Bimini, deck, or dedicated catchment surfaces; 
 - Multiple methods available
 
 **Disadvantages:**
+
 - Weather-dependent (unreliable in dry climates/seasons)
 - Requires rain events
 - Initial catchment contaminated (bird droppings, salt spray, dust)
 - Storage required
 - Contamination risk if not filtered
 
-#### Implementation:
+#### Implementation
 
 **Catchment methods:**
 
@@ -169,34 +184,40 @@ Collecting rainwater from sails, Bimini, deck, or dedicated catchment surfaces; 
    - Good for extended rain
 
 **Filtration:**
+
 - **Minimum**: First flush discarded, then basic sediment filter
 - **Better**: Sediment filter + carbon filter (taste, odor)
 - **Best**: Sediment + carbon + UV or chemical treatment (bacteria/virus)
 
 **Storage:**
+
 - Existing water tanks (if clean)
 - Jerry cans/containers (food-grade plastic)
 - Bladders (flexible water storage)
 - Ensure containers clean before use
 
 **Calculation:**
-- 1mm rainfall on 1 m² = 1 liter
-- Example: 10mm rain (moderate shower) on 20 m² sail = 200 liters
-- Tropical rain: 20-50mm common → 400-1000 liters possible per event
+
+- 1mm rainfall on 1 m^2 = 1 liter
+- Example: 10mm rain (moderate shower) on 20 m^2 sail = 200 liters
+- Tropical rain: 20-50mm common -> 400-1000 liters possible per event
 
 **Maintenance:**
+
 - Keep sails/bimini clean
 - Inspect and clean catchment surfaces before rain
 - Sanitize collection containers regularly
 - Check filters and replace as needed
 
 **Failure modes:**
+
 - No rain (drought, dry season, wrong location)
 - Contaminated catchment surface
 - Insufficient storage
 - Broken collection system
 
 **Skills required:**
+
 - Setting up catchment system
 - Water quality assessment
 - Filtration techniques
@@ -212,12 +233,14 @@ Collecting rainwater from sails, Bimini, deck, or dedicated catchment surfaces; 
 Low-volume, manual methods for producing drinking water from seawater when Primary and Alternate fail.
 
 **Advantages:**
+
 - No power required (solar) or low power (manual)
 - Portable and backup systems
 - Proven technology
 - Can work in any ocean condition
 
 **Disadvantages:**
+
 - Low production rate (slow)
 - Labor-intensive (manual)
 - Weather-dependent (solar still needs sun)
@@ -242,13 +265,15 @@ Low-volume, manual methods for producing drinking water from seawater when Prima
    - Cost: $20-$50 (materials)
 
 **Implementation:**
+
 - Deploy in full sun
 - Fill with seawater
-- Sun heats water → evaporation → condensation → collection
+- Sun heats water -> evaporation -> condensation -> collection
 - Maintain and clean regularly
 - Slow but steady production
 
 **Limitations:**
+
 - Requires sunny weather (not in storms or overcast)
 - Low volume (insufficient for full family needs)
 - Takes up deck space
@@ -256,6 +281,7 @@ Low-volume, manual methods for producing drinking water from seawater when Prima
 #### Method 2: Manual Reverse Osmosis Desalinator
 
 **Examples:**
+
 - Katadyn Survivor 06/35
 - Aquamate Aqua Bucket
 - HRO Manual Desalinator
@@ -263,17 +289,20 @@ Low-volume, manual methods for producing drinking water from seawater when Prima
 **Production:** 4-6 liters/hour (with continuous pumping)
 
 **Operation:**
+
 - Manual pump (hand or foot)
 - High pressure required (continuous effort)
 - Produces drinkable water from seawater
 - Physically exhausting
 
 **Advantages over solar still:**
+
 - Works in any weather
 - Higher production rate
 - Compact
 
 **Implementation:**
+
 - Practice using before needed (build endurance)
 - Rotate family members (share effort)
 - Combine with rationing to extend value
@@ -296,23 +325,24 @@ When all production methods fail, rely on pre-positioned emergency rations and s
    - Store in liferaft, abandon-ship bag, multiple locations
 
 **Quantity:**
+
 - Minimum: 7 days for family (56 liters / 15 gallons)
 - Better: 14 days (112 liters / 30 gallons)
 - Best: 30 days (240 liters / 60 gallons)
 
-2. **Extreme rationing protocol**
+1. **Extreme rationing protocol**
    - Reduce to absolute minimum: 0.5 L/person/day
    - Prioritize children, then adults
    - No cooking (requires water)
    - Minimal hygiene
    - Reduce physical activity (conserve water through reduced sweating)
 
-3. **Moisture recovery**
+2. **Moisture recovery**
    - Dew collection (tarp at night)
    - Condensation from surfaces
    - Body moisture conservation (breathe through cloth, reduce talking)
 
-4. **Seawater use (non-drinking)**
+3. **Seawater use (non-drinking)**
    - Cooling (wet clothing)
    - Initial wash (then rinse with fresh)
    - Never drink seawater (accelerates dehydration/kidney failure)
@@ -320,6 +350,7 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 **Emergency protocols:**
 
 **If water production fails:**
+
 1. Immediately begin strict rationing
 2. Deploy emergency water rations (use oldest first)
 3. Attempt all contingency methods (solar still, manual desalinator)
@@ -328,7 +359,8 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 6. Send distress signal if life-threatening
 
 **Calculation:**
-- Emergency rations: 30 days × 0.5 L/person/day × 4 people = 60 L
+
+- Emergency rations: 30 days x 0.5 L/person/day x 4 people = 60 L
 - Store 60+ liters in emergency form
 - Review and rotate every 2 years
 
@@ -341,39 +373,47 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 ### Potential Contaminants
 
 **Rainwater:**
+
 - Biological: Bird droppings, airborne bacteria
 - Chemical: Salt spray, pollutants
 - Physical: Dust, debris
 
 **Seawater (produced via watermaker):**
+
 - Usually clean if system works correctly
 - Test regularly to ensure membrane integrity
 
 **Shore water (if procured):**
+
 - Highly variable quality
 - Assume contaminated unless confirmed safe
 
 **Stored water:**
+
 - Biological growth over time (bacteria, algae)
 - Tank contamination
 
 ### Treatment Methods
 
 **Filtration:**
+
 - **Sediment filter**: Removes particulates (dirt, rust, debris)
 - **Carbon filter**: Removes chemicals, improves taste/odor
 - **Ceramic filter**: Removes bacteria and protozoa (not viruses)
 
 **Disinfection:**
+
 - **Boiling**: 1 minute at rolling boil (+ 1 minute per 1000m elevation), kills all pathogens
 - **Chemical**: Bleach (8 drops/gallon, wait 30 min), iodine tablets, chlorine dioxide
 - **UV**: UV sterilizer (SteriPEN, etc.), effective against all pathogens, requires clear water
 
 **Testing:**
+
 - Test kits for bacteria, salinity
-- TDS meter (total dissolved solids—watermaker output should be <500 ppm, ideally <200 ppm)
+- TDS meter (total dissolved solids--watermaker output should be <500 ppm, ideally <200 ppm)
 
 **Storage sanitation:**
+
 - Shock treatment (heavy chlorination) when filling tanks
 - Regular tank inspection and cleaning (annually)
 - Never mix old and new water without treatment
@@ -385,18 +425,21 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 ### Tank Types
 
 **Integral tanks** (built into hull)
+
 - Largest capacity
 - Fixed location
 - Requires careful cleaning
 - Typically stainless steel, aluminum, or plastic
 
 **Flexible bladders**
+
 - Use odd spaces (under berths, etc.)
 - Easy to add capacity
 - Can be removed for cleaning
 - Vetus, Nauta, Plastimo brands
 
 **Jerry cans / rigid containers**
+
 - Portable
 - Easy to clean/replace
 - Versatile
@@ -404,6 +447,7 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 - Can be positioned for trim
 
 **Combination approach (best):**
+
 - Integral tanks: Primary storage (50-70% of capacity)
 - Bladders: Additional storage (20-30%)
 - Jerry cans: Emergency reserves, flexibility (10-20%)
@@ -411,16 +455,19 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 ### Tank Management
 
 **Separate systems:**
+
 - Drinking water (highest quality)
 - Washing water (lower quality acceptable)
 - Saltwater (deck wash, initial cleaning)
 
 **Rotation:**
+
 - Use oldest water first
 - Refill regularly (don't let tanks go stale)
 - Date jerry cans
 
 **Monitoring:**
+
 - Tank level gauges (critical to know supply)
 - Redundant measurement (dipsticks, sight tubes)
 - Daily log of consumption and production
@@ -432,48 +479,56 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 ### Example: 60-Day Autonomy Plan
 
 **Family of 4:**
+
 - Consumption: 30 L/day (basic comfort)
-- 60 days × 30 L = 1,800 L total
+- 60 days x 30 L = 1,800 L total
 
 **Strategy:**
+
 - **Storage**: 900 L (30 days in tanks/containers)
 - **Production**: Watermaker (30 L/day average)
 - **Backup**: Rain catchment (supplement during rainy periods)
 - **Emergency**: 60 L emergency rations
 
 **Daily routine:**
+
 - Produce: 30 L via watermaker (or rainwater if available)
 - Consume: 30 L
 - Storage maintained at 900 L (reserve)
 
 **If watermaker fails:**
+
 - Switch to rain catchment + rationing
-- 900 L reserve ÷ 15 L/day (rationed) = 60 days to find solution
+- 900 L reserve / 15 L/day (rationed) = 60 days to find solution
 - Deploy contingency methods (solar still, manual desalinator)
 
 ---
 
 ## Monitoring and Maintenance
 
-### Daily:
+### Daily
+
 - Check water levels
 - Log consumption
 - Produce water as needed
 - Inspect active system (watermaker or catchment)
 
-### Weekly:
+### Weekly
+
 - Test water quality (taste, visual)
 - Inspect tanks and containers
 - Check for leaks
 - Clean filters if in use
 
-### Monthly:
+### Monthly
+
 - Sanitize one tank (rotating schedule)
 - Replace watermaker pre-filters
 - Check spare parts inventory
 - Review consumption patterns
 
-### Quarterly:
+### Quarterly
+
 - Full system audit
 - Test alternate and contingency systems
 - Drill: operate for 48 hours on Alternate system only
@@ -507,7 +562,8 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 
 ## System Readiness Checklist
 
-### Primary (Watermaker):
+### Primary (Watermaker)
+
 - [ ] Watermaker installed and operational
 - [ ] Spare pre-filters (10+ sets)
 - [ ] Spare membrane (1-2)
@@ -517,7 +573,8 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 - [ ] Family trained in operation and basic maintenance
 - [ ] Tested within last 30 days
 
-### Alternate (Rain Catchment):
+### Alternate (Rain Catchment)
+
 - [ ] Catchment method identified and tested
 - [ ] Collection hoses and fittings ready
 - [ ] Filtration system (sediment + carbon minimum)
@@ -525,14 +582,16 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 - [ ] Procedure documented
 - [ ] Tested within last 90 days
 
-### Contingency (Solar Still / Manual):
+### Contingency (Solar Still / Manual)
+
 - [ ] Solar still aboard (commercial or materials for DIY)
 - [ ] Manual desalinator aboard and tested
 - [ ] Family practiced with manual operation
 - [ ] Maintenance supplies for contingency gear
 - [ ] Tested within last 6 months
 
-### Emergency (Stored Rations):
+### Emergency (Stored Rations)
+
 - [ ] 30+ days emergency water rations stored
 - [ ] Multiple locations (redundancy)
 - [ ] Expiration dates tracked
@@ -540,15 +599,16 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 - [ ] Rationing protocol documented
 - [ ] Family briefed on emergency procedures
 
-### Overall System:
-- [ ] Total storage ≥ 30 days consumption
+### Overall System
+
+- [ ] Total storage >= 30 days consumption
 - [ ] Water monitoring and logging system
 - [ ] Consumption patterns understood
 - [ ] Quality testing capability
 - [ ] Tank cleaning schedule maintained
 - [ ] All family members understand system
 
-**Status:** ☐ Not started ☐ Partial ☐ Full P.A.C.E. implemented
+**Status:** [ ] Not started [ ] Partial [ ] Full P.A.C.E. implemented
 
 ---
 
@@ -568,4 +628,4 @@ When all production methods fail, rely on pre-positioned emergency rations and s
 
 ---
 
-[← Part II Overview](README.md) | [Next: Food Systems →](06-food-systems.md)
+[<- Part II Overview](README.md) | [Next: Food Systems ->](06-food-systems.md)
