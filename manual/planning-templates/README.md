@@ -2,11 +2,78 @@
 
 ## Overview
 
-These templates provide structured formats for planning, tracking, and documenting your survival preparations. Copy and customize them for your family's specific needs.
+These templates provide structured formats for planning, tracking, and documenting your survival preparations. All templates have been consolidated from Appendix D and are now production-ready. Copy and customize them for your family's specific needs.
+
+## Template Status
+
+✅ **All 13 templates are now READY TO USE** (as of November 2025)
 
 ## Template Library
 
-### [P.A.C.E. Planning Template](pace-planning-template.md) ✅ READY
+### Operational Templates
+
+#### [Daily Log Template](daily-log-template.md) ✅ READY
+
+Comprehensive daily operational record for the vessel.
+
+**Use for:**
+
+- Recording position and navigation
+- Weather observations
+- Vessel status monitoring
+- Crew welfare tracking
+- Threat assessment continuity
+- Legal documentation
+
+---
+
+#### [Watch Schedule Template](watch-schedule-template.md) ✅ READY
+
+Organizes crew watch rotations for passages.
+
+**Use for:**
+
+- Assigning watch periods
+- Balancing crew workload
+- Managing fatigue
+- Ensuring 24/7 coverage
+- Coordinating special duties
+
+---
+
+#### [Inventory Tracking](inventory-tracking.md) ✅ READY
+
+Track quantities, expiration dates, and consumption rates of critical supplies.
+
+**Use for:**
+
+- Food provisions management
+- Water system supplies
+- Medical supplies tracking
+- Spare parts inventory
+- Fuel monitoring
+- Consumption analysis
+- Resupply planning
+
+---
+
+#### [Maintenance Schedule Template](maintenance-schedule-template.md) ✅ READY
+
+Track preventive maintenance, service intervals, and completed work.
+
+**Use for:**
+
+- Engine service tracking
+- System maintenance planning
+- Parts replacement scheduling
+- Work history documentation
+- Cost tracking
+
+---
+
+### Planning Templates
+
+#### [P.A.C.E. Planning Template](pace-planning-template.md) ✅ READY
 
 Structured format for creating P.A.C.E. plans for any system. Use this to develop Primary, Alternate, Contingency, and Emergency solutions for all critical needs.
 
@@ -22,134 +89,38 @@ Structured format for creating P.A.C.E. plans for any system. Use this to develo
 
 ---
 
-### [System Audit Checklist](system-audit-checklist.md) ⚠️ DRAFT
+#### [Passage Planning Template](passage-planning-template.md) ✅ READY
 
-Comprehensive checklist for quarterly system reviews.
+Complete passage planning from departure to destination.
 
-**Includes:**
+**Use for:**
 
-- Hull and structure
-- Rigging and sails
-- Engine and mechanical
-- Electrical systems
-- Plumbing and water
-- Navigation equipment
-- Communication gear
-- Safety equipment
-- Provisions and supplies
-- Medical inventory
+- Route planning and waypoints
+- Weather window analysis
+- Provisioning calculations
+- Crew assignments
+- Communication schedules
+- Emergency contingencies
+- Float plan documentation
 
 ---
 
-### [Drill Report Template](drill-report-template.md) ⚠️ DRAFT
-
-Standard format for documenting drills and training exercises.
-
-**Sections:**
-
-- Drill type and date
-- Participants
-- Scenario description
-- Performance observations
-- What worked well
-- What needs improvement
-- Skills requiring additional practice
-- Equipment issues identified
-- Plan updates required
-- Next drill scheduled
-
----
-
-### [Inventory Tracking](inventory-tracking.md) ⚠️ DRAFT
-
-Spreadsheet-style templates for tracking consumables and supplies.
-
-**Includes:**
-
-- Food provisions (with expiration dates)
-- Water system supplies (filters, membranes, etc.)
-- Medical supplies (with expirations)
-- Spare parts
-- Fuel and consumables
-- Barter goods
-
----
-
-### [Threat Assessment Worksheet](threat-assessment-worksheet.md) ⚠️ DRAFT
-
-Monthly threat monitoring and level determination.
-
-**Sections:**
-
-- Current date and location
-- Economic indicators review
-- Civil stability indicators
-- Climate/weather events
-- Geopolitical developments
-- Threat level determination
-- Action items based on level
-- Next review date
-
----
-
-### [Destination Dossier Template](destination-dossier-template.md) ⚠️ DRAFT
+#### [Destination Dossier Template](destination-dossier-template.md) ✅ READY
 
 Comprehensive research format for potential safe harbors.
 
-**Sections:**
+**Use for:**
 
-- Location and coordinates
-- Approach and anchoring
-- Climate and weather
-- Resources (water, food, fuel)
-- Social and cultural environment
-- Legal and immigration
-- Security assessment
-- Scenario suitability (economic, civil, climate, war)
-- Communications availability
-- Medical facilities
-- Departure routes
-- Notes and contacts
+- Location research
+- Resource availability assessment
+- Security evaluation
+- Legal/immigration requirements
+- Scenario suitability analysis
+- Contact network building
 
 ---
 
-### [Family Emergency Plan](family-emergency-plan-template.md) ⚠️ DRAFT
-
-Custom plan for your family's specific needs and scenarios.
-
-**Sections:**
-
-- Family roster (names, ages, skills, medical needs)
-- Emergency roles and responsibilities
-- Communication protocols (internal and external)
-- Rally points and meeting procedures
-- Evacuation triggers and destinations
-- Critical contacts
-- Important documents and locations
-- Special considerations (children, elderly, pets)
-
----
-
-### [Passage Planning Form](passage-planning-template.md) ⚠️ DRAFT
-
-Standard format for planning ocean passages.
-
-**Sections:**
-
-- Departure and destination
-- Distance and estimated duration
-- Weather window analysis
-- Route and waypoints
-- Hazards and considerations
-- Provisioning requirements
-- Crew assignments and watch schedule
-- Communication plan
-- Emergency contingencies
-- Departure checklist
-
----
-
-### [Scenario Response Worksheet](scenario-response-worksheet.md) ✅ READY
+#### [Scenario Response Worksheet](scenario-response-worksheet.md) ✅ READY
 
 Comprehensive planning worksheet for each collapse scenario (economic, civil unrest, climate, war, pandemic, etc.).
 
@@ -161,33 +132,164 @@ Comprehensive planning worksheet for each collapse scenario (economic, civil unr
 - Creating decision trees for key choices
 - Tracking drill results and lessons learned
 
-**Sections:**
+---
 
-- Threat recognition and monitoring
-- Destination selection (primary and alternates)
-- System prioritization for this scenario
-- Timeline and phases (immediate, short, medium, long-term)
-- Scenario-specific supplies and costs
-- Family roles and responsibilities
-- Decision trees (when to depart, when to resupply, when to seek help)
-- Communications plan
-- Children and family considerations
-- Scenario overlap planning
-- Drills and testing log
-- Budget summary
+### Safety Templates
+
+#### [System Audit Checklist](system-audit-checklist.md) ✅ READY
+
+Comprehensive checklist for regular system inspections.
+
+**Use for:**
+
+- Weekly quick checks
+- Monthly detailed inspections
+- Quarterly comprehensive audits
+- Pre-departure readiness
+- Insurance documentation
+- Identifying maintenance needs
 
 ---
 
+#### [Drill Report Template](drill-report-template.md) ✅ READY
+
+Standard format for documenting drills and training exercises.
+
+**Use for:**
+
+- Fire drill documentation
+- Abandon ship exercises
+- Man overboard practice
+- Medical emergency drills
+- Security scenarios
+- Performance tracking
+- Identifying improvements
+
+---
+
+#### [Threat Assessment Worksheet](threat-assessment-worksheet.md) ✅ READY
+
+Systematic evaluation of potential threats across all scenarios.
+
+**Use for:**
+
+- Daily threat monitoring
+- Scenario indicator tracking
+- Readiness status determination
+- Departure decision support
+- Trend analysis
+- Information source evaluation
+
+---
+
+### Medical Templates
+
+#### [Medical Record Template](medical-record-template.md) ✅ READY
+
+Document medical events, treatments, and health status.
+
+**Use for:**
+
+- Illness documentation
+- Injury recording
+- Treatment tracking
+- Medication administration
+- Vital signs monitoring
+- Telemedicine consultations
+- Evacuation decisions
+
+---
+
+### Administrative Templates
+
+#### [Family Emergency Plan Template](family-emergency-plan-template.md) ✅ READY
+
+Document roles, responsibilities, and procedures for family members during emergencies.
+
+**Use for:**
+
+- Family member capabilities
+- Emergency activation criteria
+- Communication protocols
+- Rally points and evacuation
+- Scenario-specific roles
+- Children's needs planning
+- Document organization
+- Training and drill tracking
+
+---
+
+## Template Categories Summary
+
+| Category | Templates | Primary Focus |
+|----------|-----------|---------------|
+| **Operational** | 4 | Day-to-day vessel and crew management |
+| **Planning** | 4 | Strategic preparation and destination planning |
+| **Safety** | 3 | System monitoring and emergency preparedness |
+| **Medical** | 1 | Health tracking and medical documentation |
+| **Administrative** | 1 | Family coordination and emergency response |
+
 ## Using Templates
+
+### Best Practices
 
 1. **Copy, don't modify originals**: Keep blank templates for future use
 2. **Customize for your family**: Add/remove sections as needed
 3. **Digital + Paper**: Maintain both electronic and printed copies
-4. **Regular updates**: Review and revise at least quarterly
+4. **Regular updates**: Review and revise per template frequency guidelines
 5. **Easy access**: Keep working documents readily available
 6. **Version control**: Date all completed templates
 7. **Archive old versions**: Track changes and improvements over time
 
+### Storage Recommendations
+
+**Physical Storage:**
+
+- Waterproof document case for active templates
+- Fireproof safe for critical originals
+- Working copies in navigation station
+- Emergency copies in go-bags
+
+**Digital Storage:**
+
+- Cloud backup for all templates
+- USB drives in multiple locations
+- Email copies to trusted contacts
+- Regular backup schedule
+
+### Integration with Manual
+
+These templates support and implement the concepts from:
+
+- Chapter 2: P.A.C.E. Planning Methodology
+- Chapter 3: Threat Assessment
+- Chapter 4: Safe Harbor Evaluation
+- Appendix A: Navigation Resources
+- Appendix B: Checklists
+- Appendix C: Scenarios
+
+## Quick Reference: "I Need To..."
+
+| Task | Template to Use |
+|------|----------------|
+| Plan a passage | Passage Planning Template |
+| Track daily operations | Daily Log Template |
+| Monitor threats | Threat Assessment Worksheet |
+| Inspect the vessel | System Audit Checklist |
+| Research a destination | Destination Dossier Template |
+| Create redundancy | P.A.C.E. Planning Template |
+| Plan for scenarios | Scenario Response Worksheet |
+| Organize family response | Family Emergency Plan Template |
+| Document a drill | Drill Report Template |
+| Track supplies | Inventory Tracking |
+| Schedule maintenance | Maintenance Schedule Template |
+| Assign watches | Watch Schedule Template |
+| Record medical events | Medical Record Template |
+
+## Recent Updates
+
+**November 2025:** All templates extracted from Appendix D and converted to production-ready status. Two new templates created (System Audit Checklist and Family Emergency Plan). Appendix D converted to template index/catalog.
+
 ---
 
-[← Appendices](../appendices/README.md) | [Main Manual](../README.md)
+[← Appendices](../appendices/README.md) | [Main Manual](../README.md) | [Template Index (Appendix D)](../appendices/D-document-templates.md)
